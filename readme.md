@@ -1,11 +1,23 @@
 # NOMES TECNICOS DE EQUIPAMENTOS E PRODUTOS ANVISA
 
-#### ESTE DOCUMENTO É REDIGIDO POR MARCOS MÉNDEZ / KIMENZ.COM
+#### Este documento é redigido e editado por MARCOS MÉNDEZ, sysadmin em KIMENZ.COM
+
+Antes de usar as referências aqui citadas consultar a licença de uso deste documento. 
+
+Este docuemento está sendo produzido de maneira aberta e colaborativa afim de melhorar a gestão da **ENGENHARIA CLINICA HOSPITALAR** pela comunidade de profissionmais de saúde que não possuem referências claras dos riscos associados a equipamentos, suas classes e/ou importância no parque hospitalar do **SUS**
+
+Esta lista é um [FORK da API DE CONSULTAS da ANVISA](https://github.com/kimenz/../../../nomes_tecnicos_produto_saude.xls) que no atual momento se encontra INCOMPLETA
 
 
-Antes de usar as referências aqui citadas consultar a licença de uso deste documento. Este docuemento está sendo produzido de maneira aberta e colaborativa afim de melhorar a gestão da ENG CLINICA HOSPITALAR pela comunidade de profissionmais de saúde que não possuem referências claras dos riscos associados a equipamentos, suas classes e/ou importância no parque hospitalar do SUS
+Este repositório visa corrigir:
 
-ESTA LISTA É UM FORK DA API DE CONSULTAS DA ANVISA que se encontra INCOMPLETA
+- Produtos misturados com Equipamentos e misturados na mesma lista com consumiveis ( Proteses/Autoclaves/e Abaixador de Lingua no mesma lista :pinched_fingers: )
+
+- Ausência do tipo de risco associado alguns equipamentos/produtos :exploding_head:
+
+- Vinculação dos CÓDIGOS com produtos e REGISTROS em API a ser desenhada a futuro 
+
+- Remodelar alguns nomes que são essenciais e são tratados de maneira por-menor
 
 Para contribuir abra uma PR
 Para dúvidas e sugestões abra uma ISSUE
