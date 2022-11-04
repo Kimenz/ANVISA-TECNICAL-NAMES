@@ -19,6 +19,12 @@ Este repositório visa corrigir:
 
 - Remodelar alguns nomes que são essenciais e são tratados de maneira por-menor
 
+- Separação do Tipo de produto em 3 categorias: Equipamento | Material Consumível | Proteses ou Implementáveis
+
+- Adicionar descrições técnicas e objetivas aos objetos da lista
+
+- Remover itens futeis e ou desnecessários para a gestão de ENG Clínica
+
 Para contribuir abra uma PR
 Para dúvidas e sugestões abra uma ISSUE
 
