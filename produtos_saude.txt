@@ -1,0 +1,1602 @@
+Nome Técnico	Código	Descrição	Tipo de Produto	Classe de Risco Vinculada
+Abaixador de Lingua	1151050		Equipamento ou Material	I
+Abre-Boca	1151060		Equipamento ou Material	I
+Absorvente de CO2	2501025		Equipamento ou Material	-
+ABSORVENTE ODONTOLÓGICO	1151091		Equipamento ou Material	I
+Absorventes Cirurgicos	2501010		Equipamento ou Material	-
+Acelerador Linear	1332020		Equipamento ou Material	-
+Acessório de Acetábulo para artroplastia de quadril	2700021		Equipamento ou Material	-
+ACESSÓRIO PARA AMNIOSCÓPIO	1511062		Equipamento ou Material	I
+Acessório para componentes femorais - artroplastia de joelho 	2700034		Equipamento ou Material	-
+Acessório para componentes tibiais - artroplastia de joelho	2700033		Equipamento ou Material	-
+Acessorio Para Estetica Dental	2101462		Equipamento ou Material	-
+Acessórios para Cirurgia Oftalmológica	2502006		Equipamento ou Material	-
+Acessorios Para Endoscopia	2501023		Equipamento ou Material	-
+Acessorios Para Esterilizacao de Produtos	2501720		Equipamento ou Material	-
+ACESSÓRIOS PARA LAVADORA DESINFECTORA	1571253		Equipamento ou Material	-
+Acessórios para Mesa Cirúrgica	1551051		Equipamento ou Material	-
+Acessorios para Ostomia	2501021		Equipamento ou Material	-
+Acessorios Para Radiocirurgia	2501970		Equipamento ou Material	-
+Acessórios para Radiologia	2502003		Equipamento ou Material	-
+Acessorios Proteticos e Ortopedicos Externos	2501020		Equipamento ou Material	-
+Acessórios radiológicos	1399001		Equipamento ou Material	-
+Adaptador de Agulha	2501065		Equipamento ou Material	-
+Adaptadores	2501066		Equipamento ou Material	-
+Adaptadores Para Canula	2501075		Equipamento ou Material	-
+Adesivo Odontologico	2101011		Equipamento ou Material	-
+Adesivo Para Selagem de Materiais	2501033		Equipamento ou Material	-
+Adesivos Cirurgicos	2501030		Equipamento ou Material	-
+Adesivos Para Dentadura	2101010		Equipamento ou Material	-
+Afastador Cirurgico Odontologico	1151024		Equipamento ou Material	I
+Afastador Gengival	2101265		Equipamento ou Material	-
+Afastador/Aproximador Cirurgico	1551080		Equipamento ou Material	-
+Agente de Adesão/Silanização	2101020		Equipamento ou Material	-
+Agente de Obturacao Provisoria	2109001		Equipamento ou Material	-
+Agente Inibidor da Carie Dental	2101255		Equipamento ou Material	-
+Agentes Cimentantes	2109290		Equipamento ou Material	-
+Agentes Clareadores Dentais	2101392		Equipamento ou Material	-
+Agitador e Homogeneizador	1671010		Equipamento ou Material	-
+Agulha de Fistula	2501115		Equipamento ou Material	-
+Agulha de Infusão descartável	2501051		Equipamento ou Material	-
+Agulha Para Acupuntura	2501041		Equipamento ou Material	-
+AGULHA PARA BIÓPSIA	2501047		Equipamento ou Material	-
+Agulhas	2501040		Equipamento ou Material	-
+Agulhas Descartaveis	2501050		Equipamento ou Material	-
+Agulhas Gengivais Descartaveis	2101030		Equipamento ou Material	-
+Agulhas Para Sutura	2501060		Equipamento ou Material	-
+Alavanca Odontologica	1151070		Equipamento ou Material	-
+Alca de Polipectomia	1551333		Equipamento ou Material	-
+Alca de Resseccao	2501870		Equipamento ou Material	-
+Alcas Para Endoscopia	1511445		Equipamento ou Material	-
+Algodao	2501070		Equipamento ou Material	-
+Alicate	1551090		Equipamento ou Material	-
+Alicates Ortodonticos	2101355		Equipamento ou Material	-
+Almofada	1530001		Equipamento ou Material	-
+Almofadas Terapeuticas	2501080		Equipamento ou Material	-
+ALMOFADAS TÉRMICAS TERAPÊUTICAS 	2501079		Equipamento ou Material	-
+Amálgama Encapsulado	2101420		Equipamento ou Material	-
+Amnioscopio	1511061		Equipamento ou Material	-
+Ampola de Raios-X	1391015		Equipamento ou Material	-
+Analisador de Aparelho Auditivo	1531047		Equipamento ou Material	-
+ANALISADOR DE FERTILIDADE POR TEMPERATURA	1511360		Equipamento ou Material	-
+Analisador de Fluxo Ventilatorio	1511260		Equipamento ou Material	-
+Analisador de Gases Respiratorios	1511180		Equipamento ou Material	-
+Analisador de MARCAPASSO implantável, intra-operatório	9000132	Instrumento electrónico destinado a testar um marcapasso, incluindo a interface fio condutor/tecido, na altura da implantação, tendo em vista a sua avaliação invasiva, e/ou durante procedimentos de diagnóstico electrofisiológico (EF). Possui funcionalidades de análise e registo para determinar a quantidade mínima de estímulos eléctricos necessários para produzir uma contracção ventricular e a amplitude mínima dos sinais intracardíacos necessária para inibir o marcapasso (ou seja, limiares de estimulação e de sensibilidade, respectivamente). Geralmente inclui dispositivos de medição dos sinais bioeléctricos, um gerador de impulsos, controladores e a funcionalidade que permite testar as características e o desempenho do marcapasso implantado.	Equipamento ou Material	-
+Analisador de Oxigenio	1511020		Equipamento ou Material	-
+Analisador de Oximetria e Capnografia	1519991		Equipamento ou Material	-
+Analisador de Percentual de Gordura	2809075		Equipamento ou Material	-
+Analisador de Potenciais Evocados	1511380		Equipamento ou Material	-
+ANALISADOR RADIOGRÁFICO DE AMOSTRAS DE BIOPSIA	1311046		Equipamento ou Material	-
+Analisador Scheimpflug para oftalmologia	1519603		Equipamento ou Material	-
+ÂNCORA	9000032	Dispositivos projetados para ajudar a prender e/ou estabilizar parte da anatomia [por exemplo, vários tecidos moles (ligamentos)], materiais de ligação cirúrgicos (por exemplo, malha, suturas), ou outros dispositivos (por exemplo, dentaduras ou instrumentos) no corpo.	Equipamento ou Material	-
+Andador	1531260		Equipamento ou Material	-
+Anel Craniano Para Esteretaxia	1551025		Equipamento ou Material	-
+Anel de Ferrara	2701460		Equipamento ou Material	-
+Anel Elastico Para Ortodontia	2101172		Equipamento ou Material	-
+Anel Para Anuloplastia	2701010		Equipamento ou Material	-
+Anti-séptico bucal	2101467		Equipamento ou Material	-
+ANTI-SÉPTICO PARA USO EM FERIDAS	2502061		Equipamento ou Material	-
+Antisseptico para Preparos de Cavidades	2101393		Equipamento ou Material	-
+Anuscopio	1511437		Equipamento ou Material	-
+Aparelho a Laser Para Diagnóstico Odontológico	1111010		Equipamento ou Material	-
+Aparelho a Laser Para Diagnostico Oftalmologico	1519110		Equipamento ou Material	-
+Aparelho a Laser para Tratamento Médico e Odontológico	1111013		Equipamento ou Material	-
+Aparelho a Laser Para Tratamento Odontologico	1111012		Equipamento ou Material	-
+Aparelho a Laser Para Tratamento Oftalmológico	1111011		Equipamento ou Material	-
+Aparelho Auditivo	1531045		Equipamento ou Material	-
+Aparelho Auditivo com Transmissor para Implante Coclear	1531043		Equipamento ou Material	-
+APARELHO AUDITIVO COM TRANSMISSOR PARA IMPLANTE OSSEO	1531049		Equipamento ou Material	-
+Aparelho auditivo de condução óssea, usado na cabeça	9000157	Um dispositivo acústico externo, alimentado eletricamente, destinado a compensar a deficiência auditiva transmitindo vibrações, a partir de ondas sonoras transduzidas, através do crânio até o ouvido interno. Normalmente incorpora um microfone, amplificador e vibrador montado ou magneticamente conectado a um dispositivo de cabeça (por exemplo, faixa de cabeça ou óculos); pode incluir dispositivos de posicionamento e proteção. O microfone recebe ondas sonoras e as converte em sinais elétricos enviados ao vibrador, que transmite as vibrações, normalmente através do osso da mastoide, para os ouvidos internos para audição. Este dispositivo é normalmente usado para tratar deficiência auditiva devido a patologias obstrutivas do ouvido médio e / ou externo.	Equipamento ou Material	-
+Aparelho Auxiliar para Locomoção de portadores de deficiência física	1571033		Equipamento ou Material	-
+Aparelho de Acupuntura	1511485		Equipamento ou Material	-
+Aparelho de Anestesia	1551010		Equipamento ou Material	-
+Aparelho de Fototerapia para Tratamento de Acne 	1531042		Equipamento ou Material	-
+Aparelho de Hidromassagem	2809015		Equipamento ou Material	-
+Aparelho de Infravermelho	2809070		Equipamento ou Material	-
+Aparelho de Jato	1171030		Equipamento ou Material	-
+APARELHO DE LIMPEZA/DESINFECÇÃO DE ENDOSCÓPIO DIGESTIVO	1571066		Equipamento ou Material	-
+Aparelho de Multiplo Uso em Estetica	2809001		Equipamento ou Material	-
+APARELHO DE RADIOFREQUENCIA PARA ESTÉTICA	2809009		Equipamento ou Material	-
+Aparelho de Raio-X Odontologico Panoramico	1311042		Equipamento ou Material	-
+Aparelho de Raios X Odontologico	1311040		Equipamento ou Material	-
+Aparelho de Succao de Baixa Potencia	1171050		Equipamento ou Material	-
+Aparelho de Ultra-Som	1311010		Equipamento ou Material	-
+Aparelho de Ultra-Som Para Densitometria Ossea	1311016		Equipamento ou Material	-
+Aparelho de Ultra-Som para Oftalmologia	1311014		Equipamento ou Material	-
+Aparelho de Ultra-Som Para Terapia	1531015		Equipamento ou Material	-
+Aparelho Destruidor e Inutilizador	1571045		Equipamento ou Material	-
+Aparelho Fixo para Raio-X	1311055		Equipamento ou Material	-
+aparelho gerador de ruido auditivo	1531044		Equipamento ou Material	-
+Aparelho Insuflador de CO2	1531030		Equipamento ou Material	-
+Aparelho Movel Para Raio X	1311050		Equipamento ou Material	-
+Aparelho P/ Movimentacao/Transferencia de Paciente	1571050		Equipamento ou Material	-
+Aparelho P/Limpeza de Instrumental por Ultrasom	1571060		Equipamento ou Material	-
+Aparelho P/Limpeza e Desinfeccao de Instrumental	1571061		Equipamento ou Material	-
+Aparelho Para Densitometria Ossea	1311070		Equipamento ou Material	-
+Aparelho para Diatermia	1531280		Equipamento ou Material	-
+Aparelho para Disfluência Verbal	1531046		Equipamento ou Material	-
+Aparelho Para Eletrochoque	1531020		Equipamento ou Material	-
+Aparelho Para Ergonometria	1511120		Equipamento ou Material	-
+Aparelho Para Fisioterapia	1531080		Equipamento ou Material	-
+Aparelho para Fisioterapia Por Ondas Curtas	1531081		Equipamento ou Material	-
+Aparelho para Fototerapia	1531040		Equipamento ou Material	-
+Aparelho Para Hemodialise	1531090		Equipamento ou Material	-
+Aparelho para Hidromassagem por Imersao	1531270		Equipamento ou Material	-
+Aparelho Para Iontoforese	1531310		Equipamento ou Material	-
+Aparelho Para Limpeza de Endoscopio	1571065		Equipamento ou Material	-
+Aparelho para Mamografia	1311030		Equipamento ou Material	-
+Aparelho para Massagem Mecanoterapica	2809085		Equipamento ou Material	-
+Aparelho para Medicao de Radionuclideos	1311170		Equipamento ou Material	-
+Aparelho Para Movimentacoes de Dentes	2101145		Equipamento ou Material	-
+Aparelho Para Nebulizacao de Medicamentos	2501035		Equipamento ou Material	-
+Aparelho Para Ordenha de Leite Materno	1571150		Equipamento ou Material	-
+Aparelho para Peeling	2809051		Equipamento ou Material	-
+Aparelho Para Perfuracao e Colocacao de Brincos	2501946		Equipamento ou Material	-
+Aparelho para Polimerizacao de Resinas	1171070		Equipamento ou Material	-
+APARELHO PARA RESFRIAMENTO EM TRATAMENTOS DERMATOLÓGICOS	1331077		Equipamento ou Material	-
+Aparelho para Separacao de Celulas	1671550		Equipamento ou Material	-
+APARELHO PARA TATUAGEM/MAQUIAGEM DEFINITIVA	2501447		Equipamento ou Material	-
+Aparelho para testes audiometricos	1511282		Equipamento ou Material	-
+Aparelho para Tracao Cervical	1531010		Equipamento ou Material	-
+Aparelho Para Tracao Ortopedica	1531250		Equipamento ou Material	-
+APARELHO PARA VISUALIZAÇÃO DE VEIAS	1671139		Equipamento ou Material	-
+Aparelho Utilizado em Laborat.de Protese Dental	1179990		Equipamento ou Material	-
+Aplicador de Amalgama	1151080		Equipamento ou Material	-
+APLICADOR DE CLIPS PARA TECIDO	9000033	Instrumentos cirúrgicos destinados à fixação manual de clips nos tecidos do corpo.	Equipamento ou Material	-
+APLICADOR DE CLIPS PARA TECIDO E DISPOSITIVOS ASSOCIADOS	9000034	Instrumentos cirúrgicos destinados à fixação manual de clips nos tecidos do corpo; e dispositivos associados.	Equipamento ou Material	-
+Aplicador e Misturador de Cimento Ortopedico	1551630		Equipamento ou Material	-
+Aplicadores	2501112		Equipamento ou Material	-
+Aquecedor	1531050		Equipamento ou Material	-
+AQUECEDOR DE FILTRO PARA VENTILAÇÃO MECÂNICA 	2501389		Equipamento ou Material	-
+Aquecedor de Fluidos	1551105		Equipamento ou Material	-
+Aquecedor Endodontico para Gutta Percha	1171298		Equipamento ou Material	-
+Arco Cirurgico	1311026		Equipamento ou Material	-
+Articulador Odontologico	1171176		Equipamento ou Material	-
+Artigo Para Fisioterapia Motora	2501925		Equipamento ou Material	-
+Artigo Para Radioprotecao	2301090		Equipamento ou Material	-
+Artigos e Materiais Para Fertilizacao In Vitro	2501995		Equipamento ou Material	-
+Artigos Odontologicos Abrasivos	2101060		Equipamento ou Material	-
+Artroscopio	1511680		Equipamento ou Material	-
+Aspirador	1551020		Equipamento ou Material	-
+Aspirador Cirurgico	1551115		Equipamento ou Material	-
+Aspirador Cirurgico Manual	1551120		Equipamento ou Material	-
+Aspirador de Fluidos Fisiologicos	1571170		Equipamento ou Material	-
+Assento Pneumatico	1530005		Equipamento ou Material	-
+Ataduras	2501110		Equipamento ou Material	-
+Audiometro	1511280		Equipamento ou Material	-
+Auto Matrizes de Aco Inoxidavel	2101023		Equipamento ou Material	-
+Autoclave	1571010		Equipamento ou Material	-
+Avental de Chumbo	2301060		Equipamento ou Material	-
+Balao	2501151		Equipamento ou Material	-
+Balão Intra-órtico	2501193		Equipamento ou Material	-
+Balao Intragastrico	2701005		Equipamento ou Material	-
+Balao Para Oclusao Vascular	2501155		Equipamento ou Material	-
+Balao Retrator de Orgao	2501145		Equipamento ou Material	-
+Baloes Dilatadores	2501150		Equipamento ou Material	-
+Banda Gastrica	2701450		Equipamento ou Material	-
+Bandagem	2501141		Equipamento ou Material	-
+Bandas Ortodônticas	2101050		Equipamento ou Material	-
+Banho-Maria para Implantes	1671021		Equipamento ou Material	-
+Barra Paralela Para Fisioterapia	1531265		Equipamento ou Material	-
+Barreira Anti-Adesao	2701012		Equipamento ou Material	-
+BARREIRA CONTRA ANTÍGENOS	2701013		Equipamento ou Material	-
+Barreira Gengival Fotopolimerizavel	2101402		Equipamento ou Material	-
+Bengalas	2501171		Equipamento ou Material	-
+Berco Aquecido	1531115		Equipamento ou Material	-
+Berco Hospitalar	1771050		Equipamento ou Material	-
+Bicicleta Ergometrica para avaliação clínica	1530003		Equipamento ou Material	-
+BICO PARA MAMADEIRA	1179995		Equipamento ou Material	-
+bilirrubinômetro transcutâneo	9000114	Um instrumento portátil não invasivo, alimentado por bateria, portátil, destinado a medir os níveis transcutâneos de bilirrubina (TCB), para prever níveis séricos totais de bilirrubina (TSB) em um recém-nascido. Ele dirige um feixe de luz para a pele do recém-nascido, geralmente na testa, esterno ou ouvido, e mede a intensidade de vários comprimentos de onda (tipicamente 2 ou mais) que são refletidos no tecido subcutâneo do recém-nascido. Estes sinais ópticos são processados (tipicamente por uma fotocélula e microprocessador) para dar um valor TCB e / ou TSB. Ele é usado principalmente para triagem de hiperbilirrubinemia. 	Equipamento ou Material	-
+Biomateriais para Enxertos e Preenchimentos	2109250		Equipamento ou Material	-
+Bisturi a Laser	1551040		Equipamento ou Material	-
+Bisturi Cirurgico	1551035		Equipamento ou Material	-
+Bisturi Descartavel	2501116		Equipamento ou Material	-
+Bisturi Odontologico	2101398		Equipamento ou Material	-
+BOCAL PARA ESPIRÔMETRO	1511132		Equipamento ou Material	-
+Bolsa Coletora de Perna	2501169		Equipamento ou Material	-
+Bolsa de Alimentacao	2501166		Equipamento ou Material	-
+Bolsa para Coleta de Orgaos	2501163		Equipamento ou Material	-
+BOLSA PARA COLETA E CRIOPRESERVAÇÃO DE HEMODERIVADOS	2501179		Equipamento ou Material	-
+Bolsa para Colostomia	2502040		Equipamento ou Material	-
+BOLSA PARA MISTURA DE SOLUÇÃO ESTÉRIL	2501164		Equipamento ou Material	-
+Bolsa para Mistura de Solucao Parenteral	2501167		Equipamento ou Material	-
+Bolsa Para Reinfusao	2501175		Equipamento ou Material	-
+BOLSA PARA UROSTOMIA	2501161		Equipamento ou Material	-
+Bolsas Coletoras	2501160		Equipamento ou Material	-
+Bolsas de Sangue	2501165		Equipamento ou Material	-
+Bolsas Plasticas	2501168		Equipamento ou Material	-
+Bolsas(de Agua,Silicone,Gel,Gelo e Outras)	2501180		Equipamento ou Material	-
+Bomba Centrifuga	1551045		Equipamento ou Material	-
+BOMBA CENTRÍFUGA PARA SISTEMA DE DERIVAÇÃO (BY-PASS) CARDIOPULMONAR	9000001	Dispositivo acionado com eletricidade da rede (alimentação em corrente alternada - CA) destinado à circulação do sangue através do circuito extracorpóreo de um sistema de derivação (bypass) cardiopulmonar sem roletes, através de um mecanismo de força centrífuga, para a troca e reinfusão de gás. Inclui um tambor de centrifugação e canais de fluxo; a unidade de acionamento conectada ao dispositivo utiliza o magnetismo para acionar o tambor que imprime o movimento que faz circular o sangue à medida que este entra. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Bomba de Infusao	1531070		Equipamento ou Material	-
+BOMBA DE INFUSÃO DE ANESTÉSICOS PARA ODONTOLOGIA	1531068		Equipamento ou Material	-
+Bomba de Infusao Descartavel	2501865		Equipamento ou Material	-
+BOMBA DE INFUSÃO E IRRIGAÇÃO PARA ARTROSCOPIA	1511687		Equipamento ou Material	-
+BOMBA DE INFUSÃO IMPLANTAVEL	9000002	Dispositivo implantável projetado para exercer uma pressão positiva de forma a manter a administração de fluidos que são infundidas no corpo em períodos, taxas de fluxo e volume pré-determinados. 	Equipamento ou Material	-
+Bomba de Infusão Implantável	1531069		Equipamento ou Material	-
+BOMBA DE IRRIGAÇÃO PARA ARTROSCOPIA	1511686		Equipamento ou Material	-
+Bomba de Irrigação para Cirurgia	1531077		Equipamento ou Material	-
+Bomba de Leite Materno Automatica	1571025		Equipamento ou Material	-
+Bomba de sangue	2501833		Equipamento ou Material	-
+Bomba de Succao Para Retirada de Corpos Estranhos	1531210		Equipamento ou Material	-
+Bomba de Vacuo	1591010		Equipamento ou Material	-
+Bomba de Vacuo Para Estetica	2809045		Equipamento ou Material	-
+Bomba de Vácuo para Terapia/Estética	2809046		Equipamento ou Material	-
+BOMBA INTRACARDÍACA	2501834		Equipamento ou Material	-
+Bomba para Circulação Extra-Corpórea	2501832		Equipamento ou Material	-
+BOMBA PARA HISTEROSCOPIA	1539501		Equipamento ou Material	-
+Bomba para Inalação	1531076		Equipamento ou Material	-
+Bomba Para Nutricao	1531071		Equipamento ou Material	-
+Box Para Desinfeccao de Limas Endodonticas	2301050		Equipamento ou Material	-
+BRAÇADEIRA PARA APARELHO DE PRESSÃO	1771111		Equipamento ou Material	-
+Bracadeira Para Injecao	1771110		Equipamento ou Material	-
+Braquete Ortodôntico	2101318		Equipamento ou Material	-
+Broca Para Tratamento de Canal Radicular	2101455		Equipamento ou Material	-
+Brocas Cirurgicas	2501866		Equipamento ou Material	-
+Brocas Cirurgicas Odontologicas	2101075		Equipamento ou Material	-
+Brocas de Perfuracao Ossea	1551135		Equipamento ou Material	-
+Brocas Odontologicas	2101070		Equipamento ou Material	-
+Broncoscopio	1511050		Equipamento ou Material	-
+Broqueiro	1171024		Equipamento ou Material	-
+Cabeça metálica para artroplastia total contida de ombro	2700046		Equipamento ou Material	-
+Cabeça para artroplastia de superfície de ombro	2700043		Equipamento ou Material	-
+Cabeça para artroplastia integral de ombro	2700042		Equipamento ou Material	-
+Cabo de Fibra Optica	1551590		Equipamento ou Material	-
+Cabo de Interconexão de Dispositivos Médicos (Exclusivamente Elétrico)	9000115	Um cabo elétrico isolado, sem contato com o paciente, com um conector em ambas as extremidades, projetado para transmitir energia elétrica ou sinal de dados entre dispositivos médicos (por exemplo, para conectar um eletrodo, um cateter elétrico, uma peça de mão ou um monitor para um dispositivo de comando). Não se destina a se conectar diretamente aos eletrodos usados no paciente (isto é, não é um cabo-eletrodo), não se destina a conectar-se à rede elétrica (ou seja, não é um cabo de alimentação), não gera nenhum tipo de energia ou sinal, e não possui funcionalidade adicional de condução ou processamento não-elétrica. Alguns tipos podem incluir um isolador elétrico para evitar choques elétricos. 	Equipamento ou Material	-
+Cabo de Irrigacao/Aspiracao Oftalmologico	1551415		Equipamento ou Material	-
+Cabo para Espelho	1111042		Equipamento ou Material	-
+Cabo para Laringoscopio	1501051		Equipamento ou Material	-
+Cabo-Eletrodos Implantaveis	2701020		Equipamento ou Material	-
+Cabo-Extensao Para Cateter	2501181		Equipamento ou Material	-
+CABO/ELETRODO ELETROCIRÚRGICO (Potência maior que 50W)	9000036	Terminais destinados a conduzir uma corrente elétrica, do e para o gerador eletrocirúrgico, por meio do paciente, provocando calor nos tecidos para corte, coagulação e ablação durante uma cirurgia aberta ou endoscópica. Potência de uso maior do que 50W.	Equipamento ou Material	-
+CABO/ELETRODO ELETROCIRÚRGICO (Potência menor ou igual a 50W)	9000116	Terminais destinados a conduzir uma corrente elétrica, do e para o gerador eletrocirúrgico, por meio do paciente, provocando calor nos tecidos para corte, coagulação e ablação durante uma cirurgia aberta ou endoscópica. Potência de uso menor ou igual a 50W.	Equipamento ou Material	-
+CABO/ELETRODO PARA COURO CABELUDO	9000037	Condutores elétricos destinados a serem ligados à superfície do couro cabeludo de um paciente para transmitir sinais eletrofisiológicos a um dispositivo de gravação / monitorização.	Equipamento ou Material	-
+CABO/ELETRODO PARA DESFIBRILAÇÃO ENDOCARDÍACA	9000038	Eletrodo com um fio flexível, estéril, implantável, isolado em sua extensão, exceto em suas extremidades, destinado a funcionar como um condutor  para transmitir estimulos elétricos de desfibrilação de um desfibrilador-cardioversor implantável  [desfibrilador-cardioversor automático implantável (DCAI)] para o endocárdio do ventrículo direito. Ele também pode se destinar conduzir sinais da atividade elétrica do coração para o gerador de pulsos de ressincronização cardíaca, DCAI ou outro dispositivo de eletroestimulação cardíaca. É tipicamente impregnado com um esteróide (por exemplo, dexametasona) com o propósito de eluir os tecidos  a fim de reduzir a inflamação. 	Equipamento ou Material	-
+CABO/ELETRODO PARA DESFIBRILADOR	9000039	Dispositivos projetados para transferir energia elétrica a partir de um gerador de impulsos para desfibrilar o coração (restaurar o ritmo normal) ou diminuir uma frequência de batimentos cardíacos elevados, ou para controlar batimentos cardíacos durante cirurgias cardiopulmonares.	Equipamento ou Material	-
+CABO/ELETRODO PARA ELETROCARDIÓGRAFO	9000040	Dispositivos projetados para transmitir sinais eletrofisiológicos cardíacos, normalmente a partir da superfície torácica do paciente, a dispositivos que gravam e / ou processam os sinais (por exemplo, eletrocardiógrafos vetorcardiógrafos, monitores cardíacos).	Equipamento ou Material	-
+CABO/ELETRODO PARA MARCA-PASSO	9000041	Dispositivos na forma de um fio flexível como eletrodo projetado para conduzir sinais elétricos entre um marca-passo cardíaco e o coração; pode ser totalmente implantado no corpo ou ter uma porção externa, dependendo da localização do marca-passo.	Equipamento ou Material	-
+CABO/ELETRODO PARA SISTEMA DE ESTIMULAÇÃO ELÉTRICA CEREBRAL PROFUNDA	9000035	Fio estéril com eletrodo distal, isolado ao longo do seu comprimento com material não condutivo, com a finalidade de ser implantado em áreas específicas das regiões cerebrais profundas (ex. gânglio basal) para conduzir pulsos elétricos para o tratamento de distúrbios do movimento (ex. tremor essencial, sintomas da doença de Parkinson, epilepsia, distonia), distúrbios psiquiátricos (ex. distúrbio obsessivo compulsivo, depressão, distúrbio de ansiedade) e/ou para tratar dores crônicas, severas e intratáveis. Destina-se a conduzir os pulsos elétricos a partir de um sistema gerador de pulso para estimulação elétrica cerebral profunda.	Equipamento ou Material	-
+CABO/ELETRODO PARA SISTEMA DE ESTIMULAÇÃO ELÉTRICA PARA CONTROLE DE INCONTINÊNCIA	9000042	Dispositivos destinados a criar uma ligação elétrica entre um gerador de impulsos e tecidos do corpo, para transmitir estímulos elétricos para os tecidos, principalmente para o controle da incontinência urinária e/ou fecal.	Equipamento ou Material	-
+Cabos	1551140		Equipamento ou Material	-
+Cadeira de Rodas	1571030		Equipamento ou Material	-
+Cadeira de Rodas com Acionamento Eletrico	1571031		Equipamento ou Material	-
+Cadeira de Rodas para Higienizacao	1571032		Equipamento ou Material	-
+CADEIRA DE RODAS PARA TRANSFERÊNCIA/RESGATE	1511492		Equipamento ou Material	-
+Cadeira Ginecologica	1511491		Equipamento ou Material	-
+Cadeira Oftalmica	1511490		Equipamento ou Material	-
+Cadeira Para Doador	1771030		Equipamento ou Material	-
+CADEIRA PARA EXAMES	1771032		Equipamento ou Material	I
+Cadeira para Hemodiálise	1771031		Equipamento ou Material	I
+Cadeira para Hemodialise	1171001		Equipamento ou Material	I
+CADEIRA PARA HIGIENIZAÇÃO	1571029		Equipamento ou Material	-
+Cadeiras Odontologicas	1171100		Equipamento ou Material	I
+CADEIRAS, MESAS E SUPORTES PARA PORTADOR DE NECESSIDADES ESPECIAIS	1571038		Equipamento ou Material	-
+CAGES CERVICAIS	9000078	Invólucros implantáveis de filamentos/barras rígidos destinados a ajudar a fusão dos segmentos da coluna vertebral para tratar anormalidades anatômicas das vértebras.	Equipamento ou Material	-
+CAGES PARA FUSÃO DE COLUNA	9000099	Invólucros implantáveis de filamentos/barras rígidos destinados a ajudar a fusão dos segmentos da coluna vertebral para tratar anormalidades anatômicas das vértebras.	Equipamento ou Material	-
+Calcadores Cirurgicos	1151032		Equipamento ou Material	-
+Calcanheira	2502057		Equipamento ou Material	-
+Calibrador de dose de radionuclideos (dosimetro)	1391340		Equipamento ou Material	-
+Cama Hospitalar	1771070		Equipamento ou Material	-
+Cama Motorizada	1771060		Equipamento ou Material	-
+Cama para parto	1771071		Equipamento ou Material	-
+Camara	1771025		Equipamento ou Material	-
+Camara Cintilografica (Gama Camara)	1311130		Equipamento ou Material	-
+Camara de Video para Endoscopia	1511335		Equipamento ou Material	-
+Camara Hiperbarica	1531035		Equipamento ou Material	-
+Camara Oftalmica	1511480		Equipamento ou Material	-
+Camera de Video Para Cirurgia	1551650		Equipamento ou Material	-
+Camera Intra-Oral/Extra-Oral	1111038		Equipamento ou Material	-
+CÂMERA OFTÁLMICA	1511481		Equipamento ou Material	-
+CAMERA PARA CAPTURA DE IMAGENS DA PELE PARA DERMATOLOGIA	1511276		Equipamento ou Material	-
+Campo Cirurgico	2501640		Equipamento ou Material	-
+Campo Descartavel Esteril	2501205		Equipamento ou Material	-
+Caneta para Ablacao Cirurgica	2502014		Equipamento ou Material	-
+Caneta para cirurgia oftalmologica	1551124		Equipamento ou Material	-
+Caneta Para Eletrobisturi	1551685		Equipamento ou Material	-
+Caneta para Eletrodo	2501642		Equipamento ou Material	-
+Caneta para equipamentos de facoemulsificação -oftalmologia	1551123		Equipamento ou Material	-
+CANETA PARA FIBRA OPTICA	2501643		Equipamento ou Material	-
+Caneta Para Injecao de Hormonio de Crescimento	1531355		Equipamento ou Material	-
+Caneta Para Injecao de Insulina	1531352		Equipamento ou Material	-
+CANETA PARA INJECAO DE MEDICAMENTO	1531356		Equipamento ou Material	-
+Cânula de bloqueio de nervos periféricos por ultrassom	1551151		Equipamento ou Material	-
+Canulas	2501200		Equipamento ou Material	-
+Canulas Metalicas	1551150		Equipamento ou Material	-
+Capa Estéril Para Microscópio Cirúrgico 	2502053		Equipamento ou Material	-
+Capa para Seringa Tríplice Descartável	2101466		Equipamento ou Material	-
+Capa protetora	2502012		Equipamento ou Material	-
+Capacete para Proteção Pessoal	2301061		Equipamento ou Material	-
+CÁPSULA ENDOSCÓPICA	1511749		Equipamento ou Material	-
+Captador de Tireoide	1511365		Equipamento ou Material	-
+CARBONO LÍQUIDO ODONTOLÓGICO	2101173		Equipamento ou Material	-
+Carrinho Hospitalar	1771090		Equipamento ou Material	-
+Carrinho Terapeutico	1771100		Equipamento ou Material	-
+CATETER BALÃO PARA ANGIOPLASTIA CORONÁRIA	9000005	Dispositivo projetado na forma de tubo flexível com balão em sua ponta distal destinado à angioplastia coronariana transluminal percutânea (PTCA) procedimento para dilatar ou remover áreas de estreitamento aterosclerótico em artérias coronárias através de insuflação do balão, algumas vezes, combinados com outros métodos.	Equipamento ou Material	-
+CATETER BALÃO PARA ANGIOPLASTIA PERIFÉRICA	9000003	Tubo flexível estéril utilizado em angioplastia transluminal percutânea (PTA) para dilatar uma artéria periférica (isto é, não é coronária nem cerebral) estenosada através da insuflação controlada de um ou mais balões distensíveis colocados na sua extremidade. Está disponível sob a forma de: 1) um dispositivo que é colocado sobre o fio-guia e dotado de um lúmen duplo ou triplo, um para o fio-guia e um ou dois para a insuflação do balão simples ou duplo; e 2) um dispositivo de troca rápida dotado de um lúmen simples. Está disponível em vários tamanhos para a dilatação de artérias ilíacas, femorais, poplíteas, iliofemorais, infrapoplíteas, renais e subclávias pequenas, estenosadas ou obstruídas. Alguns modelos podem incluir lâminas microcirúrgicas (aterótomos), que efetuam incisões na placa. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+CATETER BALÃO PARA SISTEMA DE TERAPIA UTERINA	1331074		Equipamento ou Material	-
+Cateter com Porta Para Infusao	2701445		Equipamento ou Material	-
+Cateter de artéria pulmonar	9000117	Tubo flexível, com um balão inflável na sua extremidade distal, projetado para medir as pressões da artéria pulmonar (e pressões relacionadas). É introduzido por via percutânea no sistema venoso (via veia basílica, veia jugular interna ou subclávia) e conduzido pelo fluxo sanguíneo da veia cava superior para a artéria pulmonar, onde é usado para fornecer medidas simultâneas de pressões no átrio direito, ventrículo direito, artéria pulmonar e pressão de enchimento (pressão de oclusão) do átrio esquerdo; determinação de débito cardíaco por termodiluição; e infundir soluções. Também pode ser conhecido como cateter de Swan-Ganz. Pode ainda medir os níveis de saturação venosa mista de oxigênio (SvO2) quando conectado a um monitor de paciente oximétrico adequado. Este é um dispositivo de uso único.Equipamento ou Material	-
+Cateter de electrofisiologia cardíaca, de uso único	9000134	Tubo fino e flexível que contém múltiplos eléctrodos e é, geralmente, orientável, destinado a ser introduzido percutaneamente nas câmaras cardíacas de modo a transmitir impulsos eléctricos para a realização de exames electrofisiológicos de diagnóstico, p. ex. de monitorização intracardíaca, registo endocárdico, estimulação, pacing temporário para avaliação de arritmias, cardioversão eléctrica (CV) de arritmias ou mapeamento electrofisiológico (EF) de estruturas cardíacas. Geralmente é feito de plástico e possui eléctrodos integrados, frequentemente feitos de platina, de irídio ou de um material compósito. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Cateter de sistema de tomografia de coerência óptica coronariana	9000152	Tubo estéril flexível, com uma extremidade de trabalho extremamente fina que aloja uma lente de fibra óptica para a obtenção de imagens, que é introduzido por via transcutânea nos vasos coronários para a realização de uma tomografia de coerência óptica (TCO) coronária. A extremidade proximal do dispositivo é ligada a uma consola de TCO coronária para a transmissão de imagens de alta resolução (p. ex. 5 a 40 micra) do interior dos vasos coronários. É geralmente feito de aço inoxidável, plástico e materiais ópticos. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+CATETER GUIA INTRAVASCULAR	9000006	Tubo flexível, dotado de um lúmen central, destinado a permitir a passagem e colocação transluminal percutânea de fios-guia e de dispositivos de diagnóstico/intervenção terapêutica no sistema vascular. Assim que o tubo fica posicionado, é avançado um fio-guia, seguido por um dispositivo de diagnóstico/intervenção terapêutica (p. ex. um cateter com balão de dilatação, um sistema de colocação de stent ou um dispositivo de embolização), através do seu lúmen até ao local pretendido. A seção distal do tubo pode ter uma variedade de formatos pré-moldados (p. ex. retos, multiusos, tipo bastão de hóquei ou de dupla curva renal); possui geralmente marcas radiopacas para poder ser monitorizado por fluoroscopia. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+CATETER INTRAVASCULAR DE MICROPERFUSÃO	9000004	Tubo flexível de pequeno diâmetro destinado à perfusão controlada de agentes/fluidos (p. ex. agentes trombolíticos, meios de contraste para diagnóstico) em pequenos vasos super seletivos (incluindo os dos sistemas neurovascular, vascular periférico ou vascular coronário) para fins de angiografia e tratamento, bem como à colocação de dispositivos embólicos em locais anatómicos tortuosos ou super seletivos. Também denominado cateter de perfusão contínua, pode incluir um transdutor de ultrassons, um sensor térmico e um orifício na extremidade distal para a colocação de um fio-guia. É geralmente utilizado com um sistema de microperfusão que fornece a energia necessária à sua aplicação. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+cateter para infusão subcutanea	2701705		Equipamento ou Material	-
+CATETER PARA SISTEMA DE ABLACAO CARDIACA POR RADIOFREQUENCIA	9000110	Um cateter esteril, flexivel e orientavel destinado a ser usado como parte de um sistema de ablacao cardiaca de radiofrequencia para aplicar a corrente alternada de radiofrequencia as areas abladas do endocardio de um coracao vencedor no tratamento de arritmias cardiacas; normalmente tambem se destina a transmitir impulsos de estimulacao eletrica e respostas eletricas do coracao para o mapeamento eletrofisiologico (EP). Destina-se a ser introduzido no coracao atraves do acesso venoso (por exemplo, veia femoral) e pode conter eletrodos de ablacao monopolar e / ou bipolar. Este e um dispositivo de uso unico. 	Equipamento ou Material	-
+Cateter Urinario Externo de Uso Masculino	2501191		Equipamento ou Material	-
+Cateteres	2501190		Equipamento ou Material	-
+CATÉTERES NEUROLÓGICOS E DISPOSITIVOS ASSOCIADOS	9000079	Dispositivos projetados em formato de tubos flexíveis destinados a acessar parte do sistema neurológico, muitas vezes sob endoscópica ou fluoroscópica visão, para fins de diagnóstico ou terapêuticos, e dispositivos com os quais interagem.	Equipamento ou Material	-
+Cauterizador Odontologico	2101224		Equipamento ou Material	-
+Central de Monitorizacao de Pacientes	1541063		Equipamento ou Material	-
+Central de Monitorizacao de Sinais Vitais	2700001		Equipamento ou Material	-
+Central de Monitorizacao de Sinais Vitais	1511064		Equipamento ou Material	-
+Central de Processamento de Imagens Médicas 	1311013		Equipamento ou Material	-
+Central de Processamento de Imagens Radiologicas	1311012		Equipamento ou Material	-
+Centrifuga para Sangue	1671041		Equipamento ou Material	-
+Centro de Controle de Sala Cirurgica	1551660		Equipamento ou Material	-
+Ceramica Fosfocalcica	2701089		Equipamento ou Material	-
+Ceras Odontologicas	2101080		Equipamento ou Material	-
+Cesto Coletor de Calculos	1551205		Equipamento ou Material	-
+Cesto endoscopico para remoção de calculos	2501192		Equipamento ou Material	-
+Chassis Radiograficos	1391010		Equipamento ou Material	-
+Chaves Para Fixacao	1551160		Equipamento ou Material	-
+CHUPETA PARA PREMATURO	1179996		Equipamento ou Material	-
+Cicatrizador Para Implante e Suporte Dentario	2101021		Equipamento ou Material	-
+Cilindro de Fusão Vertebral	2709906		Equipamento ou Material	-
+Cimento de Ionômero de Vidro	2101435		Equipamento ou Material	-
+CIMENTO ORTOPÉDICO, COM MEDICAMENTO	9000064	Substância utilizada em procedimentos artoplásticos para a fixação de implantes protéticos poliméricos ou metálicos num osso vivo e/ou para preencher espaços vazios no caso de patologias ósseas, e para o tratamento de próteses articulares infectadas ou osteomielite; ele também pode ser usado profilaticamente na revisão de artroplastia total do joelho primária ou não infectado. É geralmente feito de metacrilato de metilo, polimetacrilato de metilo (PMMA), ésteres de ácido metacrílico ou copolímeros contendo polimetacrilato de metilo e poliestireno, e contém agentes antibióticos. Depois de ser usado, este dispositivo não pode ser reutilizado.	Equipamento ou Material	-
+CIMENTO ORTOPÉDICO, SEM MEDICAMENTO	9000065	Substância utilizada em procedimentos artoplásticos para a fixação de implantes protéticos poliméricos ou metálicos num osso vivo. Pode também ser utilizado como enchimento em caso de patologias ósseas. É geralmente feito de metacrilato de metilo, polimetacrilato de metilo (PMMA), ésteres de ácido metacrílico ou copolímeros contendo polimetacrilato de metilo e poliestireno. Não contém agentes antibióticos. Depois de ser usado, este dispositivo não pode ser reutilizado.	Equipamento ou Material	-
+Cimentos Odontologicos	2101090		Equipamento ou Material	-
+Cintas	2501223		Equipamento ou Material	-
+Cintas Ortopedicas	2501222		Equipamento ou Material	-
+Cinto para Ostomia	2501735		Equipamento ou Material	-
+Cinzeis	1551220		Equipamento ou Material	-
+Cinzel Odontologico	2101027		Equipamento ou Material	-
+Circuito de CPAP	1531146		Equipamento ou Material	-
+Circuito para Anestesia	1551165		Equipamento ou Material	-
+Circuitos Respiratorios	2501512		Equipamento ou Material	-
+Cistitimo	2501943		Equipamento ou Material	-
+CLIP  PARA  ANEURISMA	9000043	Dispositivo estéril, feito de metal, que é permanentemente implantado em torno de um aneurisma (dilatação em forma de balão num vaso sanguíneo) para isola-lo do restante vaso sanguíneo, oclui-lo e evitar que sangre e/ou rompa. Apresenta-se geralmente sob a forma de uma mola helicoidal em formato de alfa, com lâminas que abrem como maxilares, e um aplicador específico para a sua colocação no aneurisma. Está disponível em diversos tamanhos; as lâminas podem ser retas ou curvas. Destina-se geralmente ao tratamento de aneurismas intracranianos; pode também ser utilizado para prevenir hemorragias em pequenos vasos.	Equipamento ou Material	-
+Clip Cirurgico com Aplicador	1551111		Equipamento ou Material	-
+CLIP PARA TECIDO	9000044	Dispositivos aplicados aos vasos, pele ou outros tecidos do corpo geralmente para ligações (por exemplo, para conseguir a hemostasia) ou reparações.	Equipamento ou Material	-
+Coagulador	1551175		Equipamento ou Material	-
+Cola Cirurgica	2501935		Equipamento ou Material	-
+Colar Cervical	2501221		Equipamento ou Material	-
+Colchao Hospitalar	1771080		Equipamento ou Material	-
+Colete Ortopedico	2501218		Equipamento ou Material	-
+Coletores	2501220		Equipamento ou Material	-
+Colimador Luminoso: Multilaminas	1391250		Equipamento ou Material	-
+Colposcopio	1511060		Equipamento ou Material	-
+Compômero	2101351		Equipamento ou Material	-
+COMPÔMERO PARA RESTAURAÇÃO ODONTOLÓGICA	2101314		Equipamento ou Material	-
+Componente de artroplastia de superfície do úmero - cotovelo	2700056		Equipamento ou Material	-
+Componente glenóideo monobloco para artroplastia de ombro	2700048		Equipamento ou Material	-
+Componente glenóideo para artroplastia de ombro	2700045		Equipamento ou Material	-
+Componente radial para artroplastia de cotovelo	2700054		Equipamento ou Material	-
+COMPONENTES ACETABULARES	9000066	Principal componente implantável de uma prótese total do quadril (componente acetabular) projetado para substituir ou reparar o acetábulo.	Equipamento ou Material	-
+COMPONENTES DE CABEÇA FEMORAIS	9000067	Substituto artificial implantável para a cabeça de fêmur doente ou lesionada.	Equipamento ou Material	-
+COMPONENTES DE CABEÇA UMERAIS	9000068	Dispositivo implantável concebido como substituto artificial para a cabeça do úmero doente ou lesionado.	Equipamento ou Material	-
+Componentes de Implante Odontologico	2101397		Equipamento ou Material	-
+Componentes de Metal Simples/Multiplos	2701040		Equipamento ou Material	-
+Componentes de Orteses e Proteses Externas	2501560		Equipamento ou Material	-
+COMPONENTES FEMORAIS - HASTES	9000069	Dispositivos implantáveis projetados para substituir o colo do fémur como parte de uma artroplastia total do quadril ou durante a revisão de uma prótese de quadril.	Equipamento ou Material	-
+COMPONENTES FEMORAIS NÃO MODULARES PARA ARTICULAÇÃO DO QUADRIL 	9000070	Principal componente implantável de uma prótese total de quadril (componente femoral) projetado para substituir ou reparar as cabeça e colo femorais como parte de uma artroplastia total do quadril, ou durante a revisão de uma prótese de quadril.	Equipamento ou Material	-
+COMPONENTES FEMORAIS PARA ARTICULAÇÃO DE JOELHO	9000071	Dispositivos implantáveis concebidos para substituir os côndilos femorais (componentes femorais) durante a restauração do côndilo da articulação do joelho ou para substituir uma prótese de articulação do joelho defeituosa (revisão).	Equipamento ou Material	-
+COMPONENTES FEMORAIS UNICONDILARES PARA ARTICULAÇÃO DE JOELHO 	9000072	Dispositivos implantáveis concebidos para substituir a superfície de apoio de um côndilo femoral (componentes femorais) durante a restauração unicodiliana primária ou de revisão da articulação do joelho.	Equipamento ou Material	-
+Componentes Para Ortodontia	2100008		Equipamento ou Material	-
+Componentes Para Ortodontia	2101008		Equipamento ou Material	-
+Componentes para Protese Dentaria	2101012		Equipamento ou Material	-
+COMPONENTES PATELARES	9000080	Dispositivos concebidos como patelas artificiais do joelho (componentes patelares) implantados durante a substituição da articulação bicondiliana do joelho, primária ou de revisão.	Equipamento ou Material	-
+COMPONENTES TIBIAIS PARA ARTICULAÇÃO DE JOELHO	9000073	Dispositivos implantáveis concebidos para substituir os côndilos tibiais (componentes tibiais) durante a restauração bicondiliana da articulação do joelho ou para substituir uma prótese de articulação do joelho defeituosa (revisão).	Equipamento ou Material	-
+COMPONENTES TIBIAIS UNICONDILARES PARA ARTICULAÇÃO DE JOELHO	9000074	Dispositivos implantáveis concebidos para substituir a superfície de apoio de um côndilo tibial (componentes tibiais) durante a restauração unicodiliana primária ou de revisão da articulação do joelho.	Equipamento ou Material	-
+Compressa Absorvente Para Neurocirurgia	2509901		Equipamento ou Material	-
+Compressa para Curativo	2501231		Equipamento ou Material	-
+Compressas	2501230		Equipamento ou Material	-
+Comprimidos e Solucoes Oftalmicas	2501240		Equipamento ou Material	-
+Concentrador de Oxigenio	1571040		Equipamento ou Material	-
+Condicionadores Acidos	2109240		Equipamento ou Material	-
+Conduto	2701465		Equipamento ou Material	-
+Conector com Luer	2501185		Equipamento ou Material	-
+Conectores e Conexoes	2501250		Equipamento ou Material	-
+Cones de Papel Absorvente Odontologico	2101100		Equipamento ou Material	-
+Cones Para Obturacao de Canal	2101110		Equipamento ou Material	-
+Cones Vaginais	2501960		Equipamento ou Material	-
+Conjunto de Bloqueador Endobronquico	2501196		Equipamento ou Material	-
+Conjunto de Cricotirotomia	2502000		Equipamento ou Material	-
+Conjunto de medição de pressão intra-abdominal eletrônico	9000119	Uma coleção de dispositivos estéreis destinados a medir eletronicamente a pressão intra-abdominal (PIA) através da bexiga. Normalmente inclui um transdutor de pressão eletrônico, uma seringa, uma tubulação, conectores e uma bolsa de coleta de urina. O dispositivo montado é conectado a um cateter uretral de demora (Foley), a solução salina é infundida na bexiga e a IAP é medida pelo transdutor e exibida e alimentada por um monitor conectado por fio. É tipicamente usado em pacientes com risco de hipertensão intra-abdominal (IAH), por exemplo, após cirurgia / trauma abdominal. Este é um dispositivo de um único paciente que pode ser reaplicado ao paciente por um curto período (uso único) antes de ser descartado.	Equipamento ou Material	-
+Conjunto de Medidores para Protese Valvar	2501346		Equipamento ou Material	-
+Conjunto de perfusão para conservação/transporte de fígado para transplante¿	9000162	Conjunto estéril de instrumentos, tubos e outros artigos necessários para o suporte e a perfusão hipotérmica contínua de um fígado doado durante a sua conservação e transporte num sistema de conservação/transporte de órgãos de dadores de fígado desde o local de doação até ao hospital onde o órgão será transplantado no receptor. Consiste geralmente num circuito de perfusão, numa cânula para a ligação dos vasos apropriados do fígado, em acopladores para ligar várias cânulas, instrumentos, panos cirúrgicos e luvas. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+CONJUNTO DE VESTIMENTA CIRÚRGICA, CAMPO CIRÚRGICO	2501182		Equipamento ou Material	-
+CONJUNTO DE VESTIMENTA CIRÚRGICA, CAMPO CIRÚRGICO E COMPRESSA DE GAZE	2501183		Equipamento ou Material	-
+Conjunto P/Cirurgia de Implantes Osseointegrado	2101375		Equipamento ou Material	-
+Conjunto Para Administracao de Radio-Aerosol	1511013		Equipamento ou Material	-
+CONJUNTO PARA ADMINISTRAÇÃO INTRAVENOSA OU INTRAVASCULAR (IV)	1511014		Equipamento ou Material	-
+Conjunto Para Anestesia	2501215		Equipamento ou Material	-
+Conjunto para circulação extracorporea	2502611		Equipamento ou Material	-
+Conjunto Para Dilatacao Uretral	2501315		Equipamento ou Material	-
+Conjunto para Drenagem	2501316		Equipamento ou Material	-
+Conjunto para Fixacao Cirurgica	2501184		Equipamento ou Material	-
+Conjunto para Introducao de Protese Biliar	2501235		Equipamento ou Material	-
+Conjunto Para Nefrostomia	2501345		Equipamento ou Material	-
+Conjunto para Processamento de Plasma	2501347		Equipamento ou Material	-
+Conjunto Radiologico Fixo	1311060		Equipamento ou Material	-
+Consultorio Odontologico	1179900		Equipamento ou Material	-
+Consumo Medico-Hospitalar	2500000		Equipamento ou Material	-
+Consumo Odontologico	2100000		Equipamento ou Material	-
+CONTADOR DE GOTAS PARA DOSAGEM DE MEDICAMENTOS	1511141		Equipamento ou Material	-
+CONTADOR GAMA AUTOMÁTICO	1671405		Equipamento ou Material	-
+Contra Angulo Redutor	1179901		Equipamento ou Material	-
+Controlador de Infeccao Tratamento Endodontico	2100001		Equipamento ou Material	-
+Controlador de Infusao	1551680		Equipamento ou Material	-
+Controlador eletronico de fluxo	1511139		Equipamento ou Material	-
+Controlador para Micromotor Eletrico	1551535		Equipamento ou Material	-
+COPEPTINA	42926		Equipamento ou Material	-
+Coroas Dentais	2101120		Equipamento ou Material	-
+CORRETOR DE MAMILOS INVERTIDOS	2501581		Equipamento ou Material	-
+Cortador	1551197		Equipamento ou Material	-
+Cortador de Gesso	1571210		Equipamento ou Material	-
+CPAP	1531145		Equipamento ou Material	-
+CPAP de Nivel Duplo	1531385		Equipamento ou Material	-
+Craniotomos	1551190		Equipamento ou Material	-
+Creme Adesivo de Longa Duracao Para Dentadura	2109215		Equipamento ou Material	-
+CREME PARA SEIOS	2501492		Equipamento ou Material	-
+Criostato	1671535		Equipamento ou Material	-
+Criostato Para Banco de Tecidos	1671495		Equipamento ou Material	-
+Cunha Odontologica	2101015		Equipamento ou Material	-
+Curativo	2501255		Equipamento ou Material	-
+CURATIVO OFTALMOLÓGICO	1551682		Equipamento ou Material	-
+Cureta	1551195		Equipamento ou Material	-
+Cureta Alveolar	2101066		Equipamento ou Material	-
+Cureta Periodontal	2101395		Equipamento ou Material	-
+Debridador	2501728		Equipamento ou Material	-
+Demarcador de Pele	2501630		Equipamento ou Material	-
+Densitometro	1671060		Equipamento ou Material	-
+Dentes Artificiais	2101130		Equipamento ou Material	-
+Dermatomo	1531350		Equipamento ou Material	-
+Dermatoscopio	1511505		Equipamento ou Material	-
+Descoladores	1551200		Equipamento ou Material	-
+Descongelador de Plasma	1571146		Equipamento ou Material	-
+DESFIBRILADOR AUTOMÁTICO / SEMI-AUTOMÁTICO EXTERNO	1531161		Equipamento ou Material	-
+DESFIBRILADOR IMPLANTÁVEL DE CÂMARA DUPLA	9000007	Gerador de pulsos herméticamente selado, estéril, implantável, alimentado à bateria,  com sistema de reconhecimento de ritmo cardíaco destinado a coletar e analisar dados do eletrocardiograma (ECG) e aplicar impulsos elétricos apropriados à desfibrilação cardíaca (restabelecer o ritmo normal) ou reverter quadros de frequencia cardíaca elevada e reestabelecer o ritmo cardíaco nos casos de bradicaardia. É implantado numa bolsa sob a pele do tórax ou abdomem  do paciente, para ser utilizado com condutores posicionados no interior do átrio esquerdo e do ventrículo direito para monitorar o ECG e para, automaticamente, fornecer estímulos elétricos ao coração. É normalmente conhecido como desfiblilador-cardioversor automático implantável (DCAI)	Equipamento ou Material	-
+DESFIBRILADOR IMPLANTÁVEL DE CÂMARA ÚNICA	9000008	Gerador de pulsos estéril implantável, com sistema de reconhecimento do ritmo cardíaco para analisar o eletrocardiograma (ECG) com o propósito de forncer impulsos elétricos para desfibrilar o coração (reestabelecer ritmo normal) ou reverter quadros de frequencia cardíaca elevada, assim como, reduzir a frequencia cardíaca .  É implantado numa bolsa sob a pele do tórax ou abdomem  do paciente,  para ser utilizado com condutores posicionados no interior ou sobre uma câmara cardíaca (tipicamente ventrículo direito) para monitorar o ECG e, automaticamente, fornecer estímulos elétricos. Possui baterias internas que forncem a energia para as descargas.  É normalmente conhecido como desfiblilador-cardioversor automático implantável (DCAI) 	Equipamento ou Material	-
+DESFIBRILADOR IMPLANTÁVEL PARA TERAPIA DE RESSINCRONIZAÇÃO CARDÍACA	9000009	Dispositivo alimentado à bateria interna, estéril, implantável, composto por um gerador de pulsos de marcapasso herméticamente selado e um gerador de pulso para desfibrilação integrados, com cabos que conduzem os estímulos ao ventrículo direito, à veia coronária e, tambem possível, ao átrio direito (tripla câmera). Adicionalmente às funções convencionais de marcapasso e desfibrilador, o dispositivo é destinado à terapia de ressincronização cardíaca (TRC) através da estimulação elétrica biventricular para sincronizar as contrações dos ventrículos esquerdo e direito para o bombeamento mais efetivo do sangue a fim de tratar sintomas de falhas cardíacas )p.ex. dificuldade na respiração e sensação de fadiga), assim como graves problemas de itmo cardíaco. VER LINHA 3	Equipamento ou Material	-
+Detector de raios-x de painel plano indireto 	9000129	Dispositivo portátil, alimentado por bateria, compatível com cassete convencional, que se destina a ser usado como parte de um sistema de raio-x visando a detecção de imagens após a exposição, e criar um sinal digital. Não é dedicado à imagens de uma anatomia específica. Ele inclui duas etapas de transdução de tecnologia (isto é, indireto): uma tela de cintilador como, por exemplo, iodeto de césio (Csl), que converte a energia dos raios-X em luz, seguindo-se à conversão de luz em um sinal digital por arranjo de fotodiodos. Os dados de imagem podem ser enviados para uma unidade de processamento adequada através de uma ligação com fios ou sem fios (por exemplo, Wi-Fi). Ele pode ser usado no lugar de um detector fixo em sistemas de imagem de raios-x. 	Equipamento ou Material	-
+Dialisadores	2501260		Equipamento ou Material	-
+Diapasao	2501261		Equipamento ou Material	-
+Digitalizador de Imagens Radiograficas	1319900		Equipamento ou Material	-
+Dilatador Nasal	2501275		Equipamento ou Material	-
+Dilatador Para Cateter	2501245		Equipamento ou Material	-
+Dilatador Vascular	2501276		Equipamento ou Material	-
+Dilatadores	1551210		Equipamento ou Material	-
+Dilatadores	2501273		Equipamento ou Material	-
+Dilatadores Esofagicos	2501274		Equipamento ou Material	-
+Dinamometro Para Ortopedia	1511690		Equipamento ou Material	-
+Dique de Borracha Odontologico	2101140		Equipamento ou Material	-
+Disco Cirurgico	2501087		Equipamento ou Material	-
+Disco de Feltro para Acabamento e Polimento 	2101151		Equipamento ou Material	-
+DISCO DE LIXA PARA ACABAMENTO E POLIMENTO 	2101389		Equipamento ou Material	-
+Discos de Borracha Odontologicos	2101150		Equipamento ou Material	-
+Discos Diamantados	2101396		Equipamento ou Material	-
+DISPENSADOR DE CIMENTO ORTOPÉDICO	9000045	Dispositivo em forma de seringa destinado a ser utilizado na colocação de cimento ortopédico em locais submetidos a cirurgia. Os dispensadores de cimento podem ser manuseados manualmente ou adaptados a uma unidade motorizada que aciona o pistão no interior da seringa. Trata-se de um dispositivo de uso único. 	Equipamento ou Material	-
+Dispositivo de ajuste de válvula para hidrocefalia	2701311		Equipamento ou Material	-
+Dispositivo de alimentação enteral por balão	2501152		Equipamento ou Material	-
+Dispositivo de Assistencia Ventricular	1531295		Equipamento ou Material	-
+Dispositivo de Embolizacao Artificial	2501293		Equipamento ou Material	-
+Dispositivo de Extracao de Calculos	2501292		Equipamento ou Material	-
+Dispositivo de Fio Dental de Jato de Água	9000126	Um dispositivo elétrico destinado a fornecer um jato de água de alta pressão para o uso do fio dental (remoção de placa e / ou detritos entre os dentes) usando uma peça de mão dedicada. 	Equipamento ou Material	-
+Dispositivo de Tração Cutânea	1531331		Equipamento ou Material	-
+Dispositivo Implantável para Incontinência Urinária	1531220		Equipamento ou Material	-
+Dispositivo Mecanico P/Ret.Estab.Protese Total	2101009		Equipamento ou Material	-
+Dispositivo médico sob medida	9000128	Um dispositivo médico que se destina, exclusivamente, ao uso por um indivíduo em particular, fabricado especificamente de acordo com a prescrição de um profissional de saúde habilitado, que confere características específicas de projeto sob sua responsabilidade, mesmo que o projeto possa ser desenvolvido em conjunto com o fabricante. Tal produto se destina a atender uma patologia ou condição anátomo-fisiológica específica de um indivíduo em particular.	Equipamento ou Material	-
+DISPOSITIVO ORAL PARA REDUÇÃO DA CAPACIDADE DE MORDIDA	1531024		Equipamento ou Material	-
+Dispositivo P/Teste da Sindrome Apneia do Sono	2501965		Equipamento ou Material	-
+DISPOSITIVO PARA ABLAÇÃO CIRÚRGICA 	2502016		Equipamento ou Material	-
+Dispositivo para acionamento de equipamentos medicos	1559902		Equipamento ou Material	-
+Dispositivo Para Anastomose	2501945		Equipamento ou Material	-
+Dispositivo Para Auto Exame	2501830		Equipamento ou Material	-
+Dispositivo Para Biopsia	1511175		Equipamento ou Material	-
+Dispositivo Para Disseccao	1551155		Equipamento ou Material	-
+Dispositivo para dosagem manual de medicamentos	1671272		Equipamento ou Material	-
+Dispositivo Para Fixacao de Cateter	2501955		Equipamento ou Material	-
+Dispositivo para Fixacao Maxilar	1551170		Equipamento ou Material	-
+Dispositivo Para Fobia de Agulha	2501295		Equipamento ou Material	-
+Dispositivo para implantação de lentes intra oculares	1559501		Equipamento ou Material	-
+Dispositivo para Inalação com Pó Seco	2502048		Equipamento ou Material	-
+Dispositivo para Inalação com Pó Seco	2502047		Equipamento ou Material	-
+Dispositivo para Incisão	2501623		Equipamento ou Material	-
+DISPOSITIVO PARA INFUSÃO	2701706		Equipamento ou Material	-
+Dispositivo para Medicao Lacrimal	2501286		Equipamento ou Material	-
+DISPOSITIVO PARA MONITORAMENTO DA DIURESE	1511144		Equipamento ou Material	-
+DISPOSITIVO PARA NEUROCIRURGIA	1551606		Equipamento ou Material	-
+dispositivo para proteção embolica	2701189		Equipamento ou Material	-
+DISPOSITIVO PARA REMOÇÃO DE COÁGULOS	1511174		Equipamento ou Material	-
+Dispositivo para Remocao de Eletrodo	2501195		Equipamento ou Material	-
+Dispositivo para Retracao Automatica de Cateter	1511185		Equipamento ou Material	-
+DISPOSITIVO PARA TRANSPORTE PEDIÁTRICO	1571284		Equipamento ou Material	-
+Dispositivos Intra-Uterinos	2501270		Equipamento ou Material	-
+Dispositivos Para Contracepcao Feminina	2501280		Equipamento ou Material	-
+Dispositivos Para Fonoaudiologia	1531025		Equipamento ou Material	-
+Dispositivos Para Incontinencia Urinaria	2501290		Equipamento ou Material	-
+Dissectores	1551215		Equipamento ou Material	-
+Distalizador de Molares	2101379		Equipamento ou Material	-
+Distrator Odontologico	1151038		Equipamento ou Material	-
+Distrator Odontologico Implantavel	2701404		Equipamento ou Material	-
+Distrator Osseo	2501299		Equipamento ou Material	-
+Dosador	2501265		Equipamento ou Material	-
+Drenos	2501300		Equipamento ou Material	-
+Ducha Ginecologica	2501301		Equipamento ou Material	-
+Ecrans	1391040		Equipamento ou Material	-
+EDTA	2101121		Equipamento ou Material	-
+Elasticos Ortodonticos	2101136		Equipamento ou Material	-
+Elemento de Trabalho	1551095		Equipamento ou Material	-
+Eletrocardiografo	1511080		Equipamento ou Material	-
+Eletrodo analgésico para estimulação elétrica da medula espinhal	1591051	Um eletrodo que aplica um estímulo elétrico a toda ou parte da medula espinhal para aliviar a dor (analgesia). Inclui um sistema de eletrodo / eletrodo implantado localizado no espaço epidural da medula espinhal ligado a um circuito eletrônico passivo implantado no qual os sinais e / ou energia são indutivamente acoplados de fora do corpo, ou a um sistema autocontido totalmente implantável que carrega sua própria fonte de energia e não tem dependência inerente de dispositivos externos. É usado para tratar a dor intratável aguda e / ou crônica, onde o uso de terapia medicamentosa é indesejável ou não mais eficaz. 	Equipamento ou Material	-
+ELETRODO CUTÂNEO ANALÍTICO	9000106	Um condutor elétrico não estéril projetado para ser acoplado à superfície da pele de um paciente para conduzir sinais elétricos para um dispositivo pai para gravação / monitoramento eletrofisiológico [por exemplo, eletromiografia (EMG) , Potenciais evocados (EP), estudo de condução nervosa (NCS), impedância bioelétrica]; Não é primariamente destinado a eletrocardiografia diagnóstica (ECG) ou eletroencefalografia (EEG). Geralmente consiste em uma pequena aba retangular ou copo / disco com uma superfície condutora projetada para ser conectada a um cabo. Este é um dispositivo de paciente único que pode ser reaplicado ao paciente em um curto prazo (uso único) antes de ser descartado. 	Equipamento ou Material	-
+ELETRODO DE AGULHA SUBDÉRMICO	9000107	Condutor elétrico estéril multiusos que é inserido sob a camada dérmica da pele do paciente para registar/monitorizar a atividade elétrica (biopotenciais) com vista à realização de medições fisiológicas [geralmente eletroencefalográficas (EEG), eletromiográficas (EMG) e de potencais evocados) e também para estimulação elétrica. Consiste geralmente num cabo delgado de aço inoxidável ligado a um fio condutor cuja extremidade distal está dotada de um conector de segurança para fixação a sistemas de registro/monitorização e estimulação. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+ELETRODO DE ATERRAMENTO PARA ELETROMIOGRAFIA	1591061		Equipamento ou Material	-
+Eletrodo de estimulação cerebral profunda	2901016	Um condutor elétrico destinado a ser colocado temporariamente (<30 dias) abaixo da superfície do cérebro para estimular o cérebro ou registrar a atividade elétrica do cérebro (com localização mais precisa do que um eletrodo no couro cabeludo). Normalmente, é um dispositivo plástico fino e flexível conectado a fios que transportam correntes de estruturas cerebrais profundas e superficiais. Os fios são conectados a dispositivos de gravação, monitoramento ou estimulação / resposta [por exemplo, eletroencefalógrafo (EEG), gravador de potencial evocado, estimulador]. O implante é particularmente útil na determinação do local de origem na epilepsia do lobo temporal e frontal. Este é um dispositivo de uso único.	Equipamento ou Material	-
+Eletrodo de estimulação elétrica transcutânea 	9000118	Condutor elétrico não estéril destinado a ser conectado à pele de um paciente (não invasivo) para fornecer estímulos elétricos terapêuticos através da superfície corporal [por exemplo, estimulação elétrica nervosa transcutânea (TENS), estimulação elétrica muscular, estimulação de eletroterapia cranial (CES)]. É tipicamente um eletrodo ("pad") condutor, plano e flexível com um adesivo (por exemplo, gel), ou uma forma / mecanismo projetado para conexão a uma parte do corpo particular (por exemplo, clipe de orelha), e ligado a um fio condutor. dispositivo de uso único.	Equipamento ou Material	-
+eletrodo de referência para sistema de mapeamento cardíaco	1591052	Componente de um sistema de mapeamento cardíaco que é um dispositivo adesivo colocado na superfície do corpo de um paciente, normalmente no tórax e / ou nas costas, para fornecer um ponto de referência fixo para a ponta de um cateter interno não fluoroscópico durante um exame eletrofisiológico e mapeamento eletromecânico em tempo real do coração. Pode conter um sensor ou ter um sensor conectado a ele e é usado para compensar o movimento do paciente durante o procedimento. É normalmente usado com um computador com sistema de mapeamento cardíaco para ajudar na localização e navegação da ponta do cateter e para fornecer informações sobre eletrocardiograma. Este é um dispositivo de uso único.	Equipamento ou Material	-
+Eletrodo de tubo endotraqueal eletromiográfico	9000113	Uma fita elétrica condutora estéril destinada a ser anexada a um tubo endotraqueal para conduzir a atividade eletromiográfica (EMG) da musculatura da corda larí­ngea e vocal enquanto o tubo está in situ. Ele é usado para avaliar o estado dos nervos que fornecem a musculatura laríngea durante a cirurgia. Destina-se a ser conectado a um dispositivo de medição / gravação EMG apropriado, e pode ser fornecido com um eletrodo de terra. Este é um dispositivo de uso único.	Equipamento ou Material	-
+ELETRODO IMPLANTÁVEL DE PROFUNDIDADE	9000081	Condutor elétrico implantado, temporariamente (menos que 30 dias), sob a superfície do cérebro do paciente com a finalidade de estimulação ou registo de sua atividade elétrica  (com localização mais precisa do que um eléctrodo de escalpe). É tipicamente um fino dispositivo de plástico flexível ligado a fios que conduzem correntes de estruturas cerebrais profundas e superficiais. Os fios são conectados a dispositivos de registro, monitoramento, ou a dispositivos de estimulação-resposta [ex., eletroencefalograma (EEG), sistema de estimulação e registrado de potencial evocado]. O implante é particularmente útil para determinar o local de origem da epilepsia nos lobos temporal ou frontal. Este é um dispositivo de uso único.	Equipamento ou Material	-
+Eletrodo para eletroretinografia	9000131	Um condutor elétrico não estéril destinado a ser aplicado adjacente ao olho para transmitir um sinal elétrico durante uma avaliação da retina do olho. É tipicamente na forma de um fio condutor colocado ao longo da pálpebra inferior em contato com o filme lacrimal e a córnea. O dispositivo geral que registra essa atividade elétrica é o eletrorretinógrafo (ERG). Este é um dispositivo de uso único. 	Equipamento ou Material	-
+Eletroencefalografo	1511090		Equipamento ou Material	-
+Eletrômetro de radiação	9000153	Um dispositivo de medição externo autônomo com um circuito de detecção que pode ser usado com diferentes sondas de câmara de íons para realizar medições de dosimetria em campos de alta radiação. Um eletrômetro normalmente inclui recursos de leitura de saída em carga, corrente, tempo, dose e taxa de dose.	Equipamento ou Material	-
+Eletromiografo	1511100		Equipamento ou Material	-
+Eletronistagmografo	1511390		Equipamento ou Material	-
+Elevador Cirurgico	1551222		Equipamento ou Material	-
+ENDOPRÓTESE (VASCULAR)	9000010	Dispositivo constituído por uma rede metálica (stent) coberto ou revestido com um tubo de polímero sintético (enxerto) destina-se a ser implantado no lúmen de uma artéria doente/danificada para a reparação ou recomposição.	Equipamento ou Material	-
+Endoprótese não convencional para membros inferiores	2700080		Equipamento ou Material	-
+Endoprótese não convencional para membros superiores	2700081		Equipamento ou Material	-
+Endoprotese Vascular	2701055		Equipamento ou Material	-
+Endoscopio Flexivel	1511110		Equipamento ou Material	-
+Endoscopio Rigido	1511115		Equipamento ou Material	-
+Enxerto Dermico Acelular	2701135		Equipamento ou Material	-
+ENXERTO PARA OSSOS E DISPOSITIVOS ASSOCIADOS	9000046	Tecidos / materiais implantados para fornecer osteogênese e/ou para a substituição estrutural óssea durante a cirurgia plástica (reconstrutiva ou estética); Também estão incluídos os materiais de preenchimento ósseo e de regeneração óssea, e outros dispositivos associados.	Equipamento ou Material	-
+Enxertos	2701060		Equipamento ou Material	-
+Equip.Eliminador do Tartaro Supra e Sub Gengival	1171138		Equipamento ou Material	-
+Equipamento a Laser Para Litotripsia	1531395		Equipamento ou Material	-
+Equipamento a laser para oftalmologia	1559504		Equipamento ou Material	-
+Equipamento Cirurgico	1551616		Equipamento ou Material	-
+Equipamento Cirurgico de Alta Frequencia	1551600		Equipamento ou Material	-
+Equipamento Cirurgico de Alta Frequencia por Ultra-Som	1551602		Equipamento ou Material	-
+Equipamento Cirurgico para Discectomia	1551642		Equipamento ou Material	-
+Equipamento Cirúrgico para Oftalmologia	1559503		Equipamento ou Material	-
+Equipamento Cirurgico Para Ortopedia	1551615		Equipamento ou Material	-
+Equipamento de AF para Terapia	1331041		Equipamento ou Material	-
+Equipamento de Avaliacao Postural	1511235		Equipamento ou Material	-
+Equipamento de Biopsia da Mama	1311022		Equipamento ou Material	-
+Equipamento de Diagnóstico em Neurologia	1519402		Equipamento ou Material	-
+Equipamento de Diagnóstico para Visualização	1511381		Equipamento ou Material	-
+Equipamento de Dissecacao	1551145		Equipamento ou Material	-
+Equipamento de Hemodinamica	1311032		Equipamento ou Material	-
+Equipamento de Hemodinâmica e Angiografia	1311033		Equipamento ou Material	-
+Equipamento de Ondas de Choque para Ortopedia	1531390		Equipamento ou Material	-
+EQUIPAMENTO DE ONDAS DE CHOQUE PARA TERAPIA	1531391		Equipamento ou Material	-
+Equipamento de Purificacao de Agua Para Dialise	1571215		Equipamento ou Material	-
+Equipamento de Ressonancia Magnetica	1311080		Equipamento ou Material	-
+EQUIPAMENTO DE RF PARA ABLAÇÃO	1551603		Equipamento ou Material	-
+Equipamento de RF para Terapia	1331042		Equipamento ou Material	-
+Equipamento de Suporte	1571051		Equipamento ou Material	-
+Equipamento de Tomografia Computadorizado	1311090		Equipamento ou Material	-
+Equipamento de Ultra-Som para Estetica	2809005		Equipamento ou Material	-
+Equipamento Eletromagnetico Para Terapia	1531400		Equipamento ou Material	-
+Equipamento mecânico para reabilitação locomotora	1571034		Equipamento ou Material	-
+Equipamento Oftalmologico	1571072		Equipamento ou Material	-
+Equipamento P/ Controle de Temperatura Corporal	1531095		Equipamento ou Material	-
+Equipamento p/ Profilaxia Odontológica Bicarbonato de Sódio/Ultrassom	1171022		Equipamento ou Material	-
+EQUIPAMENTO PARA ADMINISTRACAO DE RADIOFARMACO INALAVEL	1311194		Equipamento ou Material	-
+Equipamento Para Angiografia	1311100		Equipamento ou Material	-
+Equipamento para Angioplástia	1332025		Equipamento ou Material	-
+Equipamento para autotransfusão	2509992		Equipamento ou Material	-
+EQUIPAMENTO PARA AVALIAÇÃO DE ESTABILIDADE DE IMPLANTES DENTÁRIOS	1111015		Equipamento ou Material	-
+Equipamento para avaliação e fisioterapia dos músculos respiratórios	9000127		Equipamento ou Material	-
+Equipamento para Avaliação Visual	1511569		Equipamento ou Material	-
+Equipamento para Carboxiterapia	2809007		Equipamento ou Material	-
+Equipamento para Clareamento Dental	1111016		Equipamento ou Material	-
+Equipamento para Clareamento Dental e Fotopolimerização de Resinas	1111017		Equipamento ou Material	-
+Equipamento para Diagnóstico em Neurologia	1519401		Equipamento ou Material	-
+Equipamento Para Diagnostico em Proctologia	1511135		Equipamento ou Material	-
+Equipamento para Dialise Peritoneal	1531092		Equipamento ou Material	-
+Equipamento para Drenagem Linfatica	1531082		Equipamento ou Material	-
+Equipamento para Emissao Otoacustica	1519901		Equipamento ou Material	-
+Equipamento Para Fotoferese	1531055		Equipamento ou Material	-
+EQUIPAMENTO PARA FOTOPOLIMERIZAÇÃO	1111021		Equipamento ou Material	-
+Equipamento Para Manometria Esofagica	1511025		Equipamento ou Material	-
+Equipamento para manometria esofágica e anorretal	1511343		Equipamento ou Material	-
+Equipamento para Mobilização Passiva Contínua	1531083		Equipamento ou Material	-
+Equipamento para Termoterapia	1331076		Equipamento ou Material	-
+Equipamento para Tratamento de Dialises Cronicas	1531091		Equipamento ou Material	-
+EQUIPAMENTO PARA URODINÂMICA E MOTILIDADE DIGESTIVA	1511031		Equipamento ou Material	-
+Equipamento Tomografia por Emissao de Positrons	1311036		Equipamento ou Material	-
+EQUIPAMENTO TOMOGRAFIA POR EMISSAO DE POSITRONS E RESSONANCIA MAGNETICA (PET/MRI)	1311034		Equipamento ou Material	-
+EQUIPAMENTO TOMOGRAFIA POR EMISSAO DE POSITRONS E TOMOGRAFIA COMPUTADORIZADA (PET/CT)	1311035		Equipamento ou Material	-
+Equipamento Vibrador Fisioterapêutico	1531041		Equipamento ou Material	-
+Equipo Arterial	2501321		Equipamento ou Material	-
+Equipo de Transferencia	2509900		Equipamento ou Material	-
+Equipo p/ Aspirador Cirúrgico	2901015		Equipamento ou Material	-
+Equipo Para Hemodialise	2501324		Equipamento ou Material	-
+Equipo para Sangue	2501368		Equipamento ou Material	-
+Equipos	2501320		Equipamento ou Material	-
+Equipos Odontologicos e Acessorios	1171140		Equipamento ou Material	-
+Escalpes	2501330		Equipamento ou Material	-
+Escova de Limpeza e Assepsia	2501331		Equipamento ou Material	-
+Escova Odontologica Para Profilaxia	2101160		Equipamento ou Material	-
+Escova Para Procedimentos Invasivos	2501325		Equipamento ou Material	-
+Esfigmomanometro	1511240		Equipamento ou Material	-
+Esfincterotomo	1551235		Equipamento ou Material	-
+ESPAÇADOR	251015		Equipamento ou Material	-
+Espacador Endodontico	2101028		Equipamento ou Material	-
+Espacador Odontologico	2101165		Equipamento ou Material	-
+ESPAÇADOR PARA OTORRINOLARINGOLOGIA	2502036		Equipamento ou Material	-
+Esparadrapos e Fitas Adesivas	2501340		Equipamento ou Material	-
+Espatulas	1551245		Equipamento ou Material	-
+Especimetro	1551232		Equipamento ou Material	-
+Especulo Descartavel	2501350		Equipamento ou Material	-
+Especulos	1551240		Equipamento ou Material	-
+Espelho Bucal	2101029		Equipamento ou Material	-
+Espelhos	1551230		Equipamento ou Material	-
+ESPIRAL PARA EMBOLIZAÇÃO NÃO NEUROVASCULAR	9000011	Dispositivo estéril, não bioabsorvível, implantável destinado a induzir uma trombose dentro de um vaso sanguíneo não neurovascular para tratar um aneurisma e/ou uma malformação arteriovenosa (AVM); não se destina a aplicação neurovascular. Apresenta-se sob a forma de metal ou fio de polímero metal/sintético em espiral para a implantação dentro de um aneurisma ou nas proximidades de um vaso com uma malformação; é tipicamente conectado a um fio de aplicação de não implantável. Os dispositivos descartáveis associados com a implantação (por exemplo, fio de aplicação, cateter) podem ser incluídos.	Equipamento ou Material	-
+ESPIRAL PARA EMBOLIZAÇÃO NEUROVASCULAR	9000012	Dispositivo estéril, não bioabsorvível, implantável destinado a induzir uma trombose neurovascular para tratar um aneurisma cerebral ou  malformação arteriovenosa (AVM) neurovascular; pode também ser destinado para o tratamento de malformações não neurovasculares. Apresenta-se sob a forma de um metal [por exemplo, liga de platina] ou fio de polímero metal/sintético em espiral para implantação no interior do aneurisma / vaso. É tipicamente conectado a um fio de aplicação não implantável. Os dispositivos descartáveis associados com a implantação (por exemplo, fio de aplicação, cateter) podemestar incluídos.	Equipamento ou Material	-
+Espirometro (Espirografo)	1511130		Equipamento ou Material	-
+Esponja Cirurgica	2501243		Equipamento ou Material	-
+Estabilizador de Tecido	2501359		Equipamento ou Material	-
+Estabilizador para Deficientes	1571036		Equipamento ou Material	-
+Estabilizadores Dentarios	2101013		Equipamento ou Material	-
+Estativa Porta-Tubo	1391280		Equipamento ou Material	-
+Esteira Ergometrica	1530002		Equipamento ou Material	-
+ESTEIRA ERGOMÉTRICA UTILIZADA PARA DIAGNÓSTICO MÉDICO	2809022		Equipamento ou Material	-
+Estereoscopio	1511660		Equipamento ou Material	-
+Esterilizador	1391013		Equipamento ou Material	-
+Esterilizador Endodontico	1171295		Equipamento ou Material	-
+ESTERILIZADOR POR PLASMA DE PERÓXIDO DE HIDROGÊNIO	1571164		Equipamento ou Material	-
+ESTERILIZADOR POR VAPOR DE PERÓXIDO DE HIDROGÊNIO 	1571163		Equipamento ou Material	-
+ESTESIÔMETRO	1519403		Equipamento ou Material	-
+Estetoscopio	1511230		Equipamento ou Material	-
+Estetoscopio Digital	1511735		Equipamento ou Material	-
+ESTETOSCOPIO ESOFAGEAL	1511231		Equipamento ou Material	-
+Estiletes	2501135		Equipamento ou Material	-
+Estimulador de Respostas Para Diagnostico	1591090		Equipamento ou Material	-
+Estimulador Eletrico	1531100		Equipamento ou Material	-
+Estimulador Muscular - Tonificador	2809004		Equipamento ou Material	-
+Estimulador Muscular Isotonico-Isometrico	2809002		Equipamento ou Material	-
+Estimulador Neuromuscular	1531230		Equipamento ou Material	-
+Estimulador Neuromuscular para Alívio da Dor	1531231		Equipamento ou Material	-
+Estribos	1551250		Equipamento ou Material	-
+Estufa	1571070		Equipamento ou Material	-
+Evacuador de Bexiga	1551241		Equipamento ou Material	-
+Evidenciador de Placas	2109010		Equipamento ou Material	-
+EXERCITADOR DO MÚSCULO DO ASSOALHO PÉLVICO	1531039	dispositivo manual usado por mulheres para fornecer o exercício de Kegel (contração alternativa e relaxamento dos músculos do períneo) para tratar a incontinência urinária do esforço, disfunção sexual, ou para tonificar os músculos do assoalho pélvico. É tipicamente inserido na vagina e está disponível em uma variedade de projetos que comumente inclui um cilindro de mola, Split, cantilever que requer a contração voluntária da vagina para apertá-lo juntos, ou um metal sólido, perfilado de peso que é agarrado pelos músculos vaginal como a gravidade puxa para baixo. Este é um dispositivo reutilizável.	Equipamento ou Material	-
+Expansor de Tecido	2701087		Equipamento ou Material	-
+Expansor Peniano	2501860		Equipamento ou Material	-
+Extensão	2501366		Equipamento ou Material	-
+Extensor	2501365		Equipamento ou Material	-
+EXTENSOR PARA ELETRODO IMPLANTÁVEL	2701021		Equipamento ou Material	-
+EXTIRPA-NERVOS PARA ODONTOLOGIA	2101184		Equipamento ou Material	-
+Extrator	1551265		Equipamento ou Material	-
+Extrator de Calculos	1551255		Equipamento ou Material	-
+EXTRATOR DE CIMENTO ORTOPÉDICO	9000047	Instrumentos destinados a extrair cimento ortopédico (ósseo) de um local cimentado anteriormente, normalmente durante o procedimento para substituir uma prótese previamente cimentada. Também conhecido como "martelo extrator".	Equipamento ou Material	-
+Extrator de Plasma	1671330		Equipamento ou Material	-
+Extrator Obstétrico Ativo	1551021		Equipamento ou Material	-
+Facas	1551130		Equipamento ou Material	-
+Facoemulsificador	1551675		Equipamento ou Material	-
+Faixas	2501380		Equipamento ou Material	-
+Fibra de Reforco Odontologica	2101440		Equipamento ou Material	-
+fibra optica	1551133		Equipamento ou Material	-
+FILME DOSIMÉTRICO	2301015		Equipamento ou Material	-
+FILME PROTETOR	2501254		Equipamento ou Material	-
+Filmes Para Raios X	2301010		Equipamento ou Material	-
+FILTRO INTRAVASCULAR E DISPOSITIVOS ASSOCIADOS	9000048	Dispositivos destinados a serem implantados ou colocados temporariamente num vaso sanguíneo para capturar êmbolos; e dispositivos associados.	Equipamento ou Material	-
+Filtro Para Gases	2501394		Equipamento ou Material	-
+Filtro Para Remocao de Leucocitos (Laboratorio)	1671335		Equipamento ou Material	-
+Filtro Para Remocao de Leucocitos (Transfusao)	2501392		Equipamento ou Material	-
+Filtro Para Sangue/Filtro Arterial	2501393		Equipamento ou Material	-
+Filtro para Solucao Intravenosa	2501339		Equipamento ou Material	-
+Filtro para Ventilacao Mecanica	2501391		Equipamento ou Material	-
+Filtro Venoso	2701082		Equipamento ou Material	-
+Filtros	2501390		Equipamento ou Material	-
+Fio Afastador Odontologico	2109012		Equipamento ou Material	-
+Fio de Infusao	2501395		Equipamento ou Material	-
+Fio de Sutura	2501399		Equipamento ou Material	-
+Fio e cabo flexíveis absorvíveis	2700103		Equipamento ou Material	-
+Fio e cabo flexíveis não absorvíveis	2700102		Equipamento ou Material	-
+Fio Guia	2501401		Equipamento ou Material	-
+FIO GUIA CARDIOVASCULAR	9000013	Fios de metal projetados para ajudar a posicionar um cateter vascular diagnóstico/intervencionista (por exemplo, cateter cardíaco, stent, eletrodo de estilulação) dentro do lúmen de um vaso sanguíneo ou uma câmara do coração.	Equipamento ou Material	-
+FIO GUIA DE USO GERAL, NÃO VASCULAR	9000014	Fio metálico projetado para posicionar um cateter ou um dispositivo de intervenção semelhante (p. ex. um dilatador ou um endoscópio) no lúmen do trato gastrointestinal (GI), da árvore traqueobrônquica ou do trato urinário. Geralmente o cateter é introduzido sobre o fio depois deste ter sido colocado no local de tratamento (p. ex. o local de colocação de um stent). O fio pode ter um revestimento que reduz o atrito durante a passagem, possuir marcas de orientação fluoroscópica e estar equipado com um introdutor para entrar no canal de trabalho do cateter ou de outro dispositivo de intervenção. O fio está disponível em vários diâmetros e comprimentos, geralmente entre 150 e 350 centímetros (cm). Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Fio Para Ortodontia	2101170		Equipamento ou Material	-
+Fios de Cerclagem	2701070		Equipamento ou Material	-
+Fios e Fitas Cirurgicos	2501400		Equipamento ou Material	-
+Fios Retratores Odontologicos	2101394		Equipamento ou Material	-
+Fita Cirurgica Elastica	2501403		Equipamento ou Material	-
+Fixacao de Elementos Proteticos	2101175		Equipamento ou Material	-
+FIXADOR	2501839		Equipamento ou Material	-
+Fixador de Cranio	1551131		Equipamento ou Material	-
+Fixador Para Canula	2501840		Equipamento ou Material	-
+Fixadores Externos	2701090		Equipamento ou Material	-
+FLEBOSCÓPIO	1511072		Equipamento ou Material	-
+Fluido Com Fluor de Uso Odontologico	2101171		Equipamento ou Material	-
+Fluido Para Irrigacao Endodontica	2109220		Equipamento ou Material	-
+Fluido para Solda Ortodontica	2109260		Equipamento ou Material	-
+FLÚOR	2101468		Equipamento ou Material	-
+Fluxometro	1511140		Equipamento ou Material	-
+Foco Auxiliar	1571310		Equipamento ou Material	-
+Foco Cirurgico	1571080		Equipamento ou Material	-
+Fonte de Luz Fria	1571090		Equipamento ou Material	-
+Fonte de Luz Para Procedimentos Ambulatoriais	1571270		Equipamento ou Material	-
+Fonte de Oxigenio	1531135		Equipamento ou Material	-
+Fonte de radionuclídeos, garantia de qualidade	9000138	Isótopo radioactivo natural ou produzido por um acelerador ou por um reactor, utilizado como fonte de radiação numa variedade de testes de garantia de qualidade (GQ), p. ex., testes de marcadores, testes diários de constância, testes de exactidão, testes de linearidade, bem como de funcionamento do detector de radiações e de calibração dos instrumentos de análise de campos de radiação. Uma fonte de radionuclídeos de GQ apresenta-se numa variedade de formatos, p. ex.. fontes seladas, fontes electrodepositadas, fontes embutidas ou líquidos ou geles radioactivos contidos em recipientes apropriados. Pode ser escolhido para aplicações de GQ específicas devido ao tipo de radiação que emite (partículas alfa, partículas beta, neutrões, radiação gama, raios X), ao seu espectro de energia ou à sua semivida física.	Equipamento ou Material	-
+Forceps	1551260		Equipamento ou Material	-
+Forceps Odontologico	1151044		Equipamento ou Material	-
+Forradores Dentinarios	2101399		Equipamento ou Material	-
+Fotóforo	1551500		Equipamento ou Material	-
+Frasco de Alimentacao	2501415		Equipamento ou Material	-
+Frascos Coletores	2501410		Equipamento ou Material	-
+Gabarito Para Medicao de Enxerto	2502005		Equipamento ou Material	-
+Ganchos	1551270		Equipamento ou Material	-
+Ganchos e Grampos Para Odontologia	2101180		Equipamento ou Material	-
+GARROTE	2501614		Equipamento ou Material	-
+Garrote Pneumatico	1551062		Equipamento ou Material	-
+Gas Oftalmologico	1551681		Equipamento ou Material	-
+Gazes e Ataduras	2501385		Equipamento ou Material	-
+Gel	2501575		Equipamento ou Material	-
+Gel barreira de adesao	1551696		Equipamento ou Material	-
+GEL DE SILICONE EM BISNAGA	1551049		Equipamento ou Material	-
+Gel Para Eletrodo	2501620		Equipamento ou Material	-
+Gel Para Ultra-Som	2501625		Equipamento ou Material	-
+GERADOR DE FLUXO PARA CPAP	1531147		Equipamento ou Material	-
+Gerador de Oxigenio	1571135		Equipamento ou Material	-
+Gerador de ozonio para desinfecção de cpap	1571067		Equipamento ou Material	-
+Gerador de Ozonio para Estetica	2809060		Equipamento ou Material	-
+Gerador de Ozonio para Odontologia	2809061		Equipamento ou Material	-
+GERADOR DE OZÔNIO PARA ODONTOLOGIA E ESTÉTICA	2809058		Equipamento ou Material	-
+Gerador de Pulso Implantavel p/ Neuroestimulacao	2701046		Equipamento ou Material	-
+Gerador de Pulso P/ Nervo Vago (Neurologia)	2701045		Equipamento ou Material	-
+Gerador de Radiofreqüência para Neurocirurgia 	1551604		Equipamento ou Material	-
+Gerador de Raios X	1391290		Equipamento ou Material	-
+Gerador de vácuo	1571239		Equipamento ou Material	-
+GERENCIADOR DE IMAGENS MÉDICAS	1311018		Equipamento ou Material	-
+Gesso Sintetico	2501695		Equipamento ou Material	-
+GODIVA ODONTOLÓGICA	2101273		Equipamento ou Material	-
+GRAMPEADOR CIRÚRGICO	9000049	Instrumentos cirúrgicos portáteis projetados para aplicar grampos em tecidos.	Equipamento ou Material	-
+Grampo com componente não absorvível para osteossíntese ou ligamentoplastia	2700101		Equipamento ou Material	-
+Grampo Para Sutura	2501422		Equipamento ou Material	-
+GRAMPOS para sutura	9000075	Extensão de fio Implantável, normalmente metálicos, projetado para a aproximação mecânica ou união das bordas de uma ferida ou incisão de um tecido objetivando facilitar a cicatrização. 	Equipamento ou Material	-
+Gravador de Sinais Fisiologicos	1511015		Equipamento ou Material	-
+Guia	2501406		Equipamento ou Material	-
+Guia de feixes laser, com disparo lateral	9000137	Cabo estéril flexível concebido para dirigir e administrar energia laser de forma invasiva, geralmente para a vaporização hemostática de tecido prostático com vista ao tratamento de hiperplasia benigna da próstata (HBP). Trata-se de um dispositivo de disparo lateral que permite a transmissão da energia laser a partir da sua extremidade distal para seccionar, coagular e vaporizar lateralmente o tecido urológico mole. Geralmente é feito de sílica fundida, está contido num invólucro protector resistente a feixes laser e é ligado ao laser. Pode também ser utilizado para tratar tumores da bexiga, uretrais e ureterais, condilomas, lesões nos órgãos genitais externos e hemangioma uretral e peniano. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Guia Para Introducao de Cateteres	2501370		Equipamento ou Material	-
+Guincho Eletrico	1771140		Equipamento ou Material	-
+Gutta-Percha	2101200		Equipamento ou Material	-
+Haste modular sem cabeça para artroplastia de ombro	2700041		Equipamento ou Material	-
+Haste não modular para artroplastia de ombro	2700040		Equipamento ou Material	-
+Haste ulnar para substituição articular de punho	2700070		Equipamento ou Material	-
+HASTES ÓSSEAS	9000076	Haste, tipicamente metálica, projetada para ser inserida dentro do canal intramedular de ossos longos fraturados para estabilizar as extremidades do osso fraturado em posição que facilite a cicatrização normal.	Equipamento ou Material	-
+Hemoconcentrador	2501800		Equipamento ou Material	-
+Hemofiltradores	2501801		Equipamento ou Material	-
+Hemostaticos Absorviveis	2701101		Equipamento ou Material	-
+Hemostaticos Cirurgicos	2501430		Equipamento ou Material	-
+Higienizador do canal auditivo e/ou narinas	1571123		Equipamento ou Material	-
+Histerometro	1511405		Equipamento ou Material	-
+HISTEROSCÓPIO	1511424		Equipamento ou Material	-
+Identificador de Caries	2109011		Equipamento ou Material	-
+Identificador de Instrumental	2501915		Equipamento ou Material	-
+Imageamento Ultrassonico Intravascular Coronario	1311061		Equipamento ou Material	-
+Imobilizador Ortopedico	2501100		Equipamento ou Material	-
+Imobilizador para Raio X	2501880		Equipamento ou Material	-
+Impactores	1551280		Equipamento ou Material	-
+Impedanciometro	1511270		Equipamento ou Material	-
+IMPLANTE 	2710000		Equipamento ou Material	-
+IMPLANTE ANAL	2701034		Equipamento ou Material	-
+Implante Capilar	2701332		Equipamento ou Material	-
+Implante Cardiovascular	2701439		Equipamento ou Material	-
+Implante de fixação halo-craniano	2700116		Equipamento ou Material	-
+Implante Endovascular	2701085		Equipamento ou Material	-
+Implante esfincter	2701086		Equipamento ou Material	-
+Implante Facial	2701036		Equipamento ou Material	-
+Implante Ginecológico	2701506		Equipamento ou Material	-
+Implante Ginecológico	2701507		Equipamento ou Material	-
+Implante Intracardiaco	2701165		Equipamento ou Material	-
+Implante Oftalmológico	2701456		Equipamento ou Material	-
+Implante Oftalmologico	2701167		Equipamento ou Material	-
+IMPLANTE ORTOPÉDICO COM FÁRMACO	2701437		Equipamento ou Material	-
+Implante Para Aneurisma	2701277		Equipamento ou Material	-
+Implante para artroplastia total interfalangiano para mão	2700077		Equipamento ou Material	-
+Implante para artroplastia total metacarpo-falangiano	2700078		Equipamento ou Material	-
+Implante para artroplastia total metatarso-falangiano do hálux	2700079		Equipamento ou Material	-
+Implante Para Ligamento	2701274		Equipamento ou Material	-
+Implante Para Plastica Reparadora	2709501		Equipamento ou Material	-
+IMPLANTE PARA TECIDO MOLE OU CARTILAGINOSO	2701273		Equipamento ou Material	-
+Implante Urológico	2701278		Equipamento ou Material	-
+Implantes Absorviveis	2709801		Equipamento ou Material	-
+Implantes Auditivos	2701035		Equipamento ou Material	-
+Implantes Dentarios (Osseointegravel)	2701125		Equipamento ou Material	-
+Implantes Mamarios	2701275		Equipamento ou Material	-
+Impressora para Imagens Medicas	1311044		Equipamento ou Material	-
+Incubadora de Plaquetas	1671215		Equipamento ou Material	-
+Incubadora de Transporte	1531235		Equipamento ou Material	-
+Incubadora Neonatal (Recem-Nascidos)	1531110		Equipamento ou Material	-
+INCUBADORA PARA GAMETAS E EMBRIÕES	1671321		Equipamento ou Material	-
+INCUBADORA PARA LABORATORIO DE SAÚDE	1671319		Equipamento ou Material	-
+Indicador de Radiação	2501902		Equipamento ou Material	-
+INJETOR PARA OSSO VERTEBRAL	9000050	Substâncias destinadas a serem utilizadas para substituir o osso cortical / esponjoso no corpo vertebral para estabilizar fraturas de compressão vertebral.	Equipamento ou Material	-
+Instrumental Endoscopico	1551620		Equipamento ou Material	-
+INSTRUMENTAL MONOPOLAR/BIPOLAR PARA ELETROCIRURGIA	1551673		Equipamento ou Material	-
+Instrumental para Cirurgia Buco-Maxilo-Facial	1551277		Equipamento ou Material	-
+Instrumental Para Endoscopia	1511105		Equipamento ou Material	-
+Instrumental para Fixacao de Coluna	1551276		Equipamento ou Material	-
+Instrumental para Implante de Coluna	2501437		Equipamento ou Material	-
+Instrumental Para Implante Ortopedico	1551560		Equipamento ou Material	-
+Instrumental para Incisoes Dermatologica	2501439		Equipamento ou Material	-
+Instrumental para Laparoscopia	1551672		Equipamento ou Material	-
+Instrumental para Laringoscopio	2501438		Equipamento ou Material	-
+Instrumental Para Sutura e Retirada de Sutura	1551275		Equipamento ou Material	-
+Instrumental para Válvulas Cardiacas	1551291		Equipamento ou Material	-
+Instrumento Cirurgico Para Implantes Dentarios	2101221		Equipamento ou Material	-
+Instrumento P/ Medicao de Parametros da Cornea	1511590		Equipamento ou Material	-
+Instrumento P/Medicao de Tecidos Intra-Oculares	1511595		Equipamento ou Material	-
+Instrumento Para Avaliacao do Campo Visual	1511570		Equipamento ou Material	-
+Instrumento Para Biopsia	1551550		Equipamento ou Material	-
+Instrumento para Colocacao de Lentes	1511571		Equipamento ou Material	-
+Instrumento para Corte do Tecido Osseo	1551293		Equipamento ou Material	-
+Instrumento para Dentistica	2101022		Equipamento ou Material	-
+Instrumento Para Manuseio de Proteses	2101045		Equipamento ou Material	-
+Instrumento Para Medicao de Lentes	1511580		Equipamento ou Material	-
+INSTRUMENTO PARA MEDIÇÃO DE VIAS AÉREAS	1511586		Equipamento ou Material	-
+Instrumento Para Perfuracao	1551290		Equipamento ou Material	-
+Instrumento Para Periodontia	2101445		Equipamento ou Material	-
+Instrumento para sistema endoscópico eletrocirúrgico / ultrassônico	9000145	Um dispositivo endoscópico portátil destinado a ser usado como parte de um sistema eletrocirúrgico / ultrassônico para fornecer: 1) energia ultrassônica; e 2) corrente eletrocirúrgica bipolar para fragmentação, corte e coagulação de tecidos moles durante cirurgia endoscópica (por exemplo, laparoscópica); pode, além disso, destinar-se a cirurgia aberta. Inclui uma peça de mão / suporte com controles e uma haste longa e fina com eletrodos distais e uma ponta ultrassônica, e pode incluir um lúmen para sucção / irrigação; não inclui um transdutor ultrassônico. Ele está disponível em uma variedade de formas (por exemplo, fórceps, sonda rígida). Este é um dispositivo descartável.	Equipamento ou Material	-
+Instrumentos Auxiliares na Pratica Odontologica	2101400		Equipamento ou Material	-
+Instrumentos cirúrgicos	1551621		Equipamento ou Material	-
+Instrumentos Cirurgicos Odontologicos	1151042		Equipamento ou Material	-
+Instrumentos de Mao Odontologicos	1171180		Equipamento ou Material	-
+Instrumentos de Uso Odontologico	1171036		Equipamento ou Material	-
+Instrumentos Para Aspiracao Vitrea e Corte	1551480		Equipamento ou Material	-
+Instrumentos Para Preparo de Canal	2101210		Equipamento ou Material	-
+Insuflador	2501435		Equipamento ou Material	-
+Insuflador de CO2	1551625		Equipamento ou Material	-
+Insuflador e Medidor de Pressao de Baloes	1551285		Equipamento ou Material	-
+Insuflador para Cateter	1551540		Equipamento ou Material	-
+Insuflador para cuff de tubo endotraqueal	9000163	Dispositivo concebido para instilar ar no cuff de um tubo endotraqueal/endobrônquico in situ. O insuflador inclui, geralmente, uma pêra (bolbo) de borracha de funcionamento manual para a introdução de ar ambiente no cuff e um manómetro que mostra a pressão no interior do cuff, de modo a impedir uma pressão excessiva passível de causar traumatismos na traqueia. O cuff funciona como um vedante apropriado para a ventilação com pressão positiva, impedindo que as secreções aspiradas passem para os pulmões. Trata-se de um dispositivo reutilizável.	Equipamento ou Material	-
+Insuflador Para Laparoscopia	1551670		Equipamento ou Material	-
+Intensificador de Imagem	1391335		Equipamento ou Material	-
+Introdutores	2501441		Equipamento ou Material	-
+Intubação retrógrada	2501146		Equipamento ou Material	-
+Ionomero de Vidro Modificado por Resina	2101408		Equipamento ou Material	-
+Irradiador Para Produtos Sanguineos	1670001		Equipamento ou Material	-
+Irrigador/Aspirador Cirurgico	1551292		Equipamento ou Material	-
+Isolantes Odontologicos	2101220		Equipamento ou Material	-
+Joelheira	2501685		Equipamento ou Material	-
+Keratometro	1511150		Equipamento ou Material	-
+KIT ACADÊMICO	2501444		Equipamento ou Material	-
+Kit Cirurgico	1551046		Equipamento ou Material	-
+KIT DE ANESTESIA COM LOCALIZADOR DE NERVO, DE ADMINISTRAÇÃO CONTÍNUA	9000105	Uma coleção de dispositivos estéreis projetados para localizar um nervo periférico ou plexo nervoso com estimulação neuromuscular elétrica, para direcionar a administração percutânea de uma única injeção de anestésico para anestesia regional (AR). Normalmente, inclui uma agulha isolada com uma ponta biselada não isolada que funciona como um eletrodo durante a localização do nervo e como uma conduta durante a administração da anestesia, um cabo elétrico que se conecta a um gerador de corrente e um tubo de extensão que se conecta a uma seringa cheia de anestésico apropriado . Este é um dispositivo de uso único.	Equipamento ou Material	-
+KIT DE ANESTESIA COM LOCALIZADOR DE NERVO, DE ADMINISTRAÇÃO ÚNICA	9000104	Uma coleção de dispositivos estéreis projetados para localizar um nervo periférico ou plexo nervoso com estimulação neuromuscular elétrica, para direcionar a distribuição percutânea e contínua de um anestésico para anestesia regional (AR). Inclui tipicamente uma agulha ou cânula isolada dedicada com uma ponta não isolada para localização nervosa, um cabo elétrico para conexão a um gerador de corrente, um cateter que pode ter um estilete estimulável, um insertor de cateter e uma seringa. O cateter inserido permite bloqueio nervoso contínuo e localização perioperatória, e é usado para tratar dor pós-operatória ou crônica. Este é um dispositivo de uso único.	Equipamento ou Material	-
+Kit de Aspiracao e Coleta de Sangue	2501900		Equipamento ou Material	-
+Kit de Coleta e Aspiracao de Medula Ossea	2501947		Equipamento ou Material	-
+Kit de descompressão lombar	9000133	Conjunto de dispositivos estéreis utilizados na realização de uma descompressão lombar minimamente invasiva por via percutânea, para o tratamento de várias situações patológicas da coluna vertebral, geralmente em conjunto com um endoscópio. Inclui geralmente trocartes, cânulas (portais), um afastador e outros materiais necessários para a realização do procedimento; pode ainda incluir um endoscópio descartável. É utilizado na ressecção de tecidos da coluna vertebral lombar guiada por imagem, que envolva o afastamento, preensão, corte, ablação e coagulação desses tecidos. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Kit de Introducao de Cateter	2501465		Equipamento ou Material	-
+Kit de Lactacao	2501374		Equipamento ou Material	-
+Kit de Ligadura Para Varizes	1551690		Equipamento ou Material	-
+Kit de Monitoracao	2501442		Equipamento ou Material	-
+Kit de Procedimentos para Partos	2501443		Equipamento ou Material	-
+Kit de Suspensao Vesical	2501525		Equipamento ou Material	-
+Kit de Sutura	2501850		Equipamento ou Material	-
+Kit de Traqueostomia	2501475		Equipamento ou Material	-
+KIT DO SISTEMA A LASER PARA CIRURGIA 	1531336		Equipamento ou Material	-
+KIT EMERGENCIAL PARA PROCEDIMENTOS MÉDICOS	2501729		Equipamento ou Material	-
+Kit Guia de Agulha	2501323		Equipamento ou Material	-
+Kit Instrumental	1551044		Equipamento ou Material	-
+KIT MISTURADOR E APLICADOR DE CIMENTO	2501921		Equipamento ou Material	-
+Kit p/ Bomba de Infusao	2502041		Equipamento ou Material	-
+Kit p/Maquina Separadora/Recuperadora de Celulas	2509991		Equipamento ou Material	-
+Kit p/Separacao e Coleta de Componentes Sanguineos	1671553		Equipamento ou Material	-
+Kit para Adaptador	2501722		Equipamento ou Material	-
+Kit para Aferese	1531301		Equipamento ou Material	-
+Kit para Anestesia	1551048		Equipamento ou Material	-
+Kit para Angiografia	1511465		Equipamento ou Material	-
+Kit para Autotransfusao	2509990		Equipamento ou Material	-
+Kit Para Auxilio de Puncao	2501948		Equipamento ou Material	-
+Kit Para Biopsia de Medula	2501895		Equipamento ou Material	-
+Kit para Cateter Venoso	2501896		Equipamento ou Material	-
+Kit para cateter venoso/arterial	2501898		Equipamento ou Material	-
+Kit Para Colpocitologia	1671475		Equipamento ou Material	-
+Kit para Colpocitopatologia	1671170		Equipamento ou Material	-
+Kit para Drenagem	2501484		Equipamento ou Material	-
+Kit Para Facoemulsificacao	1551525		Equipamento ou Material	-
+Kit Para Gastrostomia	1551485		Equipamento ou Material	-
+Kit Para Implante Cranio-facial	2701127		Equipamento ou Material	-
+KIT PARA INTRODUÇÃO DE CATETER VASCULAR, DIRIGÍVEL	9000015	Um conjunto de dispositivos estéreis, invasivos, destinados a proporcionar acesso vascular percutâneo de forma a permitir a introdução de um cateter cardíaco (por exemplo, cateter de ablação cardíaca); não utilizável para acesso sub-xifóide. Constituido por um conjunto introdutor de cateter bainha/dilatador, dirigível. Cuja função é introduzir no interior da anatomia cardíaca, um fio-guia, e, geralmente, dispositivos de acesso adicionais (por exemplo, agulha de introdução, válvula hemostática); o cateter não é incluído. A bainha do conjunto introdutor pode incluir eletrodos para ajudar o monitoramento eletrofisiológico (EP). É um dispositivo de uso único.	Equipamento ou Material	-
+KIT PARA INTRODUÇÃO DE CATETER VASCULAR, NÃO DIRIGÍVEL	9000016	Um conjunto de dispositivos estéreis, invasivos, destinados a proporcionar acesso vascular percutâneo de forma a permitir a introdução de um cateter (não incluído) no sistema vascular. Composto por uma bainha para introdução de cateter, não dirigível, com dilatador interno, e geralmente, um dispositivo de acesso adicional [por exemplo: guia de fio, agulha introdutora, seringa, dilatadores adicionais], que pode incluir uma válvula hemostática para controlar a perda de sangue, tipicamente para permitir acesso arterial. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+KIT PARA INTRODUÇÃO DE CATETERES / KIT DE SUPORTE A CATETERIZAÇÃO	9000017	Conjunto de dispositivo para utilização durante a introdução de um cateter no interior do corpo que incluem vários acessórios (por exemplo, dilatadores, estiletes, bainhas de inserção, campos cirúgicos especiais, fixadores, luvas), mas não inclui o cateter.	Equipamento ou Material	-
+KIT PARA INTRODUÇÃO DE DIU	2501271		Equipamento ou Material	-
+Kit Para Lavagem de Celulas	2501940		Equipamento ou Material	-
+Kit para Máquina de Recuperação de Sangue	1551610		Equipamento ou Material	-
+Kit Para Microneurocirurgia	1551475		Equipamento ou Material	-
+Kit Para Patologia	1671465		Equipamento ou Material	-
+Kit para Sistema de Separacao de Celulas	1671551		Equipamento ou Material	-
+Kit Para Vitrectomia	1551416		Equipamento ou Material	-
+Kit Protetico para Implantes Osseointegraveis	1179902		Equipamento ou Material	-
+LAÇO PARA CAPTURA	1551032		Equipamento ou Material	-
+Laco para Polipectomia	1551031		Equipamento ou Material	-
+Lamina de Laringoscopio	1551085		Equipamento ou Material	-
+Laminas de Bisturi Descartaveis	2501460		Equipamento ou Material	-
+Laminas Descartaveis	2501455		Equipamento ou Material	-
+Lampada de Fenda	1511428		Equipamento ou Material	-
+Lampada Infravermelho	1531300		Equipamento ou Material	-
+Lancetador	2501446		Equipamento ou Material	-
+Lancetador Laser	1511142		Equipamento ou Material	-
+Lancetas	2501450		Equipamento ou Material	-
+Lanterna Clínica	1511402		Equipamento ou Material	-
+Laparoscopio	1511420		Equipamento ou Material	-
+LARINGOFONE	1539801		Equipamento ou Material	-
+Laringoscopio	1511415		Equipamento ou Material	-
+Lavadora para Desinfecção e Secagem de Instrumentais	1571251		Equipamento ou Material	-
+Lavadora Para Reprocessamento de Materiais	1571250		Equipamento ou Material	-
+Lenço para Assepsia em Procedimentos Médicos	2501731		Equipamento ou Material	-
+LENÇOL PARA TRANSFERÊNCIA DE PACIENTE	9000103	Dispositivo utilizado por profissionais de saúde para auxiliar a deslocação e transferência de uma pessoa/doente (p. ex., uma pessoa idosa, doente ou com incapacidade) de uma posição para outra. Geralmente, o dispositivo não tem capacidade de elevação e utiliza técnicas de deslizamento/rolamento para mover a pessoa. Destina-se a virar uma pessoa de um lado para outro enquanto esta se encontra deitada numa cama, a fim de prevenir a formação de úlceras de pressão e promover a circulação sanguínea.	Equipamento ou Material	-
+Lentes de Contato	2501470		Equipamento ou Material	-
+Lentes Intra-Oculares	2701120		Equipamento ou Material	-
+LENTES OFTÁLMICAS 	1511612		Equipamento ou Material	-
+Lentes para Equipamentos Oftalmologicos	1511611		Equipamento ou Material	-
+Liga Para Amalgama Dental	2101230		Equipamento ou Material	-
+Liga Para Uso Odontologico	2101235		Equipamento ou Material	-
+Ligas de Ouro/Metais Preciosos p/Uso Clinico	2101240		Equipamento ou Material	-
+Limas Para Odontologia	2101185		Equipamento ou Material	-
+Linha Para Filtracao	2502020		Equipamento ou Material	-
+LÍQUIDO PARA PIGMENTAÇÃO DE CERÂMICAS	2101311		Equipamento ou Material	-
+Litotripsia Extracorporea	1531315		Equipamento ou Material	-
+Lixa Cirurgica	2502021		Equipamento ou Material	-
+Lixa de Acabamento e Polimento Dental	2101387		Equipamento ou Material	-
+Lixa Para Eletrocauterio	2501996		Equipamento ou Material	-
+Lixas de Polimento Odontologico	2101250		Equipamento ou Material	-
+Localizador de Apice - Equipamento Odontologico	1111014		Equipamento ou Material	-
+LOCALIZADOR MAGNÉTICO 	1111018		Equipamento ou Material	-
+Lubrificante de Protese Ocular	2501476		Equipamento ou Material	-
+Lubrificante Intimo	2501491		Equipamento ou Material	-
+Lupa Binocular	1571125		Equipamento ou Material	-
+Lupa Para Uso Odontologico	1111034		Equipamento ou Material	-
+Luvas Cirurgicas	2501480		Equipamento ou Material	-
+Luvas Descartaveis	2501490		Equipamento ou Material	-
+Luz Intensa Pulsada para terapia do olho seco	9000125	Aparelho elétrico destinado a tratar a blefarite meibomiana (síndrome do olho seco), visando a pele ao redor das glândulas meibomianas (ao redor da pálpebra) com luz intensa pulsada (IPL). Consiste em um gerador conectado a uma peça de mão emissora de luz, e normalmente inclui óculos de segurança para contato com gel e óculos de proteção contra a luz. Destina-se a ser operado por um profissional de saúde em um ambiente clínico.	Equipamento ou Material	-
+MACA DE TRANSPORTE	1771015	MACA PARA TRANSPORTE DE PACIENTES	Equipamento ou Material	-
+Maca de Transporte Para Ortopedia	1571285		Equipamento ou Material	-
+Maca hospitalar	1771010		Equipamento ou Material	-
+MALHA CIRÚRGICA IMPLANTÁVEL	2701074		Equipamento ou Material	-
+Malha Tubular	2501641		Equipamento ou Material	-
+MALHAS CIRÚRGICAS MULTIPROPÓSITO	9000082	Malhas ou dispositivos porosos implantáveis feitos de materiais biocompatíveis (por exemplo, metais, polímeros) destinadas a reparar, dar apoio e/ou proteger geralmente tecidos moles para várias finalidades em aplicações intra e extra-abdominais.	Equipamento ou Material	-
+Malhas Pos-Cirurgica	2501952		Equipamento ou Material	-
+Mandril	2502054		Equipamento ou Material	-
+Mandril para Canetas Odontologicas	2101260		Equipamento ou Material	-
+MANGUEIRAS PARA SISTEMA ULTRASSONICO	1391016		Equipamento ou Material	-
+Manipulador uterino	1519501		Equipamento ou Material	-
+Manometro Para Pressao Arterial	1511045		Equipamento ou Material	-
+Manta Termica	2501875		Equipamento ou Material	-
+Maquina Para Recuperacao de Sangue	1531245		Equipamento ou Material	-
+MARCA-PASSO CARDÍACO IMPLANTÁVEL DE CÂMARA DUPLA, COM RESPOSTA EM FREQUÊNCIA	9000051	Dispositivo estéril alimentado à bateria, com gerador de pulsos hermeticamente selado, implantado sobre a pele do tórax em uma cavidade cirurgicamente criada, sendo conectado no interior ou sobre duas câmaras do coração (atrio  e ventrículo direitos).É destinado a estimular as câmaras de um coração arritmico, através de estímulos elétricos, para estabelecer sua sequência natural de batimentos, e ajustar a frequência de contração às necessidades de fluxo sanguineo do corpo humano devido à atividade física. Possui um ou mais sensores para detectar alterações no corpo (p.ex., movimentação, frequência respiratória) a fim de identificar a necessidade de maior oxigenação e, consequentemente, aumentar a frequência cardíaca; não se destina à desfibrilação cardíaca	Equipamento ou Material	-
+MARCA-PASSO CARDÍACO IMPLANTÁVEL DE CÂMARA DUPLA, POR DEMANDA	9000052	Dispositivo estéril alimentado à bateria, com gerador de pulsos hermeticamente selado, implantado sobre a pele do tórax em uma cavidade cirurgicamente criada, sendo conectado no interior ou sobre duas câmaras do coração (atrio e ventrículo direitos).É destinado a estimular as duas câmaras para estabelecer ao batimento cardíaco  seu ritmo normal para imitar a atividade normal do coração, através da geração e condução de estímulos elétricos ao coração quando detectado que a atividade das câmaras está irregular [p.ex., quando o batimento cardíacop está muito baixo (bradicardia) ou se apresenta arritmico (arritimias)]; não se destina à desfibrilação cardíaca.	Equipamento ou Material	-
+MARCA-PASSO CARDÍACO IMPLANTÁVEL DE CÂMARA ÚNICA DE FREQUÊNCIA FIXA E DEMANDA	9000053	Dispositivo, alimentado a bateria, que consiste num gerador de impulsos hermeticamente selado que é implantado, juntamente com um fio condutor de marca-passo, sob a pele do tórax numa bolsa criada cirurgicamente, no interior ou sobre uma câmara cardíaca (átrio ou ventrículo direitos). É utilizado para produzir e conduzir impulsos elétricos para o coração, geralmente quando os seus batimentos são demasiado lentos (bradicardia) ou quando apresenta ritmos anormais (arritmias). Pode fornecer estímulos elétricos constantes para normalizar os batimentos cardíacos (frequência fixa) e/ou fornecer um estímulo apenas quando é detectada uma anomalia na atividade eléctrica cardíaca (de demanda).	Equipamento ou Material	-
+MARCA-PASSO CARDÍACO IMPLANTÁVEL DE CÂMARA ÚNICA, COM RESPOSTA DE FREQUÊNCIA	9000054	Dispositivo, alimentado a bateria, que consiste num gerador de impulsos hermeticamente selado que é implantado, juntamente com um fio condutor de marca-passo, sob a pele do tórax numa bolsa criada cirurgicamente, no interior ou sobre uma câmara cardíaca (átrio ou ventrículo direitos). É utilizado para produzir e conduzir impulsos elétricos para um coração anormal, ajustando a sua frequência de contrações de modo a satisfazer as necessidades acrescidas de fluxo sanguíneo causadas pela atividade. Contém um ou mais sensores especiais para detectar alterações no organismo (p. ex. movimento, frequência respiratória), indicando a maior necessidade de oxigênio e aumentando, consequentemente, a frequência de estimulação.	Equipamento ou Material	-
+MARCA-PASSO IMPLANTÁVEL PARA TERAPIA DE RESSINCRONIZAÇÃO CARDÍACA	9000055	Gerador de pulsos hermeticamente selado, estéril, alimentado a bateria, destinado a ser implantado sob a pele do tórax em uma cavidade criada cirurgicamente, e utilizado com cabos e eletrodos de marcapasso conectados ao ventrículo direito, na veia coronária sobre o ventrículo esquerdo, e usualmente ao átrio direito (tripla câmara) para estimular o coração a bater a uma taxa mais rápida quando detectada uma bradicardia e prover uma terapia de ressincronização cardíaca (TRC) através de estimulação elétrica biventricular a fim de ressincronizar a contração dos ventrículos direito e esquerdo, para tratar sintomas de insuficiência cardíaca (p.ex. fadiga fácil) e problemas de arritmias cardíacas graves; não se destina a terapia de desfibrilação cardíaca.	Equipamento ou Material	-
+MARCA-PASSO INTRACARDÍACO	9000056	Gerador de pulsos herméticamente selado, estéril, implantável, alimentado à bateria, impregnado com esteróide (p.ex. dexametasona), destinado a ser implantado com um catéter, por via tranvenosa, no ventrículo direito (marca-passo de câmera única) de um coração arrítmico, para gerar e conduzir estímulos elétricos com a finalidade de incrementar o débito cardíaco. Possui  sensores para detectar alterações no corpo (p.ex., movimentação, frequência respiratória) e ajustar, adequadamente, a frequência cardíaca (respopsta em frequência). Possui sistema de telemetria sem fio com dispositivo externo que permite a programação do marca-passo e pode permitir a monitoração 	Equipamento ou Material	-
+Marcador Biologico	2701015		Equipamento ou Material	-
+Marcador de mucosa oral	2501631	pigmentos utilizados para verificação do ajuste de próteses odontológicas removíveis.	Equipamento ou Material	-
+MARCADOR OPTICO PARA RADIOTERAPIA	2901011		Equipamento ou Material	-
+Marcador para navegação cirúrgica	1551545		Equipamento ou Material	-
+MARCADOR RADIOPACO	1319011		Equipamento ou Material	-
+Marcapasso Gerador de Pulsos Externos	1531180		Equipamento ou Material	-
+Martelos	1551310		Equipamento ou Material	-
+MÁSCARA FACIAL CIRÚRGICA	9000143	Dispositivo que é colocado sobre o nariz e a boca de profissionais de saúde para prevenir a transmissão aérea de microrganismos no decurso de uma intervenção cirúrgica ou de um procedimento. 	Equipamento ou Material	-
+Mascara para Seio	2501505		Equipamento ou Material	-
+Mascaras	2501500		Equipamento ou Material	-
+Massageador Terapeutico	1531320		Equipamento ou Material	-
+Materiais Auxiliares de Dentistica	2101463		Equipamento ou Material	-
+Materiais para Detecção de Endotoxinas	1511751		Equipamento ou Material	-
+MATERIAIS PARA DETECÇÃO DE ENDOXINAS	1671185		Equipamento ou Material	-
+Materiais para Endodontia	2109270		Equipamento ou Material	-
+Materiais para Transplante de Cornea	2501876		Equipamento ou Material	-
+Materiais Para Verificacao da Oclusao	2101461		Equipamento ou Material	-
+Materiais, Artigos, Instrumentos e Acessorios	3100000		Equipamento ou Material	-
+MATERIAL A BASE DE FIBRA DE VIDRO PARA CONFECÇÃO DE PRÓTESE DENTAL	2101317		Equipamento ou Material	-
+Material de Acabamento e Polimento	2101272		Equipamento ou Material	-
+Material de Marcacao Cirurgica	1551305		Equipamento ou Material	-
+Material de moldagem auricular	2501081		Equipamento ou Material	-
+Material de Moldagem Odontologico	2101270		Equipamento ou Material	-
+Material de Obturacao Temporaria	2101271		Equipamento ou Material	-
+Material de Prova para Cimentacao	2101430		Equipamento ou Material	-
+Material Estéril para Proteção	2502051		Equipamento ou Material	-
+Material P/Desinfeccao e Obturacao Canal Radicular	2101225		Equipamento ou Material	-
+Material para limpeza de aparelhos ortodônticos removíveis	2101164		Equipamento ou Material	-
+Material Para Limpeza de Protese Odontologicas	2101085		Equipamento ou Material	-
+MATERIAL PARA MICRO ABRASÃO DENTAL 	2101061		Equipamento ou Material	-
+Material para Re-embasamento de Prótese Dentária	2502043		Equipamento ou Material	-
+MATERIAL PARA REFORÇO DE SUTURA	1551306		Equipamento ou Material	-
+Material Restaur.Odontologico a Base de Ceramica	2101315		Equipamento ou Material	-
+Material Restaurador Provisorio Fotopolimerizavel	2101425		Equipamento ou Material	-
+MATERIAL TERMOPLÁSTICO PARA FABRICAÇÃO DE DISPOSITIVOS ODONTOLÓGICOS	9000120		Equipamento ou Material	-
+Matriz Odontologica	2101014		Equipamento ou Material	-
+Medidor de Cor da Pele	1511285		Equipamento ou Material	-
+Medidor de Fluxo Expiratorio/Inspiratorio	2501501		Equipamento ou Material	-
+Medidor de Parametro Fisiologico p/ Educ. Fisica	2809080		Equipamento ou Material	-
+Medidor de Permeabilidade da Pele	1511275		Equipamento ou Material	-
+Medidor de pH	1671220		Equipamento ou Material	-
+Medidor de Radiacao	1391090		Equipamento ou Material	-
+Medidor para Implante	2502008		Equipamento ou Material	-
+Medidor para Valvula Cardiaca	1591100		Equipamento ou Material	-
+Medidores de Profundidade	1551320		Equipamento ou Material	-
+Meia Anti-Embolismo	2501905		Equipamento ou Material	-
+Meia Elastica Para Terapia	1531066		Equipamento ou Material	-
+Meio de Cultura Para Fertilizacao In Vitro	2501990		Equipamento ou Material	-
+MEMBRANA BIOLÓGICA DE ORIGEM BOVINA	2701067		Equipamento ou Material	-
+membrana implantavel para neurologia	2709991		Equipamento ou Material	-
+Membranas Descartaveis	2501736		Equipamento ou Material	-
+Membranas Regeneradoras	2701065		Equipamento ou Material	-
+Membranas Regenerativas Odontologicas	2109218		Equipamento ou Material	-
+Mesa Cirurgica	1551050		Equipamento ou Material	-
+Mesa Clínica Motorizada	1771127		Equipamento ou Material	-
+Mesa Ginecológica	1771126		Equipamento ou Material	-
+Mesa p/ Fisioterapia	1771124		Equipamento ou Material	-
+Mesa para exame	1571286		Equipamento ou Material	-
+Mesa para Exame	1771125		Equipamento ou Material	-
+Micro Motor Odontologico	1171026		Equipamento ou Material	-
+Microdebridador	1559701		Equipamento ou Material	-
+Microparticulas Para Embolizacao	2501495		Equipamento ou Material	-
+Microscopio	1671180		Equipamento ou Material	-
+Microscopio Cirurgico	1551060		Equipamento ou Material	-
+Microscopio Oftalmologico	1511565		Equipamento ou Material	-
+Miniplacas	2701155		Equipamento ou Material	-
+Misturador de Ar	1559999		Equipamento ou Material	-
+Misturador de Gases para Analgesia Inalatoria	1171075		Equipamento ou Material	-
+MISTURADOR PARA CIMENTO ORTOPÉDICO	9000057	Dispositivos destinados a misturar compostos de modo a produzir a polimerização do cimento ósseo.	Equipamento ou Material	-
+Mocho Odontologico	1179090		Equipamento ou Material	-
+Modelador Nasal	2502046		Equipamento ou Material	-
+Modelador Vaginal	1551171		Equipamento ou Material	-
+Modelador Vaginal	1551172		Equipamento ou Material	-
+Moldeira de Impressao	2101385		Equipamento ou Material	-
+Moldeira para Odontologia	1151090		Equipamento ou Material	-
+MONITOR CARDÍACO IMPLANTÁVEL	1519105		Equipamento ou Material	-
+MONITOR DE COMPOSIÇÃO CORPORAL	2809076		Equipamento ou Material	-
+Monitor de Debito Cardiaco	1511220		Equipamento ou Material	-
+Monitor de EEG	1511215		Equipamento ou Material	-
+Monitor de Oxido Nitrico	1511745		Equipamento ou Material	-
+MONITOR DE PARAMETROS FISIOLOGICOS	2809036		Equipamento ou Material	-
+Monitor de Parametros Fisiologicos P/Exercicios	2809035		Equipamento ou Material	-
+Monitor de pH Esofágico	1511342		Equipamento ou Material	-
+Monitor de PH Esofágico	1511341		Equipamento ou Material	-
+Monitor de PH Estomacal	1511340		Equipamento ou Material	-
+Monitor de Pressao	1559991		Equipamento ou Material	-
+Monitor de Pressao Arterial Invasivo	1511040		Equipamento ou Material	-
+Monitor de Pressao Arterial Nao Invasivo	1511041		Equipamento ou Material	-
+Monitor de Pressao Intra-Compartimental	1511325		Equipamento ou Material	-
+Monitor de Pressao Intracraniana	1511370		Equipamento ou Material	-
+MONITOR DE PRESSÃO PARA VIAS AÉREAS	1559992		Equipamento ou Material	-
+Monitor de Sinais Vitais	1511160		Equipamento ou Material	-
+Monitor de Sinais Vitais Transtelefonico	1511165		Equipamento ou Material	-
+Monitor Fetal	1511070		Equipamento ou Material	-
+MONITOR P/ EXIBICAO DE IMAGENS MEDICAS E CIRURGIA	1311017		Equipamento ou Material	-
+Monitor Para Marcapasso	1531185		Equipamento ou Material	-
+Monitor Para Movimento Ocular	1511600		Equipamento ou Material	-
+Morceladores	1551330		Equipamento ou Material	-
+MOTOR CIRÚRGICO	1151015		Equipamento ou Material	-
+Motor Cirurgico Odontologico	1151016		Equipamento ou Material	-
+Motor Eletrico	1551075		Equipamento ou Material	-
+Motor Odontologico	1171042		Equipamento ou Material	-
+Motor Pneumatico	1551061		Equipamento ou Material	-
+Muletas	2501700		Equipamento ou Material	-
+Munhão de Transferência	2101388		Equipamento ou Material	-
+Navegação cirúrgica por imagem guiada	1551652		Equipamento ou Material	-
+Nebulizador	1531130		Equipamento ou Material	-
+NOVA NOMENCLATURA	9000000		Equipamento ou Material	-
+Núcleo Odontológico Pré-fabricado	2101460		Equipamento ou Material	-
+NÚCLEOS ACETABULARES	9000077	Dispositivo utilizado como revestimento interno de uma prótese acetabular de duas peças. É a parte responsável pela superfície de articulação da prótese acetabular, fica localizada na porção interna do invólucro da prótese acetabular, para fazer a interface com a prótese da cabeça de fêmur em uma substituição total do quadril.	Equipamento ou Material	-
+Obturador	2501665		Equipamento ou Material	-
+Obturador de Trocartes	1551455		Equipamento ou Material	-
+oclusor septal	2701128		Equipamento ou Material	-
+Oftalmoscopio	1511610		Equipamento ou Material	-
+Oleo de Silicone	2501242		Equipamento ou Material	-
+Optica Para Endoscopia	1591015		Equipamento ou Material	-
+Ortese de Membros	2501650		Equipamento ou Material	-
+Ortese Externa	2501652		Equipamento ou Material	-
+Ortese Externa de Fixacao	2501660		Equipamento ou Material	-
+Ortese Minima para Membros	2501655		Equipamento ou Material	-
+Osmometro	1671210		Equipamento ou Material	-
+Osteotomo Odontologico	2109217		Equipamento ou Material	-
+Osteotomos	1551635		Equipamento ou Material	-
+OTOCALORÍMETRO A AR	1519800		Equipamento ou Material	-
+Otoscopio	1511330		Equipamento ou Material	-
+Oxicapnografo	1511173		Equipamento ou Material	-
+Oxigenadores	2501510		Equipamento ou Material	-
+Oximetro	1511171		Equipamento ou Material	-
+Oximetro de Pulso	1511170		Equipamento ou Material	-
+OXIMETRO DE PULSO PARA MONITORAMENTO NÃO CONTÍNUO	1511169		Equipamento ou Material	-
+Padroes, Calibradores e Controles	3300000		Equipamento ou Material	-
+PAINEL DE ORTÓTIPOS	1511083		Equipamento ou Material	-
+Painel Multifuncional	1571085		Equipamento ou Material	-
+Palmilha Ortopedica	2501676		Equipamento ou Material	-
+Papel Para Articulacao	2101290		Equipamento ou Material	-
+Papilotomo	1551435		Equipamento ou Material	-
+Paquímetro Oftalmológico	1511591		Equipamento ou Material	-
+PARAFUSO DE FIXAÇÃO ORTODÔNTICO	9000083	Pequena haste metálica com uma rosca helicoidal e uma cabeça ranhurada/moldada, que é inserida no maxilar para servir de dispositivo de fixação temporária a um dispositivo ortodôntico (p. ex., uma mola ou placa). Está disponível em diversos tamanhos e comprimentos e pode ter uma rosca auto-perfurante/auto-roscante para a sua fácil inserção e remoção depois de alcançado o alinhamento desejado dos dentes. É utilizada numa variedade de tratamentos ortodônticos, em especial nos casos em que a anatomia normal foi comprometida (p. ex., devido a doença periodontal ou agenesia, deslocamento dos dentes na mesma direção ou anatomia assimétrica). Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+PARAFUSO ÓSSEO CRANIOFACIAL BIOABSORVÍVEL	9000084	Pequena haste rosqueada estéril, com uma cabeça com ranhura, para a fixação de fraturas de ossos craniofaciais (incluindo o maxilar superior e/ou a mandíbula) através do seu parafusamento ao osso, para nele fixar placas ou para proporcionar a estabilização interfragmentária direta do osso; é feita de um material quimicamente degradável e, geralmente, absorvido através dos processos naturais do organismo (p. ex., polímeros degradáveis). O dispositivo pode ser auto-perfurante/auto-roscante. As suas aplicações incluem reparação de fraturas orbitais e fraturas em torno dos seios cranianos, cirurgia reconstrutiva pediátrica e fixação de retalhos de craniotomia.	Equipamento ou Material	-
+PARAFUSO ÓSSEO CRANIOFACIAL NÃO BIOABSORVÍVEL, ESTÉRIL	9000085	Pequena haste rosqueada estéril, com uma cabeça com ranhura, para a fixação de fraturas de ossos craniofaciais de curto termo (incluindo o maxilar superior e/ou a mandíbula), através do seu parafusamento ao osso, para nele fixar placas ou para proporcionar a estabilização interfragmentária direta do osso; é feita de um material que não é quimicamente degradável ou absorvido através dos processos naturais do organismo [inclui metais de implante, tais como aço cirúrgico, liga de titânio ou fibra de carbono]. O dispositivo pode ser auto-perfurante/auto-roscante. As suas aplicações incluem reparação de fraturas orbitais e fraturas em torno dos seios cranianos, cirurgia reconstrutiva pediátrica e fixação de retalhos de craniotomia.	Equipamento ou Material	-
+PARAFUSO ÓSSEO CRANIOFACIAL NÃO BIOABSORVÍVEL, NÃO ESTÉRIL	9000086	Pequena haste roscada não estéril, possui uma cabeça com ranhura destina-se a ser implantada ou inserida a curto prazo no osso craniofacial (incluindo a maxilar superior ou mandíbula) para o tratamento de fratura ou para a fixação de fragmentos de ossos transplantados e / ou pequenos enxertos (por exemplo, durante um procedimento de aumento de osso intra-oral). O dispositivo pode ser auto-perfurante / auto-roscante e é feita de um material que não é quimicamente degradados ou absorvidos através de processos naturais do organismo [por exemplo, metais para tais como aço cirúrgico, titânio (Ti)]. Este dispositivo deve ser esterilizados antes da utilização.	Equipamento ou Material	-
+PARAFUSO ÓSSEO DA COLUNA VERTEBRAL BIOABSORVÍVEL	9000087	Pequena haste rosqueada estéril com uma cabeça com ranhura, utilizada na fixação interna da coluna vertebral através do seu parafusamento à mesma para fixar placas ou outros dispositivos de estabilização ao osso; é feita de um material que é quimicamente degradado ou reabsorvido através dos processos biológicos do organismo (p. ex. polímeros degradáveis). O dispositivo é geralmente utilizado em procedimentos de discectomia e fusão da coluna vertebral como meio para manter a posição relativa de transplante de ossos alógenos ou autólogos.	Equipamento ou Material	-
+PARAFUSO ÓSSEO DA COLUNA VERTEBRAL NÃO BIOABSORVÍVEL	9000088	Pequena haste rosqueada estéril com uma cabeça com ranhura, utilizada na fixação interna da coluna vertebral através do seu parafusamento à mesma para fixar placas ou outros dispositivos de estabilização ao osso; é feita de um material que não é quimicamente degradado ou reabsorvido através dos processos biológicos do organismo [inclui metais de implante, tais como aço cirúrgico, liga de titânio ou fibra de carbono]. O dispositivo é geralmente utilizado para proporcionar a imobilização e a estabilização de segmentos da coluna vertebral no tratamento de diversas instabilidades ou deformações da mesma.	Equipamento ou Material	-
+PARAFUSO ÓSSEO ORTOPÉDICO BIOABSORVÍVEL	9000089	Pequena haste roscada estéril, com uma cabeça com ranhura, geralmente utilizada na fixação interna de fraturas ortopédicas através do seu parafusamento ao osso, para fixar placas ou pregos ao osso ou para proporcionar a estabilização interfragmentária direta do osso ou, ainda, para fixar tecidos moles ao osso; pode ser feita de um material quimicamente degradável e, geralmente, absorvido através dos processos naturais do organismo (p. ex., polímeros degradáveis). Este dispositivo pode ser utilizado em cirurgias maxilofaciais. Existem vários tipos à disposição: corticais, para osso esponjoso, maleolares, escafoides, parcialmente rosqueados e totalmente rosqueados. Um "parafuso Lag" pode ser qualquer um destes, sendo utilizado para exercer compressão sobre os fragmentos ósseos.	Equipamento ou Material	-
+PARAFUSO ÓSSEO ORTOPÉDICO NÃO BIOABSORVÍVEL, ESTÉRIL	9000090	Pequena haste estéril rosqueada com uma cabeça com ranhura, geralmente utilizada na fixação interna de fraturas através do seu parafusamento ao osso, para lhe fixar placas ou hastes ou para proporcionar a estabilização interfragmentária direta do osso ou, ainda, para fixar tecidos moles ao osso; pode ser feito de um material que não é quimicamente degradado ou reabsorvido através dos processos biológicos do organismo [inclui metais de implante, tais como aço cirúrgico, liga de titânio ou fibra de carbono]. Existem vários tipos à disposição: corticais, para osso esponjoso, maleolares, escafóides, parcialmente rosqueados, totalmente rosqueados, auto-roscante e canulados. Um "parafuso Lag" pode ser qualquer um destes, sendo utilizado para exercer compressão sobre os fragmentos ósseos.	Equipamento ou Material	-
+PARAFUSO ÓSSEO ORTOPÉDICO NÃO BIOABSORVÍVEL, NÃO ESTÉRIL	9000091	Pequena haste não estéril rosqueada com uma cabeça com ranhura, geralmente utilizada na fixação interna de fraturas através do seu parafusamento ao osso, para lhe fixar placas ou hastes ou para proporcionar a estabilização interfragmentária direta do osso ou, ainda, para fixar tecidos moles ao osso; pode ser feita de um material que não é quimicamente degradado ou reabsorvido através dos processos biológicos do organismo [inclui metais de implante, tais como aço cirúrgico, liga de titânio ou fibra de carbono]. Os tipos de parafusos disponíveis são: corticais, para osso esponjoso, maleolares, escafóides, parcialmente rosqueados, totalmente rosqueados, auto-roscante e canulados. Um "parafuso Lag" pode ser qualquer um destes, quando utilizado para exercer compressão. Este dispositivo deve ser esterilizado antes de ser reutilizado.	Equipamento ou Material	-
+PARAFUSO PARA PLACA DE CRANIOPLASTIA	9000092	Pequena haste rosqueada com uma cabeça com ranhura, concebida para fixar placas cranianas (ou seja, placas com uma curvatura central convexa equiparável à curvatura das regiões frontal, lateral ou posterior do crânio humano adulto) aos ossos cranianos intactos. Geralmente é feita de metal (p. ex. aço inoxidável, titânio) e possui comprimento e diâmetro apropriados para os orifícios da placa e para os ossos cranianos. É utilizada principalmente em procedimentos neurocirúrgicos para fixar as placas de cranioplastia utilizadas na reparação de defeitos criados ou causados por traumatismos, intervenções cirúrgicas para remoção de tumores, anomalias congénitas ou doenças.	Equipamento ou Material	-
+Paramonoclorofenol Canforado	2101019		Equipamento ou Material	-
+Particulador Osseo	2501950		Equipamento ou Material	-
+PASSADOR DE SUTURA	1551622		Equipamento ou Material	-
+Pasta de Protecao	2501555		Equipamento ou Material	-
+Pasta Dental com Fluor	2502055		Equipamento ou Material	-
+Pasta P/Tratamento e Prevencao de Alveolites	2101285		Equipamento ou Material	-
+Pastas Para Profilaxia e Polimento Dental	2101305		Equipamento ou Material	-
+Peça de mão / eletrodo eletrocirúrgico endoscópico, monopolar, reprocessado	9000146	Um dispositivo eletrocirúrgico estéril que consiste em uma peça de mão com controles mecânicos e / ou elétricos e um eletrodo monopolar, destinado a fornecer corrente eletrocirúrgica de um gerador de sistema diretamente aos tecidos para corte / coagulação / ablação durante cirurgia endoscópica (incluindo laparoscópica, artroscópica). Inclui um eletrodo longo e fino conectado à peça de mão e pode incluir um lúmen para sucção / irrigação; está disponível em uma variedade de formas (por exemplo, fórceps, sonda com controles) e requer um eletrodo de retorno de contato do paciente para completar o circuito. Este é um dispositivo de uso único usado anteriormente que foi processado para uma aplicação adicional de paciente de uso único.	Equipamento ou Material	-
+PEÇA FACIAL FILTRANTE	9000130	Máscara de filtragem projetada para ser colocada sobre o nariz e a boca de um profissional de saúde para permitir a respiração normal, protegendo o usuário e o paciente de partículas grandes (por exemplo, sangue, fluidos corporais e materiais particulados no ar) e partículas pequenas (por exemplo , bactérias e vírus) durante procedimentos médicos, cirúrgicos, odontológicos e de isolamento. Geralmente, ele é feito de várias camadas de polímeros não tecidos para produzir uma máscara macia e flexível que criará uma vedação hermética contra o rosto do usuário e normalmente presa com tiras elásticas ou laços na cabeça; pode incorporar uma peça nasal (fio de metal) e/ou uma válvula de expiração. 	Equipamento ou Material	-
+Pecas Implantaveis de Silicone	2701131		Equipamento ou Material	-
+PEEK injetável	2101334	Material polimérico a base de PEEK, injetável, para uso odontológico	Equipamento ou Material	-
+PEEK para CAD/CAM	2101332		Equipamento ou Material	-
+Pente para piolhos portátil	1531211	Dispositivo portátil, movido a bateria, com dentes (dentes) especialmente projetados, espaçados com precisão e destinados a serem sistematicamente puxados pelos cabelos, geralmente seguindo o contorno do couro cabeludo, para expor e remover os piolhos da cabeça humana (Pediculus humanus capitis) e seus ovos (lêndeas) de uma pessoa infestada. O dispositivo normalmente vibra os dentes do pente e / ou fornece uma descarga eletrostática para eletrocutar os piolhos. 	Equipamento ou Material	-
+Perfurador Odontologico	1151130		Equipamento ou Material	-
+PERINEÔMETRO	2809013		Equipamento ou Material	-
+PERMUTADOR  DE CALOR E HUMIDADE	2509101		Equipamento ou Material	-
+PHANTOMA (FANTOMA)	1310113		Equipamento ou Material	-
+PIGMENTOS, VEÍCULOS E SOLVENTES PARA PIGMENTAÇÃO ARTIFICIAL PERMANENTE DA PELE	1511351		Equipamento ou Material	-
+Pilar de Cicatrização	2101381		Equipamento ou Material	-
+Pilar Protetico	2101380		Equipamento ou Material	-
+Pinca Bipolar	1551355		Equipamento ou Material	-
+Pinca de Fixacao	1551345		Equipamento ou Material	-
+Pinca Endoscopica	1551366		Equipamento ou Material	-
+Pinca Hemostatica	1551365		Equipamento ou Material	-
+Pinca Para Biopsia	1551335		Equipamento ou Material	-
+Pincas	1551356		Equipamento ou Material	-
+Pincas Articuladas	1551340		Equipamento ou Material	-
+Pincas Cirurgicas Descartaveis	2502010		Equipamento ou Material	-
+Pincas de Disseccao/Pincas Anatomicas	1551350		Equipamento ou Material	-
+Pino e fio rígidos absorvíveis	2700105		Equipamento ou Material	-
+Pino e fio rígidos não absorvíveis	2700104		Equipamento ou Material	-
+Pino Para Moldagem/Reconstrucao Coronaria	2101376		Equipamento ou Material	-
+Pinos Intraradiculares Odontologicos	2101135		Equipamento ou Material	-
+Pinos Para Odontologia	2101300		Equipamento ou Material	-
+Pistola de Injecao Automatica	1531065		Equipamento ou Material	-
+PISTOLA DE INJEÇÃO MECÂNICA	1531064		Equipamento ou Material	-
+Placa angulada tubular não absorvível para osteossíntese	2700089		Equipamento ou Material	-
+Placa de Aterramento Autoadesiva	1551375		Equipamento ou Material	-
+Placa de Gel de Silicone	1551047		Equipamento ou Material	-
+Placa de Ostomia	2502015		Equipamento ou Material	-
+Placa de reconstrução absorvível para osteossíntese	2700094		Equipamento ou Material	-
+Placa de reconstrução não absorvível para osteossíntese	2700090		Equipamento ou Material	-
+Placa e Manta Aquecedora	1531140		Equipamento ou Material	-
+Placa especial absorvível para osteossíntese	2700093		Equipamento ou Material	-
+Placa especial não absorvível para osteossíntese	2700091		Equipamento ou Material	-
+Placa não absorvível para osteossíntese:	2700087		Equipamento ou Material	-
+Placa reta absorvível para osteossíntese:	2700092		Equipamento ou Material	-
+Placa reta não absorvível para osteossíntese	2700088		Equipamento ou Material	-
+Placa Terra	2501545		Equipamento ou Material	-
+Placas Para Confeccao de Moldeiras	2101275		Equipamento ou Material	-
+Pletismografo	1511190		Equipamento ou Material	-
+Pneumotacometro	1511210		Equipamento ou Material	-
+POLIAMIDA PARA FABRICAÇÃO/PRODUÇÃO DE PRÓTESES DENTÁRIAS REMOVÍVEIS	2101319		Equipamento ou Material	-
+Polígrafo Cardíaco	1511078		Equipamento ou Material	-
+Polimero de Vidro	2101410		Equipamento ou Material	-
+PONTA DE ULTRA-SOM	1151011		Equipamento ou Material	-
+Pontas aplicadoras descartáveis odontológicas	2101465		Equipamento ou Material	-
+Pontas para Aspirador Cirurgico	1551226		Equipamento ou Material	-
+PONTEIRA OFTALMOLÓGICA	1551361		Equipamento ou Material	-
+PONTEIRA PARA USO OFTALMOLÓGICO	1551359		Equipamento ou Material	-
+Ponteiras de Radiofrequencia Para Cirurgia	1551358		Equipamento ou Material	-
+Porcelana em Po Para Odontologia	2101310		Equipamento ou Material	-
+Porcelana/ Cerâmica Odontológica	2101378		Equipamento ou Material	-
+Porta Matriz Odontologico	2101391		Equipamento ou Material	-
+Porta-Agulhas	1551360		Equipamento ou Material	-
+Posicionador cardíaco	1551134		Equipamento ou Material	-
+Posicionador Radiologico	2301070		Equipamento ou Material	-
+Prancha de Imobilizaçao	2502042		Equipamento ou Material	-
+PRANCHA PARA TRANSPORTE	2502044		Equipamento ou Material	-
+Preservativos	2502058		Equipamento ou Material	-
+Preservativos Femininos	2501515		Equipamento ou Material	-
+Preservativos Masculinos	2501520		Equipamento ou Material	-
+Pressurizador	2501521		Equipamento ou Material	-
+Processador de Componentes Sanguineos	1671135		Equipamento ou Material	-
+Processador de Imagens de Raio-X	1311114		Equipamento ou Material	-
+Processadora Automatica Para Filmes de Raios X	1311110		Equipamento ou Material	-
+Processadora de Imagem de Video p/ Endoscopia	1511375		Equipamento ou Material	-
+Programador de Dispositivos Implantaveis	1531175		Equipamento ou Material	-
+Projetor Oftalmologico	1511081		Equipamento ou Material	-
+Protecao Plumbifera Para Raios X	1391150		Equipamento ou Material	-
+Protese Biliar	2701145		Equipamento ou Material	-
+Protese de Panturrilha	2701001		Equipamento ou Material	-
+PRÓTESE DE TENDÃO PARA MÃO	9000093	Dispositivo implantável destinado à reconstrução cirúrgica do tendão flexor da mão. O dispositivo é implantado por um período de dois a seis meses para facilitar o crescimento de uma nova bainha tendinosa. Pode ser feito, p. ex., de um elastômero de silicone ou de um elastômero de silicone para uso médico reforçado com poliéster.	Equipamento ou Material	-
+Protese Externa	2501670		Equipamento ou Material	-
+Protese Glutea	2701002		Equipamento ou Material	-
+Protese Glutea	2701003		Equipamento ou Material	-
+Prótese Pancreática	2701505		Equipamento ou Material	-
+PRÓTESE PARA LIGAMENTO, BIOABSORVÍVEL	9000094	Dispositivo implantável bioabsorvível que é utilizado na substituição ou reparação de uma estrutura ligamentar ausente ou lesionada, de forma a restaurar a função natural da mesma. É feito de materiais sintéticos. Trata-se de um dispositivo de uso único que é quimicamente degradado ou absorvido através dos processos biológicos do organismo.	Equipamento ou Material	-
+PRÓTESE PARA LIGAMENTO, NÃO BIOABSORVÍVEL	9000095	Dispositivo implantável não bioabsorvível que é utilizado na substituição ou reparação de uma estrutura ligamentar ausente ou lesionada, de forma a restaurar a função natural da mesma. É feito de materiais sintéticos. Trata-se de um dispositivo de uso único que não pode ser quimicamente degradado ou absorvido através dos processos naturais do organismo.	Equipamento ou Material	-
+Protese Para Tendao	2701286		Equipamento ou Material	-
+Protese Testicular	2701290		Equipamento ou Material	-
+PRÓTESE VALVULAR CARDÍACA BIOLÓGICA	9000018	Tecido biológico implantável destinado a reparar ou substituir a válvula cardíaca natural, ou previamente implantada, geralmente para tratar doenças valvulares adquiridas ou congênitas.	Equipamento ou Material	-
+PRÓTESE VALVULAR CARDÍACA MECÂNICA	9000019	Dispositivos mecânicos implantáveis destinados a reparar ou substituir a válvula cardíaca natural, geralmente para tratar doenças valvulares adquiridas ou congênitas.	Equipamento ou Material	-
+Proteses Auditivas	2701140		Equipamento ou Material	-
+Proteses Cardiovasculares	2701150		Equipamento ou Material	-
+Proteses Esofagiana, Laringeal e Traqueal	2701250		Equipamento ou Material	-
+Proteses Faciais	2701260		Equipamento ou Material	-
+Proteses Mamarias	2701270		Equipamento ou Material	-
+Proteses Peniana	2701280		Equipamento ou Material	-
+PRÓTESES TOTAIS DE JOELHO	9000096	Dispositivos implantáveis artificiais substitutos de uma articulação de joelho, tipicamente concebidos para substituir todas as superfícies articulares da articulação danificada/degenerada (por exemplo, artrítica) [substituição total do joelho] ou para substituir uma prótese de joelho disfuncional (revisão)	Equipamento ou Material	-
+PRÓTESES TOTAIS DO QUADRIL	9000097	Conjunto de Dispositivos concebidos como substitutos artificiais implantáveis para restaurar uma articulação completa do quadril, lesionada ou doente (componentes femoral e acetabular).	Equipamento ou Material	-
+Proteses Uretrais	2701285		Equipamento ou Material	-
+Proteses Vasculares	2701300		Equipamento ou Material	-
+Protetor de Agulha	2501045		Equipamento ou Material	-
+Protetor de Estoma	2501056		Equipamento ou Material	-
+Protetor Para Cone Luer	2501055		Equipamento ou Material	-
+Protetor para Membros Residuais(Coto)	2501656		Equipamento ou Material	-
+Protetores	2501539		Equipamento ou Material	-
+Protetores ( partes de equipamentos )	2501535		Equipamento ou Material	-
+Protetores (ocular, de mamilo e outras partes do	2501530		Equipamento ou Material	-
+Pupilometro	1511630		Equipamento ou Material	-
+Radiologia e Diagnostico por Imagem	1300000		Equipamento ou Material	-
+Radiometro	1531215		Equipamento ou Material	-
+Raspadores	1551370		Equipamento ou Material	-
+Recipiente P/Acondicion.Instrumental Cirurgico	2501536		Equipamento ou Material	-
+Recipiente P/Armazenar e Transportar Produtos	1571230		Equipamento ou Material	-
+Recipiente para Perfurocortantes/Infectante	2501541		Equipamento ou Material	-
+Reconstrucao de Deficiencia do Tecido Mole	2709901		Equipamento ou Material	-
+Recuperador Endovascular de Corpos Estranhos	1311158		Equipamento ou Material	-
+Refletor Parabolico	1571290		Equipamento ou Material	-
+Refletores Odontologicos	1171190		Equipamento ou Material	-
+Refratometro Oftalmico	1511640		Equipamento ou Material	-
+Refrigerador ou Freezer Laboratorial/Hospitalar	1571145		Equipamento ou Material	-
+Registrador de Sinais Vitais	1571130		Equipamento ou Material	-
+RÉGUA ANTROPOMÉTRICA PEDIÁTRICA	1310001		Equipamento ou Material	-
+Régua calibradora endodôntica	2101111		Equipamento ou Material	-
+Regulador de Pressão	1571242		Equipamento ou Material	-
+Regulador de Vacuo	1571241		Equipamento ou Material	-
+Reguladores de Pressao de Gases Medicinais	1571240		Equipamento ou Material	-
+Removedor Mecanico de Placa Dentaria	2109300		Equipamento ou Material	-
+Reprocessador de Hemodialisador	1571155		Equipamento ou Material	-
+Reservatorios	2501550		Equipamento ou Material	-
+RESINA A BASE DE POLIACETAL PARA PRÓTESE ODONTOLÓGICA	2101333		Equipamento ou Material	-
+Resina Autopolimerizavel p/Reembasamento Proteses	2101325		Equipamento ou Material	-
+Resina Composta  Fotopolimerizável	2101330		Equipamento ou Material	-
+Resina Composta Autopolimerizável	2101331		Equipamento ou Material	-
+Resina Fluida para União	2101018		Equipamento ou Material	-
+Resinas Acrilicas Odontologicas	2101320		Equipamento ou Material	-
+Respirador Artificial	1531150		Equipamento ou Material	-
+Respirometro	1531225		Equipamento ou Material	-
+Ressectoscopio	1551698		Equipamento ou Material	-
+Ressuscitador Cardio-Pulmonar	2501730		Equipamento ou Material	-
+RESTRITORES, PRESSURIZADORES E SELADORES DE CIMENTO ORTOPÉDICO	1551631		Equipamento ou Material	-
+Retinografo	1519601		Equipamento ou Material	-
+Retinômetro	1511665		Equipamento ou Material	-
+Retinoscopio	1511650		Equipamento ou Material	-
+Retosigmoidoscopio	1511435		Equipamento ou Material	-
+RETRATOR DE ACESSO	1551011		Equipamento ou Material	-
+Retratores	1551465		Equipamento ou Material	-
+Retratores Gengivais e Hemostaticos	2109216		Equipamento ou Material	-
+REVÓLVER DISPENSADOR DE CIMENTO ORTOPÉDICO	9000058	Dispositivo manual concebido para conter uma seringa de cimento ortopédico e facilitar a distribuição do cimento contido na seringa ao local de aplicação. O dispositivo tem o formato de uma pistola com uma abertura no cano para incluir a seringa; quando se ativa o gatilho situado no cabo na extremidade proximal do dispositivo, um pistão central empurra a seringa e força a saída de cimento pela extremidade distal. Trata-se de um dispositivo reutilizável.	Equipamento ou Material	-
+ROLETE DE MICROAGULHAS PARA ESTÉTICA	2501044		Equipamento ou Material	-
+Rompedor de Membrana Amniotica Descartavel	2501570		Equipamento ou Material	-
+ROUPA PARA BIOESTIMULAÇÃO	2809062		Equipamento ou Material	-
+SACA PROTESE	1171185		Equipamento ou Material	-
+Scanner Fluorescente	1311200	 	Equipamento ou Material	-
+Secadora Hospitalar	1571140		Equipamento ou Material	-
+Seladora de Tubos	1671055		Equipamento ou Material	-
+Selante Odontologico	2301040		Equipamento ou Material	-
+Selante Para Canal Radicular	2101125		Equipamento ou Material	-
+Selantes Para Fossulas/Fissuras	2101350		Equipamento ou Material	-
+Sementes Para Irradiacao	2701350		Equipamento ou Material	-
+Sensor de fluxo de gases para circuito respiratório	9000151	Dispositivo que detecta o movimento dos gases num circuito respiratório. Encontra-se, geralmente, em dispositivos complexos, p. ex. ventiladores para adultos/pediátricos/neonatais e ventiladores para sistemas de anestesia, e destina-se a monitorizar a entrada e a saída do fluxo dos gases do doente. O dispositivo que o inclui apresenta os parâmetros que recebe do fluxo de ar e pode proceder a ajustes de controlo, se necessário. Trata-se de um dispositivo reutilizável.	Equipamento ou Material	-
+Sensor de Fluxo Respiratório	1531086		Equipamento ou Material	-
+SENSOR DE OXIGÊNIO	9000150	Dispositivo que detecta a presença e determina a concentração de oxigénio (O2) mediante técnicas paramagnéticas, electroquímicas ou outras. O dispositivo é, geralmente, utilizado como componente de um analisador de oxigénio ou de um dispositivo ou sistema de monitorização de doentes, que determina a percentagem de oxigénio em gases medicinais usados em sistemas de anestesia e sistemas de ventilação para cuidados intensivos ou no ar atmosférico. Trata-se de um dispositivo reutilizável. 	Equipamento ou Material	-
+SENSOR PARA AQUISIÇÃO DE IMAGENS RADIOLÓGICAS	1319015		Equipamento ou Material	-
+SENSOR PARA SISTEMA IMPLANTÁVEL DE MONITORAMENTO DA GLICOSE	9000101	Dispositivo estéril destinado a ser implantado subcutaneamente para monitoramento contínuo dos níveis de glicose no fluido intersticial, tipicamente para detectar tendências e monitorar padrões em pacientes com diabetes mellitus. É um sensor pequeno, em forma de bastão, constituído por um detector de glicose eletroquímico ou óptico que emite sinais que são enviados para um transmissor externo (não incluído) por meio de uma conexão sem fio. É passivamente alimentado pelo transmissor. Podem ser incluídos dispositivos de implantação dedicados (por exemplo, dissector rombo, cânula).	Equipamento ou Material	-
+Sensor Toráxico de Movimento Respiratório	1531087		Equipamento ou Material	-
+Sensores	2501170		Equipamento ou Material	-
+Sensores de Temperatura	1511675		Equipamento ou Material	-
+Sensores Para Oximetria	1531085		Equipamento ou Material	-
+Seringa Carpule Odontologica	2101055		Equipamento ou Material	-
+Seringa para Odontologia	1151100		Equipamento ou Material	-
+Seringa Tríplice Odontológica	2101035		Equipamento ou Material	-
+Seringas	2501585		Equipamento ou Material	-
+Seringas Descartaveis	2501580		Equipamento ou Material	-
+Serra Elétrica Cirúrgica	1551391		Equipamento ou Material	-
+Serras	1551390		Equipamento ou Material	-
+Silicone Autopolimerizável para Reembasamento	2502009		Equipamento ou Material	-
+SIMULADOR DE CAMINHADA	2809042		Equipamento ou Material	-
+Simulador Radioterapico	1391180		Equipamento ou Material	-
+Sist.Instrum.P/Implantacao Proteses Ortopedica	1551640		Equipamento ou Material	-
+Sistema "Holter"	1511350		Equipamento ou Material	-
+Sistema a Laser de Multiplo Uso em Estética 	1531326		Equipamento ou Material	-
+Sistema a Laser Para Cirurgia	1531335		Equipamento ou Material	-
+Sistema a Laser Para Depilacao	1531325		Equipamento ou Material	-
+Sistema a LED para Terapia	1331065		Equipamento ou Material	-
+SISTEMA A VÁCUO PARA TRATAMENTO DE FERIDAS	2809047		Equipamento ou Material	-
+Sistema cirúrgico robótico	9000156	Um conjunto de dispositivos eletromecânicos projetado para ser usado durante a cirurgia assistida por computador (CAS) como uma extensão funcional do cirurgião para modelagem precisa de osso e tecido mole ou remoção de tecido mole (por exemplo, durante uma artroplastia total da articulação do joelho (ATJ)). É baseado em computador e normalmente consiste em um console do operador e braços robóticos para manipulação de instrumentos. A entrada para um computador é geralmente por meio de uma tomografia computadorizada (TC) ou ressonância magnética (MRI) existente. Também pode ser usado como um auxiliar de treinamento para cirurgiões de várias especialidades.	Equipamento ou Material	-
+Sistema cirúrgico ultrassônico de tecido mole	9000147	Conjunto de dispositivos que converte a corrente de alta frequência em oscilação ultrassônica para fragmentar mecanicamente as células do tecido mole ao entrar em contato com uma ponta vibratória para cortar e / ou coagular o tecido durante a cirurgia, possivelmente em combinação com irrigação e aspiração. A vibração contínua pode criar calor nas células (diatermia) para aumentar a capacidade de corte / coagulação. Normalmente inclui um gerador de produção de energia com funções de monitoramento, uma (s) peça (s) de mão com ponta (s) para converter e aplicar a energia, cabos de conexão, um interruptor de mão ou de pé como uma opção para regular a energia e, possivelmente, um sistema integrado de irrigação / sucção.	Equipamento ou Material	-
+Sistema Combinado de Ultrassom e Eletroestimulação para Terapia	1331015		Equipamento ou Material	-
+Sistema Combinado de Ultrassom e Laser para Terapia	1331016		Equipamento ou Material	-
+Sistema Computadorizado de Anestesia	1171012		Equipamento ou Material	-
+Sistema de Aferese	1671155		Equipamento ou Material	-
+Sistema de Analise de ECG	1511195		Equipamento ou Material	-
+Sistema de Analise de Holter	1511205		Equipamento ou Material	-
+Sistema de análise de marcapasso implantável transtelefônico	9000140	Conjunto de dispositivos projetados para analisar o desempenho de um marcapasso implantado com base em medidas eletrocardiográficas que podem ser monitoradas transtelefonicamente. Normalmente inclui um analisador de marcapasso baseado em computador, um eletrocardiógrafo (ECG) de 12 derivações e um receptor e / ou transmissor transtelefônico. Ele fornece dados retirados diretamente do paciente (por exemplo, eletrodos de ECG são aplicados ao paciente e um ímã de teste é colocado sobre o marca-passo para ativá-lo) ou um programador de marca-passo. Os sinais são enviados ao receptor, onde as informações da função do marcapasso são exibidas. Este sistema também pode incluir um banco de dados que coleta e armazena dados do paciente.	Equipamento ou Material	-
+SISTEMA DE ANÁLISE DE MARCHA	1319902		Equipamento ou Material	-
+Sistema de artroplastia total não restrita de cotovelo	2700050		Equipamento ou Material	-
+Sistema de Aspiracao Traqueal	2501357		Equipamento ou Material	-
+Sistema de Avaliacao e Testes Isocineticos	1511730		Equipamento ou Material	-
+Sistema de Bomba Balao Intra-Aortica	1580000		Equipamento ou Material	-
+Sistema de Braquiterapia	1331031		Equipamento ou Material	-
+Sistema de Cimentacao Ossea	2501985		Equipamento ou Material	-
+Sistema de Circulacao Extracorporea	1551530		Equipamento ou Material	-
+Sistema de Compressao de Membros	1531360		Equipamento ou Material	-
+SISTEMA DE DERIVAÇÃO (BY-PASS) CARDIOPULMONAR E DISPOSITIVOS ASSOCIADOS	9000059	Conjuntos de dispositivos projetados para fornecer suporte circulatório mecânico para um paciente durante a cirurgia de coração aberto, derivando o coração para facilitar a cirurgia no órgão e oxigenando o sangue venoso do corpo e depois bombeá-lo de volta ao circuito arterial; e dispositivos associados.	Equipamento ou Material	-
+SISTEMA DE DESPRENDIMENTO DE BOBINAS PARA TERAPIA DE ANEURISMAS	1551664		Equipamento ou Material	-
+Sistema de Diagnóstico Radiológico	1319010		Equipamento ou Material	-
+Sistema de Dosificacao de Solucoes	2502035		Equipamento ou Material	-
+Sistema de Drenagem	2501710		Equipamento ou Material	-
+Sistema de Drenagem e Monitoracao de Pressao	2501592		Equipamento ou Material	-
+SISTEMA DE ENDOSCOPIA	1511109		Equipamento ou Material	-
+Sistema de Endoscopia por Capsula Endoscopica	1511750		Equipamento ou Material	-
+Sistema de estimulação de tosse	1531132		Equipamento ou Material	-
+SISTEMA DE ESTIMULAÇÃO ELÉTRICA CEREBRAL PROFUNDA	9000020	Conjunto de dispositivos implantáveis, estéreis, projetados para aplicar estímulos elétricos em áreas específicas profundas do cérebro para o tratamento de perturbações do movimento (por exemplo, essencial tremor, sintomas da doença de Parkinson, epilepsia, distonia), distúrbios psiquiátricos (por exemplo, transtorno obsessivo-compulsivo, depressão, transtorno de ansiedade), e / ou para tratar a infecção crónica, a dor severa, intratável. Ele consiste tipicamente de elétrodos implantados no cérebro, fios condutores e um gerador de impulsos que é normalmente implantado próximo ao esterno.	Equipamento ou Material	-
+Sistema de Fechamento do Esterno	2701171		Equipamento ou Material	-
+Sistema de Fixacao Externa	2709910		Equipamento ou Material	-
+Sistema de Fluxo Laminar	1671250		Equipamento ou Material	-
+Sistema de Hemoadsorcao	1531375		Equipamento ou Material	-
+Sistema de Implantação de Lentes	1551136		Equipamento ou Material	-
+SISTEMA DE IMPLANTE AUDITIVO	9000060	Conjunto de dispositivos implantado na cabeça, e/ou perto da orelha, destinado a compensar a deficiência auditiva através de vários métodos eletroacústicos/eletromecânicos.	Equipamento ou Material	-
+Sistema de Infusao	2501701		Equipamento ou Material	-
+Sistema de Insuflamento para Angioplastia	2501593		Equipamento ou Material	-
+Sistema de Irrigacao	2501702		Equipamento ou Material	-
+Sistema de Jateamento	1171044		Equipamento ou Material	-
+Sistema de Laser Para Terapia	1331070		Equipamento ou Material	-
+Sistema de Lavagem Para Procedimentos Cirurgicos	1571300		Equipamento ou Material	-
+Sistema de Limpeza das Vias Aéreas através de Oscilação de Alta Frequencia	1531072		Equipamento ou Material	-
+Sistema de Litotripsia /Urologia/Gastroenterologia	1531312		Equipamento ou Material	-
+SISTEMA DE LOCALIZAÇÃO DE CATETER	1511247		Equipamento ou Material	-
+SISTEMA DE LUZ PULSADA PARA ESTÉTICA	1531327		Equipamento ou Material	-
+SISTEMA DE LUZ ULTRAVIOLETA PARA TERAPIA	1331061		Equipamento ou Material	-
+Sistema de Microondas Para Terapia	1331050		Equipamento ou Material	-
+Sistema de Mistura de Solucoes	1670003		Equipamento ou Material	-
+Sistema de Monitoracao de Paciente	1519995		Equipamento ou Material	-
+Sistema de Monitoracao de Parametros Sanguineos	1511245		Equipamento ou Material	-
+Sistema de Monitoracao Perinatal	1511430		Equipamento ou Material	-
+Sistema de Monitoramento do Sono	1511225		Equipamento ou Material	-
+SISTEMA DE NAVEGAÇÃO CIRÚRGICA	1551533		Equipamento ou Material	-
+Sistema de Oclusao Vascular	2501709		Equipamento ou Material	-
+Sistema de Ondas-Curtas Para Terapia	1331080		Equipamento ou Material	-
+Sistema de Particulas Radioativas Para Terapia	1331010		Equipamento ou Material	-
+SISTEMA DE PERFUSÃO DE FÍGADO	1531314		Equipamento ou Material	-
+SISTEMA DE PERFUSÃO DE RIM	1531313		Equipamento ou Material	-
+Sistema de Preparacao de Enxertos	1551695		Equipamento ou Material	-
+Sistema de proteção embólico	2501901		Equipamento ou Material	-
+sistema de pulsação térmica da pálpebra	1111019	Um dispositivo oftálmico estéril projetado para aplicar calor e pressão (massagem de pressão intermitente) à superfície externa da pálpebra para tratamento da doença da margem da pálpebra (LMD), disfunção da glândula de Meibomian (MGD) e / ou olho seco evaporativo. Consiste em duas placas pequenas, uma posicionada sob a pálpebra e a outra com elementos de aquecimento / pulsação aplicados na parte externa da pálpebra, e é usada com uma unidade de controle reutilizável (não incluída). Este é um dispositivo de uso único.	Equipamento ou Material	-
+Sistema de Radiocirurgia	1331020		Equipamento ou Material	-
+Sistema de Radiografia Digital	1311038		Equipamento ou Material	-
+Sistema de Radioterapia	1331091		Equipamento ou Material	-
+SISTEMA DE RADIOTERAPIA POR PROTONS	1331092		Equipamento ou Material	-
+Sistema de raio-x odontológico intraoral portátil, digital	9000149	Um sistema de raios-X odontológico de diagnóstico projetado para gerar e controlar feixes de raios-X. Ele registra o padrão de absorção de feixes de raios-X usados ¿¿para fins gerais, exames de radiografia dentária de rotina envolvendo o diagnóstico e tratamento (por exemplo, cirúrgico ou intervencionista) de doenças dos dentes, mandíbula e estruturas da cavidade oral. Ele é projetado para ser facilmente transportado de um local para outro por um único operador. O sensor é colocado na boca com o objetivo de visualizar detalhadamente uma região limitada. Os dados são de imagem analógica e digitalizados posteriormente ou por imagem digital.	Equipamento ou Material	-
+Sistema de Telemetria	1511125		Equipamento ou Material	-
+Sistema de Terapia Extracorporea	1531311		Equipamento ou Material	-
+Sistema de Terapia por Energia Eletromagnética	1331075		Equipamento ou Material	-
+Sistema de tomografia de coerência óptica coronária	9000161	Um conjunto de dispositivos ópticos e baseados em computador que usam um feixe de luz de largura de banda larga para tomografia de coerência óptica (OCT) para fornecer imagens de alta resolução (por exemplo, 5 a 40 mícrons) da intravasculatura coronária. Normalmente consiste em um console do operador principal que inclui um computador para armazenamento de imagens, controles de teclado/mouse e uma unidade de exibição visual (VDU); instalações de gravação de áudio; e uma impressora. O sistema inclui um cateter de imagem óptica que é conectado ao console para transmissão das imagens do local intravascular. O sistema pode ser usado durante a cardiologia intervencionista, radiologia ou angiografia diagnóstica	Equipamento ou Material	-
+Sistema de Torniquete	2501613		Equipamento ou Material	-
+Sistema de transmissão/recepção de sinais fisiológicos via telefone	9000164	Conjunto de dispositivos concebidos para transmitir e receber múltiplos sinais fisiológicos de um doente (p. ex., frequência cardíaca/respiratória, ECG, pressão sanguínea, SpO2, temperatura, glicémia) através de linhas telefónicas ou da Internet. Inclui geralmente um dispositivo electrónico (p. ex., um modem) que modifica os sinais de monitores/dispositivos de registo fisiológicos de modo a transmiti-los através de linhas telefónicas, e um receptor que processa os sinais de entrada fornecendo um sinal de saída para subsequente apresentação, registo e/ou transmissão e processamento pelos sistemas de informação dos serviços de saúde. O sistema é geralmente utilizado para enviar sinais a partir do domicílio do doente, de consultórios médicos e/ou de locais remotos para unidades de cuidados de saúde.	Equipamento ou Material	-
+Sistema de Ultra-Som Para Terapia	1331060		Equipamento ou Material	-
+SISTEMA DE ULTRASSOM PARA ABLAÇÃO	1331062		Equipamento ou Material	-
+Sistema de Video Cirurgico	1559990		Equipamento ou Material	-
+Sistema eletrocirúrgico	1151021	Conjunto de dispositivos destinados a gerar e aplicar corrente alternada de radiofrequência (RF) a tecidos moles para corte e coagulação durante um procedimento cirúrgico endoscópico ou aberto; não se dedica à ablação focal de tecidos específicos (isto é, não a um sistema de ablação por radiofrequência). A montagem inclui um gerador de RF alimentado por eletricidade (com alimentação CA) com funções / controles de monitoramento, cabos de conexão, uma peça de mão e eletrodos para aplicar a energia ao local da cirurgia. A resistência do tecido à corrente elétrica cria o calor à medida que a corrente viaja através do corpo entre os eletrodos; não se destina a eletrocirurgia com realimentação de argônio.	Equipamento ou Material	-
+Sistema Estereotaxico	1551645		Equipamento ou Material	-
+Sistema extramuscular de estimulação elétrica do diafragma/nervo frênico	9000154	Conjunto de dispositivos alimentados por bateria projetado para fornecer suporte ventilatório a um paciente com disfunção do diafragma de origem neuromuscular por meio da estimulação elétrica do nervo frênico, para contrair o diafragma ritmicamente e fazer com que o paciente respire de maneira semelhante à respiração natural. Normalmente consiste em um receptor implantado com eletrodos que são colocados ao redor do nervo frênico do paciente e um transmissor externo para transmitir os pulsos de estimulação através da pele do paciente para o receptor implantado.	Equipamento ou Material	-
+Sistema Fluoroscopico de Raios X	1311190		Equipamento ou Material	-
+SISTEMA HOLTER E MONITOR DE PRESSÃO ARTERIAL NÃO-INVASIVO	1511352		Equipamento ou Material	-
+SISTEMA IMPLANTÁVEL DE MONITORAMENTO DA GLICOSE	9000100	Conjunto de dispositivos portáteis alimentados por bateria destinados a monitorar continuamente as concentrações de glicose no fluido intersticial em um paciente com diabetes mellitus, utilizando uma técnica invasiva. É tipicamente constituído por um sensor estéril, implantado subcutaneamente, com dispositivos de implantação dedicados (por exemplo, dissector romo, agulha de introdução) e um transmissor usado externamente que comunica com um monitor ou receptor (não incluído) que captura, armazena e converte os sinais do sensor para valores de concentrações de glicose. O sistema auxilia na detecção de episódios de hiperglicemia e hipoglicemia, facilitando ajustes de terapia aguda ou a longo prazo.	Equipamento ou Material	-
+Sistema Implantavel Para Quimioterapia	2701336		Equipamento ou Material	-
+SISTEMA INJETOR DE CO2	1311101		Equipamento ou Material	-
+Sistema Introdutor de Cateter	1559800		Equipamento ou Material	-
+SISTEMA MECANICO DE DESPRENDIMENTO DE BOBINAS PARA TERAPIA DE ANEURISMAS 	1551663		Equipamento ou Material	-
+Sistema Neuroestimulador	1531370		Equipamento ou Material	-
+Sistema Nuclear de Formacao de Imagens	1311160		Equipamento ou Material	-
+Sistema Odontologico de Abrasao a Ar	1171032		Equipamento ou Material	-
+SISTEMA OFTALMOLÓGICO DE FOTOTERAPIA POR ULTRAVIOLETA	1539601		Equipamento ou Material	-
+SISTEMA ÓPTICO TIPO CAD/CAM (TOPOGRAFIA) PARA USO ODONTOLÓGICO 	2101316		Equipamento ou Material	-
+Sistema para artroplastia de ombro total	2700035		Equipamento ou Material	-
+Sistema para artroplastia parcial de ombro	2700037		Equipamento ou Material	-
+Sistema para artroplastia total de ATM	2700071		Equipamento ou Material	-
+Sistema para Artroscopia	1511685		Equipamento ou Material	-
+Sistema para Cirurgia Endoscopica	1551531		Equipamento ou Material	-
+Sistema Para Cirurgia Endoscopica	2502030		Equipamento ou Material	-
+SISTEMA PARA CIRURGIA OFTALMOLÓGICA	1559502		Equipamento ou Material	-
+Sistema para Cirurgia Ortopedica	1551532		Equipamento ou Material	-
+Sistema para Cirurgia Óssea	1559901		Equipamento ou Material	-
+Sistema para Coleta de Amostra de Sangue	2501885		Equipamento ou Material	-
+Sistema Para Coleta de Componentes Sanguineos	1671045		Equipamento ou Material	-
+Sistema para Deteccao de Posicao	1151046		Equipamento ou Material	-
+Sistema para Diagnóstico Cardiovascular	1511079		Equipamento ou Material	-
+SISTEMA PARA DIAGNÓSTICO ENDO-ESTROBOSCOPIO	1511336		Equipamento ou Material	-
+Sistema para Estética de Abrasão a Ar	2809006		Equipamento ou Material	-
+SISTEMA PARA GRAVAÇÃO DE IMAGENS MÉDICAS 	1319901		Equipamento ou Material	-
+Sistema para Injecao de Contraste Radiologico	1311192		Equipamento ou Material	-
+Sistema para Mapeamento Cardíaco	1511366		Equipamento ou Material	-
+Sistema Para Pectus Excavatum	2701088		Equipamento ou Material	-
+Sistema para Perfuracao Ossea	1551400		Equipamento ou Material	-
+Sistema para Reabilitação da Mobilidade Mandibular	2101056		Equipamento ou Material	-
+Sistema para substituição articular de tornozelo	2700058		Equipamento ou Material	-
+SISTEMA PARA SUSTENTAÇÃO DE PACIENTE	1391191		Equipamento ou Material	-
+Sistema para Terapia de Pressao Respiratoria	2501594		Equipamento ou Material	-
+Sistema para Terapia Expiratória Positiva	1531346		Equipamento ou Material	-
+Sistema Para Urodinamica	1511030		Equipamento ou Material	-
+Sistema profissional de clareamento dental	2101493		Equipamento ou Material	-
+SISTEMA RADIOLOGICO DE AQUISIÇÃO DE IMAGENS DIGITAIS	1311045		Equipamento ou Material	-
+Sistema Ultra-Sonico "doppler"	1311180		Equipamento ou Material	-
+Sistema/bomba para arrefecimento de cateter	2501704		Equipamento ou Material	-
+SISTEMAS DE FIXAÇÃO ORTOPÉDICOS E DISPOSITIVOS ASSOCIADOS	9000098	Conjuntos de dispositivo utilizados para estabilizar ossos (normalmente não vertebrais) do corpo para o tratamento de fraturas, defeitos ósseos ou para alongar o osso; e dispositivos associados.	Equipamento ou Material	-
+SISTEMAS DE FIXAÇÃO ORTOPÉDICOS EXTERNOS	9000061	Conjunto de dispositivos que incluem uma estrutura externa, concebidas para estabilizar ossos, normalmente não vertebrais, do corpo para o tratamento de fraturas, defeitos ósseos ou para alongar o osso.	Equipamento ou Material	-
+SISTEMAS INTERNOS DE FIXAÇÃO DE COLUNA VERTEBRAL	9000062	Conjunto de dispositivos destinado a ser implantado para a estabilização de vértebras adjacentes da coluna vertebral no tratamento de fraturas, instabilidade segmentar, ou mal formações da coluna vertebral.	Equipamento ou Material	-
+SISTEMAS OFTALMOLÓGICOS CRIOCIRÚRGICOS E DISPOSITIVOS ASSOCIADOS	1551122		Equipamento ou Material	-
+Software	2900005		Equipamento ou Material	-
+Software aplicativo de eletrofisiologia cardíaca	9000142	Um programa de software projetado para adicionar processamento de imagem específico e / ou recursos de análise de dados a um computador para a interpretação dos parâmetros de eletrofisiologia cardíaca [por exemplo, eletrocardiograma (ECG)]. Pode fornecer avaliação de risco para eventos cardíacos [por exemplo, infarto agudo do miocárdio (AMI), lesão isquêmica do miocárdio aguda (AMII)] e / ou incluir a capacidade de gravar imagens e filmes.	Equipamento ou Material	-
+Software CAD / CAM	9000141	Um programa de software destinado a fornecer funcionalidade de design auxiliado por computador (CAD) ou manufatura auxiliada por computador (CAM) para a produção de dispositivos personalizados específicos do paciente (por exemplo, implantes ortopédicos, dispositivos dentários, modelos anatômicos), planejamento de tratamento, simulação e / ou recursos robóticos para produção de dispositivos (por exemplo, impressão 3-D).	Equipamento ou Material	-
+Software de interface de dados clínicos de equipamentos médicos	9000139	Um software aplicativo projetado para o transporte e processamento de dados clínicos entre dispositivos médicos conectados ao paciente, ou equipamentos de laboratório, e sistemas de informação externos usados ¿¿em ambientes clínicos, para coleta de dados e gerenciamento de informações clínicas. Ele normalmente transfere dados (por exemplo, forma de onda, dados de infusão, resultados de teste de diagnóstico in vitro) para um registro médico eletrônico (EMR) ou um aplicativo para visualização e verificação por um médico. Os dados podem ser agregados para apoiar cálculos de resumo de tratamento de pacientes, pedidos de soluções / medicamentos de infusão ou geração de relatórios e listas de trabalho; não se destina principalmente a gerenciar imagens de diagnóstico / paciente.	Equipamento ou Material	-
+Software de Planej. de Trat. P/ Radioterapia	2901010		Equipamento ou Material	-
+Software de Planej. de Trat. por Radiacao	2900001		Equipamento ou Material	-
+SOFTWARE DE PLANEJAMENTO CIRURGICO/CLINICO	2900002		Equipamento ou Material	-
+SOFTWARE PARA PROCESSAMENTO DE IMAGENS MÉDICAS	2900003		Equipamento ou Material	-
+Software para sistema de arquivo e comunicação de imagens para radiologia	9000136	Programa individual ou grupos de programas, rotinas ou algoritmos informáticos que acrescentam funcionalidades específicas ao nível da visualização, processamento e/ou análise assistidos por computador a um sistema de armazenamento e comunicação de imagens (PACS) utilizado em radiologia. O sistema inclui um conjunto básico de programas e rotinas informáticos que podem ser actualizados para corrigir erros de programação ou acrescentar novas funcionalidades ao sistema. Os pacotes de programas informáticos são geralmente identificados através da marca registada e do número da "versão" ou "actualização".	Equipamento ou Material	-
+Solda Odontologica	2101026		Equipamento ou Material	-
+Soldador de Equipos e Tubos	1591045		Equipamento ou Material	-
+Solucao Anticoagulante	2501565		Equipamento ou Material	-
+Solucao Conservante	2501241		Equipamento ou Material	-
+Solução de eliminação de piolhos	9000165	Substância líquida de aplicação tópica no couro cabeludo e no cabelo destinada a eliminar piolhos (Pediculus humanus capitis) por meios físicos. Geralmente contém agentes tais como dimeticone, ciclometicone e/ou miristato isopropílico que matam os piolhos através de uma acção não tóxica, nomeadamente: 1) revestindo e encapsulando os piolhos, impedindo que eliminem água e acabando por ser destruídos; ou 2) revestindo-os e causando a sua desidratação (perda de água) e morte. Podem ser necessárias várias aplicações para destruir os parasitas dos ovos eclodidos após a primeira aplicação, ou estar incluído um pente para a remoção manual dos ovos. Depois de ser usado, este dispositivo não pode ser reutilizado.	Equipamento ou Material	-
+Solucao de Limpeza de Pele	2501810		Equipamento ou Material	-
+Solução Lubrificante para Articulações	2701504		Equipamento ou Material	-
+Solucao para Desinfeccao de Equipamentos	1591025		Equipamento ou Material	-
+SOLUÇÃO PARA PREENCHIMENTO INTRA-ARTICULAR	2701413		Equipamento ou Material	-
+Solucao para Preenchimento Intradermico	2701411		Equipamento ou Material	-
+Solucao para Transplante de Orgaos	2502002		Equipamento ou Material	-
+Solucao Para Uso Oftalmologico	2501244		Equipamento ou Material	-
+Solucao Removedora	2501942		Equipamento ou Material	-
+Sonda (sensor) de temperatura de injetável	9000121	Dispositivo não estéril, sem contato com o paciente, destinado a ser conectado a um monitor / equipamento de monitoramento (não incluído) para medir a temperatura de uma solução para injeção vascular (e / ou banho de resfriamento injetável) antes de sua introdução vascular (por exemplo, como parte do monitoramento do débito cardíaco baseado na termodiluição - ex.: Cateter Swan Ganz); não se destina a entrar em contato diretamente com o injetado. Normalmente, é uma sonda de metal com um sensor e cabo de conexão. Dispositivo reutilizável.	Equipamento ou Material	-
+Sonda de localização de nervos, de uso único.	9000155	Um instrumento cirúrgico portátil estéril destinado a funcionar como um condutor elétrico para localizar um nervo durante a cirurgia aberta e para fins de diagnóstico [eletromiografia (EMG)], fornecendo impulsos elétricos controlados a um local específico do corpo para a medição de um nervo resposta. Pode ter a forma de uma sonda de agulha ou pinça cirúrgica ligada a um gerador de impulsos elétricos. Este é um dispositivo descartável.	Equipamento ou Material	-
+Sonda do sistema de ultrassom vascular invasivo	9000160	Um componente operado manualmente de um sistema de ultrassom vascular invasivo destinado a ser usado no perioperatório para medir o fluxo de sangue em um vaso sanguíneo isolado, sendo aplicado na parte externa do vaso, usando tecnologia ultrassônica/Doppler/tempo de trânsito. Também pode ser usado para visualização/imagem em corte transversal. Este é um dispositivo reutilizável.	Equipamento ou Material	-
+Sonda Exploradora	2101415		Equipamento ou Material	-
+Sonda percutanea eletrocirurgica, de denervacao, monopolar, de uso unico	9000112	Um instrumento cirurgico manual semi-flexivel destinado a ser introduzido percutaneamente atraves de uma canula dedicada [sob radiografia, ultra-som (US) ou outra orientacao de imagem externa] para fornecer corrente de radiofrequencia, em uma configuracao monopolar, a partir de um sistema gerador diretamente para os tecidos do nervo periferico para coagula-los / abla-los para o tratamento da dor. Inclui um eletrodo monopolar distal que pode incluir elementos sensores de temperatura; A canula de introducao pode ser incluida. Este e um dispositivo de uso unico. 	Equipamento ou Material	-
+Sonda percutanea eletrocirurgica, de denervacao, monopolar, reutilizavel	9000111	Um instrumento cirurgico manual semi-flexivel destinado a ser introduzido percutaneamente atraves de uma canula dedicada [sob radiografia, ultra-som (US) ou outra orientacao de imagem externa] para fornecer corrente de radiofrequencia, em uma configuracao monopolar, a partir de um sistema gerador diretamente para os tecidos do nervo periferico para coagula-los / abla-los para o tratamento da dor. Inclui um eletrodo monopolar distal que pode incluir elementos sensores de temperatura; A canula de introducao pode ser incluida. Este e um dispositivo reutilizavel. 	Equipamento ou Material	-
+Sonda Periodontal	2101016		Equipamento ou Material	-
+Sonda Ultrassônica Esofágica	1311062		Equipamento ou Material	-
+Sondas	2501590		Equipamento ou Material	-
+Sondas Metalicas	1551410		Equipamento ou Material	-
+Spray Gelado	2501595		Equipamento ou Material	-
+STENT BILIAR	9000021	Dispositivo destinado a ser implantado em um duto biliar obstruído para manter a desobstrução do lúmen. 	Equipamento ou Material	-
+STENT BRONQUIAL	9000022	Dispositivo destinado a ser implantado em uma traqueia e/ou brônquios/bronquíolo obstruídos para manter a desobstrução do lúmen.	Equipamento ou Material	-
+STENT ESOFÁGICO	9000023	Dispositivo destinado a ser implantado no esôfago para manter a desobstrução do lúmen ou para reduzir a hemorragia aguda de varizes esofágicas.	Equipamento ou Material	-
+STENT FARMACOLÓGICO PARA ARTÉRIAS CORONÁRIAS	9000027	Dispositivos destinados a serem implantados numa artéria coronária obstruída, ou enxerto vascular coronário, para manter a desobstrução do lúmen e facilitar o adequado fluxo sanguíneo do miocárdio, que incluem um medicamento libertado lentamente, destinado a inibir a reestenose reduzindo a proliferação de células musculares lisas do vaso.	Equipamento ou Material	-
+STENT FARMACOLÓGICO PARA ARTÉRIAS PERIFÉRICAS	9000028	Dispositivos destinados a serem implantados numa artéria periférica (não coronária) obstruída para manter a desobstrução do lúmen e facilitar o adequado fluxo sanguíneo e que possui a liberação lenta de fármacos destinado a impedir a reestenose.	Equipamento ou Material	-
+STENT INTRACRANIANO	2701097		Equipamento ou Material	-
+STENT NÃO VASCULAR (NÃO ENQUADRADO COMO BILIAR, BRONQUIAL, ESOFÁGICO, PANCREÁTICO, URINÁRIO E VAGINAL)	9000029	Dispositivos destinados a serem implantados/colocados em um vaso anatômico obstruído, que não seja um vaso sanguíneo, para manter a desobstrução do lúmen.	Equipamento ou Material	-
+STENT PANCREÁTICO	9000024	Dispositivo destinado a ser implantado em um duto pancreático obstruído para manter a desobstrução do lúmen. 	Equipamento ou Material	-
+STENT PARA ARTÉRIAS CORONÁRIAS	9000030	Dispositivos destinados a serem implantados numa artéria coronária obstruída, ou enxerto vascular coronário, para manter a desobstrução do lúmen e facilitar o adequado fluxo sanguíneo do miocárdio.	Equipamento ou Material	-
+STENT PARA ARTÉRIAS PERIFÉRICAS	9000031	Dispositivos destinados a serem implantados numa artéria periférica obstruída para manter a desobstrução do lúmen e facilitar o adequado fluxo sanguíneo.	Equipamento ou Material	-
+STENT URINÁRIO	9000025	Dispositivo destinado a ser implantado em um ureter ou uretra obstruídos para manter a desobstrução do lúmen.	Equipamento ou Material	-
+STENT VAGINAL	9000026	Dispositivo concebido para ser colocado na vagina para fornecer suporte para desobstrução do lúmen e/ou para prevenir o encolhimento vaginal.	Equipamento ou Material	-
+STENT VASCULAR INTRACRANIANO	9000063	Dispositivos destinados a serem implantados numa artéria intracranial para aumentar a desobstrução do lúmen e facilitar a intervenção em um aneurisma.	Equipamento ou Material	-
+STENT VENOSO PERIFÉRICO	2701353		Equipamento ou Material	-
+Subst.P/Tratamento Hipersensibilidade Dentinaria	2101034		Equipamento ou Material	-
+Suctor de Saliva	2101360		Equipamento ou Material	-
+Suctor Odontológico com Coletor Ósseo	2101363		Equipamento ou Material	-
+Suctor Odontologico de Sangue	2101361		Equipamento ou Material	-
+Suporte de Posicionamento	1551425		Equipamento ou Material	-
+Suporte para apoio de limas endodônticas 	2101187		Equipamento ou Material	-
+Suporte Para Equipamento	1591035		Equipamento ou Material	-
+Suporte para Imobilizacao de Paciente	1391190		Equipamento ou Material	-
+Suporte Para Soro	2501703		Equipamento ou Material	-
+Suportes de Fixacao	1551420		Equipamento ou Material	-
+Suspensor de Bexiga	2501615		Equipamento ou Material	-
+Suspensorios (escrotal, herniano e outros)	2501600		Equipamento ou Material	-
+Sutura Endoscópica	2502059		Equipamento ou Material	-
+Suturador Vascular	1551385		Equipamento ou Material	-
+Tablado para Fisioterapia	1771123		Equipamento ou Material	-
+Tacas de Borracha Para Profilaxia - Po	2101370		Equipamento ou Material	-
+Talas	2501690		Equipamento ou Material	-
+Talco	2509002		Equipamento ou Material	-
+Tampa de Cicatrização	2502007		Equipamento ou Material	-
+Tampa Seladora Luer	2501635		Equipamento ou Material	-
+Tampão	2502011		Equipamento ou Material	-
+TECIDO COM PROPRIEDADE TÉRMICA	2809064		Equipamento ou Material	-
+Tecido Não Tecido	2501691		Equipamento ou Material	-
+Tela Adesiva	2502060		Equipamento ou Material	-
+Tela Intensificadora de Raio-X	2501820		Equipamento ou Material	-
+Telas	2701340		Equipamento ou Material	-
+Tenda de Oxigenio	1531170		Equipamento ou Material	-
+Terapia	1530000		Equipamento ou Material	-
+Termocauterio	1551070		Equipamento ou Material	-
+Termometro Auricular	1511395		Equipamento ou Material	-
+Termometro Clinico	1511400		Equipamento ou Material	-
+TERMÔMETRO DESCARTÁVEL	1511396		Equipamento ou Material	-
+Termometro Digital	1511401		Equipamento ou Material	-
+TERMOMETRO DIGITAL POR INFRAVERMELHO	1511403		Equipamento ou Material	-
+Termometro Retal	1511475		Equipamento ou Material	-
+Tesoura Operatoria Odontologica	1151014		Equipamento ou Material	-
+Tesoura para Microcirurgia	1551432		Equipamento ou Material	-
+Tesouras	1551430		Equipamento ou Material	-
+Tesouras Endoscopicas	1551417		Equipamento ou Material	-
+Testador de Polpa Dentaria	1111020	 	Equipamento ou Material	-
+Timpanometro	1511155		Equipamento ou Material	-
+Tipoia	2501680		Equipamento ou Material	-
+Tira Odontologica de Poliester	2101386		Equipamento ou Material	-
+Tiras	2501601		Equipamento ou Material	-
+Tomógrafo de Coerência Óptica	1311091		Equipamento ou Material	-
+Tonometro	1511670		Equipamento ou Material	-
+Torneiras	2501611		Equipamento ou Material	-
+Torniquete	2501612		Equipamento ou Material	-
+Torniquete Eletrônico	1171043		Equipamento ou Material	-
+Torno Expansor de Dilatacao/Tracao	2101335		Equipamento ou Material	-
+Torquímetro	1151054		Equipamento ou Material	-
+TORQUÍMETRO DIGITAL ODONTOLÓGICO	1151017		Equipamento ou Material	-
+Transdutor de ponta de cateter, pressão	9000148	Um dispositivo destinado a ser incorporado na extremidade distal de um cateter (não incluído) para medir a pressão. Normalmente consiste em um sensor de pressão (por exemplo, uma membrana flexível ou diafragma) e um meio para converter a pressão detectada em sinais eletrônicos ou possivelmente sinais ultrassônicos que são transmitidos por meio de um cabo ou sem fio para um dispositivo externo (por exemplo, um manômetro) que processa os sinais e exibe os resultados. É usado para medição invasiva de pressão em locais como a vasculatura central e / ou periférica, crânio, útero (normalmente durante o trabalho de parto), pleura e também na bexiga / uretra (por exemplo, durante testes urodinâmicos). Este é um dispositivo descartável.	Equipamento ou Material	-
+TRANSDUTOR DE PRESSAO SANGUINEA, DE USO UNICO	9000108	Um dispositivo eletronico esteril e nao invasivo destinado a converter a pressao em sinais eletricos para a medicao invasiva da pressao sanguinea. E uma pequena carcaca destinada a ser conectada a um ou mais dispositivos de acesso vascular invasivo [por exemplo, agulha, cateter] e inclui um display ou e destinado a ser conectado a um sistema independente de monitoramento de pacientes; pode incluir uma porta de acesso do fio-guia. Este e um dispositivo de uso unico. 	Equipamento ou Material	-
+Transdutor para sistema de ecografia intravascular, de uso único	9000135	Transdutor de ecografia sob a forma de cateter, contido numa estrutura impermeável com isolamento acústico e eléctrico, concebido para ser inserido no sistema vascular (veia ou artéria) e posicionado pelo profissional de saúde. Também denominado sonda ou transdutor vascular, é frequentemente incorporado como parte de dispositivos que requerem orientação e colocação por ultra-sons, p. ex. equipamento endoscópico ou equipamento para biopsia com agulha, ou utilizado em conjunto com esses dispositivos. É composto por um único elemento de transdução ou por um conjunto de elementos de transdução [ou seja elemento(s) piezoeléctrico(s), elemento(s) activo(s) ou cristal(ais) e respectivos materiais para camadas de amortecimento, retaguarda e compatibilização]. Trata-se de um dispositivo de uso único.	Equipamento ou Material	-
+Transdutores	2501125		Equipamento ou Material	-
+Transferente de Moldagem	2101407		Equipamento ou Material	-
+TRANSFORMADOR PARA ENDOSCOPIA	2501026		Equipamento ou Material	-
+TRANSMISSOR PARA SISTEMA IMPLANTÁVEL DE MONITORAMENTO DA GLICOSE	9000102	Componente de um sistema implantável de monitoramento da glicose, usado no corpo, alimentado a bateria, concebido para transmitir sem fios, continuamente , as medições do nível de glicose a partir do sensor implantado para um receptor (por exemplo, um dispositivo móvel). Este é um dispositivo reutilizável.	Equipamento ou Material	-
+Transmissor/Receptor para Aparelhos Auditivos	1531048		Equipamento ou Material	-
+Trepano	1551440		Equipamento ou Material	-
+Tricotomizador Cirúrgico	1551445		Equipamento ou Material	-
+Trocartes	1551450		Equipamento ou Material	-
+Tubo Aspirador de Fluidos Fisiologicos 	2501131		Equipamento ou Material	-
+Tubo de Ventilacao Timpanica	2501355		Equipamento ou Material	-
+Tubo Endobronquial	2501144		Equipamento ou Material	-
+Tubo Laringeo	2501890		Equipamento ou Material	-
+Tubo Para Circulacao Extracorporea	2501120		Equipamento ou Material	-
+Tubo para Coleta de Sangue a Vacuo	2501332		Equipamento ou Material	-
+tubo para hipospádia	2501197		Equipamento ou Material	-
+Tubo Para Raios X	1391330		Equipamento ou Material	-
+TUBO PARA VACUO, DE USO UNICO	9000109	Dispositivo cilindrico flexivel e esteril utilizado como linha de conexao entre uma fonte de vacuo e um dispositivo, equipamento ou sistema medico que depende da aspiracao para funcionar. Geralmente, e feito de um material plastico maleavel ou de silicone e possui uma parede espessa para impedir o colapso devido a pressao negativa do vacuo; esta disponivel em diversos comprimentos, incluindo em bobinas com comprimentos padronizados. Este dispositivo e utilizado quando sao necessarias condicoes de esterilidade, p. ex., para um sistema de transfusao autologa de sangue. Trata-se de um dispositivo de uso unico. 	Equipamento ou Material	-
+Tubo Traqueal	2501130		Equipamento ou Material	-
+Tubos	2501610		Equipamento ou Material	-
+TUBOS ORTODONTICOS	1591046		Equipamento ou Material	-
+Tunelizador	2501645		Equipamento ou Material	-
+Turbina de Alta Rotacao	1171296		Equipamento ou Material	-
+Ultrassom Odontológico	1151010		Equipamento ou Material	-
+Umidificador	1571180		Equipamento ou Material	-
+Umidificador para Terapia Intensiva	1539910		Equipamento ou Material	-
+Umidificante Oral	2101404		Equipamento ou Material	-
+Unidade Cirurgica Criogenica	1551470		Equipamento ou Material	-
+Unidade de Água Odontológica	1171121		Equipamento ou Material	-
+Unidade de analgesia criogenica	9000159	Dispositivo utilizado para fornecer analgesia (alÃ­vio da dor) atravÃ©s da aplicaÃ§Ã£o de temperaturas extremamente baixas (de congelaÃ§Ã£o) a tecidos corporais. O dispositivo consiste num criostato e numa sonda de arrefecimento e, eventualmente, num estimulador para bloqueios de nervos perifÃ©ricos (neuroestimulador). Este dispositivo incorporarÃ¡ algum mÃ©todo de protecÃ§Ã£o do tecido, no qual estÃ¡ a ser aplicado, contra lesÃµes permanentes (p. ex. ciclos de congelaÃ§Ã£o-descongelaÃ§Ã£o). A analgesia criogÃ©nica resulta num bloqueio nervoso perifÃ©rico reversÃ­vel, apesar de prolongado (semanas/meses), sendo utilizada para alÃ­vio da dor pÃ³s-operatÃ³ria e crÃ³nica intratÃ¡vel. 	Equipamento ou Material	-
+Unidade de controle do sistema de trombólise por ultrassom	9000144	Um dispositivo movido a eletricidade projetado para gerar ultrassom de alta frequência e baixa energia para administração intravascular para ajudar a interromper o sangue coagulado (ou seja, um trombo ou tromboembolus). É projetado para ser usado com um cateter de infusão dedicado para administração de drogas trombolíticas. O ultrassom destina-se a preparar o coágulo, desenrolando os fios de fibrina, permitindo, portanto, o aumento da permeação do fármaco através do coágulo até a parede do vaso. Normalmente consiste em uma interface de usuário, transdutor piezoelétrico e uma ou mais baterias recarregáveis ¿¿para uso independente / móvel. Este é um dispositivo reutilizável.	Equipamento ou Material	-
+Unidade de Controle/Motor para Acionamento de Cateter	1551076		Equipamento ou Material	-
+Unidade de Terapia de Fechamento a Vacuo	1531165		Equipamento ou Material	-
+Unidade de Vitrectomia	1551655		Equipamento ou Material	-
+Unidade Eletrocirurgica para Corte e Coagulacao	1551461		Equipamento ou Material	-
+Unidade Oftalmologica	1511305		Equipamento ou Material	-
+Unidade Para Exames Otorrinolaringologicos	1511320		Equipamento ou Material	-
+Unidade Portátil para Oxigenação	2501509		Equipamento ou Material	-
+Unidade Teste do Campo Visual e Teste de Esforco	1511575		Equipamento ou Material	-
+Ureteroscópio	1511656		Equipamento ou Material	-
+Valvula Cardiaca	2701320		Equipamento ou Material	-
+Valvula de Doyen	1551460		Equipamento ou Material	-
+Valvula de Fala	2501225		Equipamento ou Material	-
+Valvula Hemostatica	2501721		Equipamento ou Material	-
+Valvula Para Gases Medicinais	1599010		Equipamento ou Material	-
+Valvula Para Hidrocefalia	2701310		Equipamento ou Material	-
+Valvulas e Conectores de Tubos	2501566		Equipamento ou Material	-
+Valvulas Implantaveis	2701325		Equipamento ou Material	-
+Valvulotomo	1551580		Equipamento ou Material	-
+Vaporizador	1579900		Equipamento ou Material	-
+Vaporizador Para Estetica	2809055		Equipamento ou Material	-
+Ventilador de uso contínuo para suporte ventilatório mínimo	1531149		Equipamento ou Material	-
+Ventilador Manual	1531200		Equipamento ou Material	-
+Ventilador Pressao e Volume	1531190		Equipamento ou Material	-
+Ventilador Pulmonar a Pressao	1531151		Equipamento ou Material	-
+Ventilador Pulmonar de Transporte e Emergência	1531192	Ventiladores pulmonares portáteis concebidos para serem utilizados em situações de emergência e transporte. Muitas vezes instalados em ambulâncias ou outros tipos de veículos de emergência, todavia são frequentemente utilizados fora deste ambiente, devendo ser transportado pelo operador ou outras pessoas. Ventilador destinado à ventilação de emergência e à reanimação, usado principalmente fora de instalações hospitalares. Pode ser utilizado para uso durante o transporte para, entre ou dentro de instalações hospitalares.	Equipamento ou Material	-
+VENTILADOR PULMONAR MECANICO PNEUMATICO	1531191		Equipamento ou Material	-
+Verniz Fluoretado	2101490		Equipamento ou Material	-
+Vernizes Odontologicos	2101390		Equipamento ou Material	-
+Vestimenta Cirurgica	2501140		Equipamento ou Material	-
+Vestimenta Hospitalar	2501143		Equipamento ou Material	-
+Vibrador de cânulas de lipoaspiração	1551116		Equipamento ou Material	-
+Vibrador Odontologico	1151030		Equipamento ou Material	-
+Video Colposcopio	1511059		Equipamento ou Material	-
